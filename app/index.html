@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Parcours de visite — Louvre</title>
+<title>Parcours de visite</title>
 <style>
   :root {
     --gold: #b9975a;
@@ -26,21 +26,170 @@
     text-align: center;
     border-bottom: 1px solid var(--line);
   }
-  header h1 {
-    margin: 0;
-    font-size: 1.7rem;
-    letter-spacing: 0.02em;
-  }
+  header h1 { margin: 0; font-size: 1.7rem; letter-spacing: 0.02em; }
   header .sub {
     color: var(--muted);
     font-size: 0.9rem;
     margin-top: 0.35rem;
     font-family: -apple-system, sans-serif;
   }
-  main {
-    max-width: 760px;
-    margin: 0 auto;
-    padding: 1.2rem;
+  main { max-width: 760px; margin: 0 auto; padding: 1.2rem; }
+
+  /* --- Choix du musée --- */
+  #museum-view .museum-card {
+    display: block;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 1.4rem;
+    text-decoration: none;
+    color: var(--ink);
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  }
+  #museum-view .museum-card:hover {
+    border-color: var(--gold);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(28, 26, 23, 0.08);
+  }
+  #museum-view .museum-card .museum-img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    background: var(--paper-dim);
+  }
+  #museum-view .museum-card .museum-body { padding: 1.3rem 1.5rem 1.5rem; }
+  #museum-view .museum-card h3 { margin: 0 0 0.4rem; font-size: 1.5rem; }
+  #museum-view .museum-card .count {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  /* --- Recherche et onglets --- */
+  .search-wrap { margin-bottom: 0.9rem; }
+  .search-input {
+    width: 100%;
+    font-family: -apple-system, sans-serif;
+    font-size: 1rem;
+    padding: 0.7rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    background: white;
+    color: var(--ink);
+    outline: none;
+    -webkit-appearance: none;
+  }
+  .search-input:focus { border-color: var(--gold); }
+  .tabs {
+    display: flex;
+    gap: 0.4rem;
+    margin-bottom: 1.2rem;
+    font-family: -apple-system, sans-serif;
+  }
+  .tabs.hidden { display: none; }
+  .tab-btn {
+    font-size: 0.85rem;
+    background: white;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    border-radius: 20px;
+    padding: 0.4rem 0.9rem;
+    cursor: pointer;
+  }
+  .tab-btn.active { background: var(--gold); border-color: var(--gold); color: white; }
+  .result-section {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 1.2rem 0 0.5rem;
+  }
+  .result {
+    display: flex;
+    gap: 0.9rem;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0.8rem;
+    margin-bottom: 0.7rem;
+  }
+  .result .oeuvre-img { flex: 0 0 72px; width: 72px; height: 72px; }
+  .result h3 { margin: 0 0 0.1rem; font-size: 1rem; line-height: 1.3; }
+  .result-loc {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.76rem;
+    color: var(--gold-dark);
+    margin: 0.15rem 0 0.2rem;
+  }
+
+  /* --- Vue par salle --- */
+  #list-view .room-card {
+    display: block;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 1rem 1.3rem;
+    margin-bottom: 0.7rem;
+    text-decoration: none;
+    color: var(--ink);
+    cursor: pointer;
+  }
+  #list-view .room-card:hover { border-color: var(--gold); }
+  #list-view .room-card .room-name {
+    font-family: -apple-system, sans-serif;
+    font-weight: 600;
+    color: var(--gold-dark);
+    font-size: 0.98rem;
+  }
+  #list-view .room-card .room-count {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.2rem;
+  }
+  .room-parcours {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-top: 0.55rem;
+  }
+  .room-parcours span {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.72rem;
+    background: var(--paper-dim);
+    border: 1px solid var(--line);
+    color: var(--gold-dark);
+    border-radius: 20px;
+    padding: 0.15rem 0.6rem;
+  }
+  .room-oeuvre-parcours {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.78rem;
+    color: var(--gold-dark);
+    display: block;
+    margin-top: 0.3rem;
+    cursor: pointer;
+  }
+  .room-oeuvre-parcours:hover { text-decoration: underline; }
+  .aile-title {
+    font-size: 1.15rem;
+    margin: 1.8rem 0 0.2rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--gold);
+  }
+  .niveau-title {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 1rem 0 0.5rem;
   }
 
   /* --- Liste des parcours --- */
@@ -81,12 +230,7 @@
     margin-bottom: 1rem;
     font-family: -apple-system, sans-serif;
   }
-  .back-link {
-    font-size: 0.85rem;
-    color: var(--gold-dark);
-    text-decoration: none;
-    cursor: pointer;
-  }
+  .back-link { font-size: 0.85rem; color: var(--gold-dark); text-decoration: none; cursor: pointer; }
   .back-link:hover { text-decoration: underline; }
   .print-btn {
     font-family: -apple-system, sans-serif;
@@ -101,28 +245,77 @@
   .print-btn:hover { background: var(--gold-dark); }
 
   .parcours-title { font-size: 1.5rem; margin: 0 0 0.5rem; line-height: 1.35; }
-  .parcours-fil {
-    font-size: 1rem;
-    color: #4a463f;
-    margin-bottom: 0.7rem;
-    font-style: italic;
-  }
+  .parcours-fil { font-size: 1rem; color: #4a463f; margin-bottom: 0.7rem; font-style: italic; }
   .parcours-meta {
     font-family: -apple-system, sans-serif;
     color: var(--muted);
     font-size: 0.8rem;
-    margin-bottom: 1.8rem;
+    margin-bottom: 1.1rem;
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem 0.9rem;
   }
 
-  .salle-step { margin-bottom: 1.8rem; }
+  /* Plan de route */
+  .route { margin-bottom: 1rem; }
+  .route-title, .progress-text {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .route-chips { display: flex; flex-wrap: wrap; gap: 0.5rem 0.2rem; margin-top: 0.5rem; align-items: center; }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    padding: 0.3rem 0.8rem 0.3rem 0.35rem;
+    cursor: pointer;
+    font-family: -apple-system, sans-serif;
+  }
+  .chip:hover { border-color: var(--gold); }
+  .chip-num {
+    flex: 0 0 auto;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    background: var(--gold);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+  .chip-txt { display: flex; flex-direction: column; line-height: 1.15; }
+  .chip-txt b { font-size: 0.82rem; color: var(--ink); }
+  .chip-txt small { font-size: 0.68rem; color: var(--muted); }
+  .chip.done { background: #f3ede0; }
+  .chip.done .chip-num { background: #6f8f5b; }
+  .chip.done .chip-num::before { content: '\2713'; }
+  .chip.done .chip-num span { display: none; }
+  .chip-sep { color: var(--gold); padding: 0 0.15rem; font-family: -apple-system, sans-serif; }
+
+  /* Progression */
+  .progress { margin-bottom: 1.4rem; }
+  .progress-bar { height: 6px; background: var(--paper-dim); border-radius: 6px; overflow: hidden; margin: 0.45rem 0 0.4rem; }
+  .progress-bar span { display: block; height: 100%; width: 0; background: var(--gold); transition: width 0.25s; }
+  .progress-row { display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+  .progress-actions { display: flex; gap: 0.9rem; font-family: -apple-system, sans-serif; font-size: 0.76rem; }
+  .progress-actions a { color: var(--gold-dark); cursor: pointer; }
+  .progress-actions a:hover { text-decoration: underline; }
+
+  .salle-step { margin-bottom: 1.8rem; scroll-margin-top: 0.8rem; }
   .salle-header {
     display: flex;
     align-items: baseline;
     gap: 0.6rem;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.4rem;
     padding-bottom: 0.4rem;
     border-bottom: 2px solid var(--gold);
   }
@@ -147,12 +340,16 @@
     color: var(--gold-dark);
   }
 
-  .oeuvre {
-    display: flex;
-    gap: 1rem;
-    padding: 0.9rem 0 0.9rem 2.5rem;
-  }
+  /* Œuvres (repliables) */
+  .oeuvre { padding: 0.8rem 0 0.8rem 2.5rem; scroll-margin-top: 0.8rem; }
   .oeuvre + .oeuvre { border-top: 1px dashed var(--line); }
+  .oeuvre-head { display: flex; align-items: flex-start; gap: 1rem; }
+  details.oeuvre > summary {
+    list-style: none;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  details.oeuvre > summary::-webkit-details-marker { display: none; }
   .oeuvre-img {
     flex: 0 0 96px;
     width: 96px;
@@ -161,21 +358,60 @@
     border-radius: 6px;
     background: var(--paper-dim);
     border: 1px solid var(--line);
+    cursor: zoom-in;
   }
   .oeuvre-body { flex: 1; min-width: 0; }
   .oeuvre-body h3 { margin: 0 0 0.15rem; font-size: 1.05rem; line-height: 1.35; }
-  .oeuvre-body .artist {
-    font-style: italic;
-    color: var(--muted);
-    font-size: 0.92rem;
-    margin-bottom: 0.5rem;
-  }
-  .oeuvre-body .note {
+  .oeuvre-body .artist { font-style: italic; color: var(--muted); font-size: 0.92rem; margin-bottom: 0.3rem; }
+  .oeuvre-side { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; flex: 0 0 auto; }
+  .vu-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.15rem;
+    background: none;
+    border: none;
+    padding: 0.2rem;
+    cursor: pointer;
     font-family: -apple-system, sans-serif;
-    font-size: 0.92rem;
-    line-height: 1.55;
-    color: #4a463f;
+    color: var(--muted);
   }
+  .vu-box {
+    width: 1.9rem;
+    height: 1.9rem;
+    border-radius: 50%;
+    border: 2px solid var(--line);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    font-size: 1rem;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .vu-label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; }
+  .vu-btn.on .vu-box { background: #6f8f5b; border-color: #6f8f5b; color: white; }
+  .vu-btn.on { color: #6f8f5b; }
+  .chev { color: var(--gold); font-size: 0.9rem; transition: transform 0.2s; font-family: -apple-system, sans-serif; }
+  details[open] > summary .chev { transform: rotate(180deg); }
+  .oeuvre-note { padding-top: 0.6rem; }
+  .oeuvre-note .note {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.93rem;
+    line-height: 1.5;
+    color: #3b3730;
+  }
+  .note h4 {
+    margin: 0.9rem 0 0.25rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gold-dark);
+  }
+  .note h4:first-child { margin-top: 0.2rem; }
+  .note ul { margin: 0; padding-left: 1.15rem; }
+  .note li { margin: 0.3rem 0; }
+  .note li::marker { color: var(--gold); }
   a.notice-link {
     font-family: -apple-system, sans-serif;
     font-size: 0.76rem;
@@ -183,13 +419,56 @@
     display: inline-block;
     margin-top: 0.4rem;
   }
+  @media (max-width: 600px) {
+    .oeuvre { padding-left: 0; }
+    .oeuvre-img { flex-basis: 80px; width: 80px; height: 80px; }
+    .oeuvre-head { gap: 0.8rem; }
+  }
+
+  /* Agrandissement d'image */
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(12, 11, 9, 0.94);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    z-index: 100;
+    cursor: zoom-out;
+  }
+  .lightbox.open { display: flex; }
+  .lightbox img { max-width: 100%; max-height: 80vh; object-fit: contain; border-radius: 4px; }
+  .lb-cap {
+    color: #e9e2d3;
+    font-family: -apple-system, sans-serif;
+    font-size: 0.85rem;
+    text-align: center;
+    margin-top: 0.8rem;
+    max-width: 90vw;
+    line-height: 1.4;
+  }
+  .lb-close {
+    position: absolute;
+    top: 0.6rem;
+    right: 0.9rem;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+  }
 
   @media print {
-    header, .toolbar, .back-link, .print-btn { display: none !important; }
+    header, .toolbar, .back-link, .print-btn, #museum-view, .route, .progress, .vu-btn, .chev,
+    .search-wrap, .tabs, .lightbox { display: none !important; }
     body { background: white; }
     main { max-width: 100%; padding: 0; }
-    .salle-step { break-inside: avoid; margin-bottom: 1.2rem; }
-    .oeuvre { break-inside: avoid; }
+    .salle-step { margin-bottom: 1.2rem; }
+    .oeuvre { break-inside: avoid; padding-left: 0; }
+    .oeuvre-img { cursor: default; }
     a.notice-link { color: var(--ink); }
   }
 </style>
@@ -197,122 +476,494 @@
 <body>
 <header>
   <h1>Parcours de visite</h1>
-  <div class="sub">Mini parcours au Louvre générés à partir de vos cours d'histoire de l'art</div>
+  <div class="sub">Mini parcours de musée générés à partir de vos cours d'histoire de l'art</div>
 </header>
 <main>
+  <div id="museum-view"></div>
   <div id="list-view"></div>
   <div id="detail-view"></div>
 </main>
 
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <button class="lb-close" aria-label="Fermer">&times;</button>
+  <img id="lb-img" alt="">
+  <div id="lb-cap" class="lb-cap"></div>
+</div>
+
 <script src="../data/app-data.js"></script>
 <script>
+let currentMuseeId = null;
+let currentListMode = 'cours';
+let currentQuery = '';
+
+/* ---------- Utilitaires ---------- */
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => (
+  { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+const norm = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '')
+  .replace(/œ/g, 'oe').replace(/æ/g, 'ae').toLowerCase();
+
+function inlineMd(t) {
+  return esc(t).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+
+function shortTitle(p) {
+  return (p.titre || '').replace(/^(\s*\[[^\]]*\]\s*)+/, '');
+}
+
+function shortAile(a) { return (a || '').replace(/^Aile\s+/i, ''); }
+function shortNiveau(n) { return (n || '').replace(/^Niveau\s+/i, 'Niv. '); }
+
 function locationLabel(o) {
-  const parts = [o.salle, o.aile, o.niveau].filter(Boolean);
-  return parts.length ? parts.join(' · ') : 'Emplacement non renseigné';
+  if (!o.salle) return o.emplacement_note || 'Salle à confirmer';
+  return [o.aile, o.niveau, o.salle].filter(Boolean).join(' · ');
 }
 
 function sameRoom(a, b) {
-  return a && b && a.salle === b.salle && a.aile === b.aile && a.niveau === b.niveau;
+  return a && b && a.salle && b.salle && a.salle === b.salle && a.aile === b.aile && a.niveau === b.niveau;
 }
 
-function renderList() {
-  const listView = document.getElementById('list-view');
-  const detailView = document.getElementById('detail-view');
-  detailView.style.display = 'none';
-  listView.style.display = 'block';
+// Période couverte par un parcours, lue dans son titre : « [1592-1640] ».
+function periodeParcours(p) {
+  const m = /\[(\d{3,4})\s*-\s*(\d{3,4})\]/.exec(p.titre || '');
+  return m ? [parseInt(m[1], 10), parseInt(m[2], 10)] : [Infinity, Infinity];
+}
 
+function numOf(s) {
+  const m = /-?\d+/.exec(s || '');
+  return m ? parseInt(m[0], 10) : Infinity;
+}
+
+function oeuvresById() {
+  return Object.fromEntries((window.OEUVRES || []).map(o => [o.id, o]));
+}
+
+/* ---------- Œuvres vues (mémorisées sur cet appareil) ---------- */
+const VU_KEY = 'parcours_vu_v1';
+function loadVu() {
+  try { return JSON.parse(localStorage.getItem(VU_KEY)) || {}; } catch (e) { return {}; }
+}
+let vuData = loadVu();
+function saveVu() {
+  try { localStorage.setItem(VU_KEY, JSON.stringify(vuData)); } catch (e) { /* stockage indisponible : on garde en mémoire */ }
+}
+function isVu(pid, oid) { return !!(vuData[pid] && vuData[pid][oid]); }
+function countVu(p) { return p.etapes.filter(e => isVu(p.id, e.oeuvre_id)).length; }
+
+function onVuClick(ev, pid, oid) {
+  ev.preventDefault();
+  ev.stopPropagation();
+  vuData[pid] = vuData[pid] || {};
+  if (vuData[pid][oid]) delete vuData[pid][oid]; else vuData[pid][oid] = true;
+  saveVu();
+  refreshProgress(pid);
+}
+
+function resetVu(pid) {
+  delete vuData[pid];
+  saveVu();
+  refreshProgress(pid);
+}
+
+function refreshProgress(pid) {
+  const p = (window.PARCOURS || []).find(x => x.id === pid);
+  if (!p) return;
+  const n = countVu(p), total = p.etapes.length;
+  document.querySelectorAll('#detail-view .vu-btn').forEach(b => {
+    const on = isVu(pid, b.dataset.oid);
+    b.classList.toggle('on', on);
+    b.setAttribute('aria-pressed', on ? 'true' : 'false');
+  });
+  document.querySelectorAll('#detail-view .chip').forEach(c => {
+    const oids = (c.dataset.oids || '').split(',').filter(Boolean);
+    c.classList.toggle('done', oids.length > 0 && oids.every(o => isVu(pid, o)));
+  });
+  const txt = document.getElementById('progress-text');
+  const bar = document.getElementById('progress-fill');
+  if (txt) txt.textContent = `${n} sur ${total} vue${total > 1 ? 's' : ''}`;
+  if (bar) bar.style.width = (total ? (100 * n / total) : 0) + '%';
+}
+
+/* ---------- Agrandissement d'image ---------- */
+function openLightbox(ev, el) {
+  ev.preventDefault();
+  ev.stopPropagation();
+  const small = el.getAttribute('src');
+  const full = small.replace('/cache/small/', '/cache/large/');
+  const img = document.getElementById('lb-img');
+  img.onerror = () => { img.onerror = null; img.src = small; };
+  img.src = full;
+  img.alt = el.getAttribute('alt') || '';
+  document.getElementById('lb-cap').textContent =
+    [el.dataset.titre, el.dataset.artiste].filter(Boolean).join(' — ');
+  document.getElementById('lightbox').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('open');
+  document.getElementById('lb-img').removeAttribute('src');
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+
+function imgTag(o, cls) {
+  if (!o.image) return `<div class="oeuvre-img"></div>`;
+  return `<img class="${cls || 'oeuvre-img'}" src="${esc(o.image)}" alt="${esc(o.titre)}" ` +
+    `data-titre="${esc(o.titre)}" data-artiste="${esc(o.artiste)}" onclick="openLightbox(event, this)">`;
+}
+
+/* ---------- Écran 1 : choix du musée ---------- */
+function showView(name) {
+  document.getElementById('museum-view').style.display = name === 'museum' ? 'block' : 'none';
+  document.getElementById('list-view').style.display = name === 'list' ? 'block' : 'none';
+  document.getElementById('detail-view').style.display = name === 'detail' ? 'block' : 'none';
+}
+
+function renderMuseums() {
+  showView('museum');
+  const museums = (window.MUSEES || []).filter(m => m.actif);
+  const parcoursList = window.PARCOURS || [];
+  document.getElementById('museum-view').innerHTML = museums.map(m => {
+    const count = parcoursList.filter(p => p.musee_id === m.id).length;
+    const img = m.image ? `<img class="museum-img" src="${esc(m.image)}" alt="${esc(m.nom)}">` : '';
+    return `
+      <a class="museum-card" onclick="renderList('${m.id}', 'cours')">
+        ${img}
+        <div class="museum-body">
+          <h3>${esc(m.nom)}</h3>
+          <div class="count">${count} parcours disponible${count > 1 ? 's' : ''}</div>
+        </div>
+      </a>`;
+  }).join('');
+}
+
+/* ---------- Écran 2 : liste (par cours / par salle / recherche) ---------- */
+function renderList(museeId, mode) {
+  currentMuseeId = museeId;
+  currentListMode = mode || currentListMode || 'cours';
+  currentQuery = '';
+  showView('list');
+  const musee = (window.MUSEES || []).find(m => m.id === museeId);
+  document.getElementById('list-view').innerHTML = `
+    <div class="toolbar">
+      <a class="back-link" onclick="renderMuseums()">&larr; Choisir un autre musée</a>
+    </div>
+    <div class="parcours-title">${esc(musee ? musee.nom : '')}</div>
+    <div class="search-wrap">
+      <input id="search" class="search-input" type="search" placeholder="Rechercher une œuvre ou un artiste…"
+             autocomplete="off" oninput="onSearch(this.value)">
+    </div>
+    <div id="tabs" class="tabs">
+      <button class="tab-btn ${currentListMode === 'cours' ? 'active' : ''}" onclick="renderList('${museeId}', 'cours')">Par cours</button>
+      <button class="tab-btn ${currentListMode === 'salle' ? 'active' : ''}" onclick="renderList('${museeId}', 'salle')">Par salle</button>
+    </div>
+    <div id="list-content">${currentListMode === 'salle' ? roomsListHtml(museeId) : coursesListHtml(museeId)}</div>`;
+}
+
+function onSearch(q) {
+  currentQuery = q;
+  const content = document.getElementById('list-content');
+  const tabs = document.getElementById('tabs');
+  if (!content) return;
+  const active = q.trim().length > 0;
+  tabs.classList.toggle('hidden', active);
+  content.innerHTML = active
+    ? searchResultsHtml(currentMuseeId, q)
+    : (currentListMode === 'salle' ? roomsListHtml(currentMuseeId) : coursesListHtml(currentMuseeId));
+}
+
+function searchResultsHtml(museeId, q) {
+  const tokens = norm(q).split(/\s+/).filter(Boolean);
+  const matches = txt => { const h = norm(txt); return tokens.every(t => h.includes(t)); };
+  const parcoursList = (window.PARCOURS || []).filter(p => p.musee_id === museeId);
+  const oeuvres = (window.OEUVRES || []).filter(o => o.musee_id === museeId
+    && matches([o.titre, o.artiste, o.dates].join(' ')));
+  const parcoursHits = parcoursList.filter(p => matches([shortTitle(p), p.fil_conducteur].join(' ')));
+
+  if (!oeuvres.length && !parcoursHits.length) {
+    return `<div class="empty">Aucun résultat pour « ${esc(q.trim())} ».</div>`;
+  }
+
+  let html = '';
+  if (oeuvres.length) {
+    html += `<div class="result-section">Œuvres (${oeuvres.length})</div>`;
+    html += oeuvres.map(o => {
+      const inP = parcoursList.filter(p => p.etapes.some(e => e.oeuvre_id === o.id));
+      const links = inP.map(p => `
+        <a class="room-oeuvre-parcours" onclick="openParcours('${p.id}', '${o.id}')">Voir dans « ${esc(shortTitle(p))} » &rarr;</a>`).join('');
+      return `
+        <div class="result">
+          ${imgTag(o)}
+          <div class="oeuvre-body">
+            <h3>${esc(o.titre)}</h3>
+            <div class="artist">${esc(o.artiste)}${o.dates ? ' — ' + esc(o.dates) : ''}</div>
+            <div class="result-loc">${esc(locationLabel(o))}</div>
+            ${links}
+          </div>
+        </div>`;
+    }).join('');
+  }
+  if (parcoursHits.length) {
+    html += `<div class="result-section">Parcours (${parcoursHits.length})</div>`;
+    html += parcoursHits.map(parcoursCardHtml).join('');
+  }
+  return html;
+}
+
+function parcoursCardHtml(p) {
+  const n = countVu(p);
+  const vus = n ? ` · ${n}/${p.etapes.length} vues` : '';
+  return `
+    <a class="card" onclick="openParcours('${p.id}')">
+      <h3>${esc(p.titre)}</h3>
+      <div class="fil">${esc(p.fil_conducteur || '')}</div>
+      <div class="meta">${esc(p.date_creation || '')} · ${p.etapes.length} œuvres · ${esc(p.duree_estimee || '')}${vus}</div>
+    </a>`;
+}
+
+function coursesListHtml(museeId) {
   const parcoursList = (window.PARCOURS || [])
-    .slice()
-    .sort((a, b) => (b.date_creation || '').localeCompare(a.date_creation || ''));
-
+    .filter(p => p.musee_id === museeId)
+    .sort((a, b) => {
+      const [a0, a1] = periodeParcours(a), [b0, b1] = periodeParcours(b);
+      return (a0 - b0) || (a1 - b1) || (a.titre || '').localeCompare(b.titre || '');
+    });
   if (!parcoursList.length) {
-    listView.innerHTML = `
+    return `
       <div class="empty">
-        Aucun parcours pour l'instant.<br>
+        Aucun parcours pour l'instant dans ce musée.<br>
         Donnez le texte d'un de vos cours à Claude dans ce projet et demandez-lui
         de générer un parcours — il apparaîtra ici.
       </div>`;
-    return;
   }
-
-  listView.innerHTML = parcoursList.map(p => `
-    <a class="card" onclick="openParcours('${p.id}')">
-      <h3>${p.titre}</h3>
-      <div class="fil">${p.fil_conducteur || ''}</div>
-      <div class="meta">${p.date_creation || ''} · ${p.etapes.length} œuvres · ${p.duree_estimee || ''}</div>
-    </a>
-  `).join('');
+  return parcoursList.map(parcoursCardHtml).join('');
 }
 
-function openParcours(id) {
-  const listView = document.getElementById('list-view');
-  const detailView = document.getElementById('detail-view');
+function roomsListHtml(museeId) {
+  const oeuvres = (window.OEUVRES || []).filter(o => o.musee_id === museeId);
+  const parcoursList = (window.PARCOURS || []).filter(p => p.musee_id === museeId);
+  if (!oeuvres.length) {
+    return `<div class="empty">Aucune œuvre répertoriée pour l'instant dans ce musée.</div>`;
+  }
 
+  // Regroupe les œuvres par salle (aile + niveau + salle).
+  const rooms = [];
+  const byKey = {};
+  oeuvres.forEach(o => {
+    const key = `${o.aile || ''}|${o.niveau || ''}|${o.salle || ''}`;
+    if (!byKey[key]) { byKey[key] = { key, room: o, items: [] }; rooms.push(byKey[key]); }
+    byKey[key].items.push(o);
+  });
+  rooms.sort((a, b) => {
+    const aKnown = !!a.room.salle, bKnown = !!b.room.salle;
+    if (aKnown !== bKnown) return aKnown ? -1 : 1;
+    return (a.room.aile || '').localeCompare(b.room.aile || '')
+      || (numOf(a.room.niveau) - numOf(b.room.niveau))
+      || (numOf(a.room.salle) - numOf(b.room.salle));
+  });
+
+  let html = '', curAile = null, curNiveau = null, inconnu = false;
+  rooms.forEach(r => {
+    if (!r.room.salle) {
+      if (!inconnu) { html += `<h3 class="aile-title">À confirmer</h3>`; inconnu = true; }
+    } else {
+      if (r.room.aile !== curAile) {
+        html += `<h3 class="aile-title">${esc(r.room.aile || '')}</h3>`;
+        curAile = r.room.aile; curNiveau = null;
+      }
+      if (r.room.niveau !== curNiveau) {
+        html += `<h4 class="niveau-title">${esc(r.room.niveau || '')}</h4>`;
+        curNiveau = r.room.niveau;
+      }
+    }
+    const ids = new Set(r.items.map(o => o.id));
+    const inRoom = parcoursList.filter(p => p.etapes.some(e => ids.has(e.oeuvre_id)));
+    const chips = inRoom.length
+      ? `<div class="room-parcours">${inRoom.map(p => `<span>${esc(shortTitle(p))}</span>`).join('')}</div>` : '';
+    html += `
+      <a class="room-card" onclick="openRoom('${museeId}', '${encodeURIComponent(r.key)}')">
+        <div class="room-name">${esc(locationLabel(r.room))}</div>
+        <div class="room-count">${r.items.length} œuvre${r.items.length > 1 ? 's' : ''} — ${r.items.map(o => esc(o.titre)).join(', ')}</div>
+        ${chips}
+      </a>`;
+  });
+  return html;
+}
+
+/* ---------- Écran 3a : détail d'une salle ---------- */
+function openRoom(museeId, encodedKey) {
+  showView('detail');
+  const key = decodeURIComponent(encodedKey);
+  const oeuvres = (window.OEUVRES || []).filter(o => o.musee_id === museeId
+    && `${o.aile || ''}|${o.niveau || ''}|${o.salle || ''}` === key);
+  const parcoursList = (window.PARCOURS || []).filter(p => p.musee_id === museeId);
+
+  const oeuvresHtml = oeuvres.map(o => {
+    const inParcours = parcoursList.filter(p => p.etapes.some(e => e.oeuvre_id === o.id));
+    const links = inParcours.map(p => `
+      <a class="room-oeuvre-parcours" onclick="openParcours('${p.id}', '${o.id}')">Voir dans le parcours « ${esc(shortTitle(p))} » &rarr;</a>`).join('');
+    return `
+      <div class="oeuvre">
+        <div class="oeuvre-head">
+          ${imgTag(o)}
+          <div class="oeuvre-body">
+            <h3>${esc(o.titre)}</h3>
+            <div class="artist">${esc(o.artiste)}${o.dates ? ' — ' + esc(o.dates) : ''}</div>
+            ${o.notice_url ? `<a class="notice-link" href="${esc(o.notice_url)}" target="_blank">Voir la notice du musée &rarr;</a>` : ''}
+            ${links}
+          </div>
+        </div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('detail-view').innerHTML = `
+    <div class="toolbar">
+      <a class="back-link" onclick="renderList('${museeId}', 'salle')">&larr; Toutes les salles</a>
+    </div>
+    <div class="parcours-title">${esc(oeuvres.length ? locationLabel(oeuvres[0]) : '')}</div>
+    <div class="salle-step">${oeuvresHtml}</div>`;
+  window.scrollTo(0, 0);
+}
+
+/* ---------- Écran 3b : détail d'un parcours ---------- */
+function renderNote(note) {
+  if (!note) return '';
+  if (typeof note === 'string') return `<div class="note"><p>${inlineMd(note)}</p></div>`;
+  const list = pts => `<ul>${pts.map(p => `<li>${inlineMd(p)}</li>`).join('')}</ul>`;
+  if (note.sections) {
+    return `<div class="note">` + note.sections
+      .map(s => `<h4>${esc(s.titre)}</h4>${list(s.points)}`).join('') + `</div>`;
+  }
+  if (note.points) return `<div class="note">${list(note.points)}</div>`;
+  return '';
+}
+
+function goStep(i) {
+  const el = document.getElementById('etape-' + i);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function toggleAll() {
+  const all = [...document.querySelectorAll('#detail-view details.oeuvre')];
+  const anyClosed = all.some(d => !d.open);
+  all.forEach(d => { d.open = anyClosed; });
+  const a = document.getElementById('toggle-all');
+  if (a) a.textContent = anyClosed ? 'Tout replier' : 'Tout déplier';
+}
+
+function openParcours(id, focusOid) {
   const parcours = (window.PARCOURS || []).find(p => p.id === id);
-  const oeuvres = window.OEUVRES || [];
   if (!parcours) return;
-
-  const byId = Object.fromEntries(oeuvres.map(o => [o.id, o]));
+  const byId = oeuvresById();
 
   // Regroupe les étapes consécutives situées dans la même salle.
   const groups = [];
   parcours.etapes.forEach(etape => {
     const o = byId[etape.oeuvre_id] || {};
     const last = groups[groups.length - 1];
-    if (last && sameRoom(last.room, o)) {
-      last.items.push({ o, etape });
-    } else {
-      groups.push({ room: o, items: [{ o, etape }] });
-    }
+    if (last && sameRoom(last.room, o)) last.items.push({ o, etape });
+    else groups.push({ room: o, items: [{ o, etape }] });
   });
 
+  const route = groups.map((g, i) => {
+    const r = g.room;
+    const sub = r.salle ? [shortAile(r.aile), shortNiveau(r.niveau)].filter(Boolean).join(' · ') : '';
+    const name = r.salle || 'Salle à confirmer';
+    const oids = g.items.map(it => it.etape.oeuvre_id).join(',');
+    return `${i ? '<span class="chip-sep">&rsaquo;</span>' : ''}
+      <a class="chip" data-oids="${oids}" onclick="goStep(${i + 1})">
+        <span class="chip-num"><span>${i + 1}</span></span>
+        <span class="chip-txt"><b>${esc(name)}</b>${sub ? `<small>${esc(sub)}</small>` : ''}</span>
+      </a>`;
+  }).join('');
+
   const stepsHtml = groups.map((g, i) => {
-    const oeuvresHtml = g.items.map(({ o, etape }) => {
-      const img = o.image
-        ? `<img class="oeuvre-img" src="${o.image}" alt="${o.titre || ''}">`
-        : `<div class="oeuvre-img"></div>`;
-      return `
-        <div class="oeuvre">
-          ${img}
+    const oeuvresHtml = g.items.map(({ o, etape }) => `
+      <details class="oeuvre" id="o-${esc(etape.oeuvre_id)}">
+        <summary class="oeuvre-head">
+          ${imgTag(o)}
           <div class="oeuvre-body">
-            <h3>${o.titre || '(œuvre inconnue : ' + etape.oeuvre_id + ')'}</h3>
-            <div class="artist">${o.artiste || ''}${o.dates ? ' — ' + o.dates : ''}</div>
-            <div class="note">${etape.note || ''}</div>
-            ${o.notice_url ? `<a class="notice-link" href="${o.notice_url}" target="_blank">Voir la notice Louvre &rarr;</a>` : ''}
+            <h3>${esc(o.titre || '(œuvre inconnue : ' + etape.oeuvre_id + ')')}</h3>
+            <div class="artist">${esc(o.artiste)}${o.dates ? ' — ' + esc(o.dates) : ''}</div>
           </div>
-        </div>`;
-    }).join('');
+          <div class="oeuvre-side">
+            <button class="vu-btn" data-oid="${esc(etape.oeuvre_id)}" aria-pressed="false"
+                    onclick="onVuClick(event, '${parcours.id}', '${etape.oeuvre_id}')">
+              <span class="vu-box">&#10003;</span><span class="vu-label">Vu</span>
+            </button>
+            <span class="chev">&#9662;</span>
+          </div>
+        </summary>
+        <div class="oeuvre-note">
+          ${renderNote(etape.note)}
+          ${o.notice_url ? `<a class="notice-link" href="${esc(o.notice_url)}" target="_blank">Voir la notice du musée &rarr;</a>` : ''}
+        </div>
+      </details>`).join('');
 
     return `
-      <div class="salle-step">
+      <div class="salle-step" id="etape-${i + 1}">
         <div class="salle-header">
           <div class="salle-num">${i + 1}</div>
-          <div class="salle-label">${locationLabel(g.room)}</div>
+          <div class="salle-label">${esc(locationLabel(g.room))}</div>
         </div>
         ${oeuvresHtml}
       </div>`;
   }).join('');
 
-  detailView.innerHTML = `
+  document.getElementById('detail-view').innerHTML = `
     <div class="toolbar">
-      <a class="back-link" onclick="renderList()">&larr; Tous les parcours</a>
+      <a class="back-link" onclick="renderList('${parcours.musee_id}')">&larr; Tous les parcours</a>
       <button class="print-btn" onclick="window.print()">Exporter en PDF</button>
     </div>
-    <div class="parcours-title">${parcours.titre}</div>
-    <div class="parcours-fil">${parcours.fil_conducteur || ''}</div>
+    <div class="parcours-title">${esc(parcours.titre)}</div>
+    <div class="parcours-fil">${esc(parcours.fil_conducteur || '')}</div>
     <div class="parcours-meta">
       <span>${parcours.etapes.length} œuvres</span>
       <span>${groups.length} salles</span>
-      <span>${parcours.duree_estimee || ''}</span>
-      <span>${parcours.cours_source || ''}</span>
+      <span>${esc(parcours.duree_estimee || '')}</span>
+      <span>${esc(parcours.cours_source || '')}</span>
     </div>
-    ${stepsHtml}
-  `;
-  listView.style.display = 'none';
-  detailView.style.display = 'block';
+    <div class="route">
+      <div class="route-title">Plan de route</div>
+      <div class="route-chips">${route}</div>
+    </div>
+    <div class="progress">
+      <div class="progress-bar"><span id="progress-fill"></span></div>
+      <div class="progress-row">
+        <div class="progress-text" id="progress-text"></div>
+        <div class="progress-actions">
+          <a id="toggle-all" onclick="toggleAll()">Tout déplier</a>
+          <a onclick="resetVu('${parcours.id}')">Réinitialiser</a>
+        </div>
+      </div>
+    </div>
+    ${stepsHtml}`;
+
+  showView('detail');
+  refreshProgress(parcours.id);
+
+  if (focusOid) {
+    const el = document.getElementById('o-' + focusOid);
+    if (el) { el.open = true; el.scrollIntoView({ block: 'start' }); }
+  } else {
+    window.scrollTo(0, 0);
+  }
 }
 
-renderList();
+/* Impression : toutes les analyses doivent être dépliées dans le PDF. */
+let openBeforePrint = null;
+window.addEventListener('beforeprint', () => {
+  const all = [...document.querySelectorAll('#detail-view details.oeuvre')];
+  openBeforePrint = all.map(d => d.open);
+  all.forEach(d => { d.open = true; });
+});
+window.addEventListener('afterprint', () => {
+  const all = [...document.querySelectorAll('#detail-view details.oeuvre')];
+  if (openBeforePrint) all.forEach((d, i) => { d.open = openBeforePrint[i]; });
+  openBeforePrint = null;
+});
+
+renderMuseums();
 </script>
 </body>
 </html>

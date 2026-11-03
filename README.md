@@ -27,34 +27,10 @@ suffit** — pas besoin de serveur.
 juste pour vérifier le rendu pendant le développement. Ce n'est pas
 nécessaire pour l'usage normal du site.)
 
-## Déployer sur GitHub Pages
+## Consulter le site
 
-Le dépôt local est déjà initialisé et le premier commit est fait. Le
-workflow de publication (`.github/workflows/pages.yml`) est prêt ; il ne
-reste que la partie que vous seule devez faire, depuis un Terminal :
-
-```bash
-cd "/Users/jdufrenois/Documents/musees-parcours"
-
-# Créez un dépôt vide sur github.com (ex. "musees-parcours"), sans README
-# ni .gitignore (déjà présents ici), puis :
-git remote add origin https://github.com/b00731277-hash/musees-parcours.git
-git branch -M main
-git push -u origin main
-```
-
-Ensuite, dans le dépôt sur GitHub : **Settings → Pages → Build and
-deployment → Source : GitHub Actions**. Le workflow se déclenche
-automatiquement à chaque push sur `main`. L'URL sera de la forme
-`https://b00731277-hash.github.io/musees-parcours/` (indiquée dans
-**Settings → Pages** une fois le déploiement terminé).
-
-**Point d'attention (voir aussi PLAN.md §6)** : un dépôt GitHub Pages
-"classique" est **public** par défaut — n'importe qui avec le lien peut
-consulter le site, y compris son contenu pédagogique (et le dépôt
-lui-même doit être public pour que GitHub Pages fonctionne sans compte
-payant). Si vous voulez le garder privé, dites-le : GitHub Pages sur un
-dépôt privé demande un abonnement GitHub Pro/Team/Enterprise.
+- En local : ouvrez `app/index.html`.
+- En ligne (téléphone) : https://b00731277-hash.github.io/musees-parcours/app/index.html — le site est republié automatiquement (GitHub Pages) à chaque push sur `main`. Claude ne commit ni ne pousse que sur demande explicite. Le dossier `sources/` (cours) est exclu du dépôt par `.gitignore`.
 
 ## Structure des données
 

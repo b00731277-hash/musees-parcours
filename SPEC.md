@@ -66,20 +66,18 @@ Il n'y a pas de bouton "générer" autonome dans l'appli : la génération se fa
    les ajoute à la base si besoin.
 6. Claude rédige l'analyse condensée (150-400 mots) de chaque œuvre à partir
    du cours, et regroupe les œuvres en étapes par salle.
-7. Claude enregistre le nouveau parcours dans `data/app-data.js`, **en
-   local uniquement**. Claude ne commit et ne pousse pas automatiquement
-   sur GitHub — Justine le demande explicitement quand elle veut publier
-   la mise à jour (voir §7).
+7. Claude enregistre le nouveau parcours dans `data/app-data.js`, en
+   local ; il n'est publié que sur demande explicite (voir §7).
 
 ## 7. Livrables / diffusion
 
 Livrable final unique : le site **"Parcours de visite"**, développé avec
 Claude, disponible sur ordinateur et mobile.
 
-- **Site statique déployé sur GitHub Pages.** Claude prépare tout localement
-  (fichiers + configuration de publication, commits inclus) ; **c'est
-  Justine qui crée le dépôt GitHub et fait le `git push`** — Claude ne
-  pousse pas et ne crée pas le dépôt distant.
+- **Publication sur GitHub Pages**, à la demande : le site est en ligne à
+  `https://b00731277-hash.github.io/musees-parcours/app/index.html` pour être
+  consulté sur téléphone. Claude ne commit ni ne pousse que lorsque Justine le
+  demande explicitement. Le dossier `sources/` n'est jamais publié.
 - **Export PDF par parcours**, à chaque utilisation : un bouton dans le site
   génère un PDF imprimable/téléchargeable du parcours consulté (salle par
   salle, œuvres et analyses incluses), pour un usage hors-ligne pendant la
@@ -92,8 +90,7 @@ Claude, disponible sur ordinateur et mobile.
   API, pas d'étape de build.
 - Les données (œuvres + parcours) sont embarquées dans un fichier JS
   (`data/app-data.js`) plutôt que chargées en JSON via `fetch`, pour que le
-  site fonctionne aussi bien en local (double-clic) qu'une fois déployé sur
-  GitHub Pages, sans dépendre d'un serveur de développement.
+  site fonctionne aussi bien en local (double-clic) sans dépendre d'un serveur de développement ni d'un hébergement.
 - Design mobile-first (c'est l'usage principal : consultation en marchant).
 - Feuille de style d'impression (`@media print`) dédiée pour l'export PDF
   via l'impression navigateur (`window.print()`), sans dépendance externe.
@@ -161,3 +158,38 @@ récents en premier. Pas de regroupement par aile/période pour l'instant
 
 - Éventuel tri/regroupement additionnel dans la liste des parcours si leur
   nombre grossit beaucoup (voir §12).
+
+## 14. V2 — Plan multi-musées (anticipé, pas encore actif)
+
+Tous les cours ne portent pas sur des œuvres du Louvre (cf. le cours sur
+Guernica/l'art dégénéré, mis en pause car aucune œuvre citée n'y est
+exposée). Le site va donc évoluer pour supporter plusieurs musées
+parisiens, chacun avec sa propre fiabilité de données :
+
+**Registre des musées** (`window.MUSEES` dans `data/app-data.js`) : une
+entrée par musée avec un identifiant stable, utilisée par les œuvres et
+les parcours (`musee_id`) plutôt que de coder "Louvre" en dur partout.
+
+| Musée | État | Particularités connues |
+|---|---|---|
+| Musée du Louvre | **Actif** | Fonctionne comme aujourd'hui : fiche JSON par œuvre (`collections.louvre.fr/ark:/.../<id>.json`) avec salle/aile/niveau fiables. Certaines œuvres (ex. arts graphiques) sont en réserve, non exposées — à vérifier à chaque fois (déjà rencontré avec Le Palefrenier de Baldung Grien). |
+| Musée d'Orsay | **Actif, à fiabiliser** | Base en ligne avec un filtre "œuvres actuellement exposées" — bon signe, mais la précision salle/niveau par œuvre reste à vérifier au cas par cas lors du premier cours qui s'y prêtera. |
+| Centre Pompidou | **Inactif — fermé jusqu'en 2030** | Fermé au public depuis le 22 septembre 2025 pour travaux (réouverture prévue en 2030). Enregistré dans le registre pour ne pas tout reconstruire plus tard, mais **aucun parcours ne doit y être généré tant qu'il est fermé** — Claude doit le signaler si un cours pointe vers des œuvres qui s'y trouvent. |
+
+**Changements de modèle de données** :
+- `window.OEUVRES[i].musee_id` : référence vers une entrée de `MUSEES`.
+- `window.PARCOURS[i].musee_id` : un parcours reste rattaché à un seul
+  musée (pas de parcours qui saute d'un musée à l'autre — chaque musée a
+  son propre plan/adressage de salles).
+- Convention de nommage inchangée dans son principe : `[Musée] [Aile/Section] [Période] Nom du parcours` — le premier
+  segment devient le nom du musée plutôt que toujours "Louvre".
+
+**Ce qui ne change pas** : la validation humaine de la sélection et du fil
+conducteur reste obligatoire (§3), la recherche de localisation reste
+manuelle par recherche web (§5, chaque musée ayant son propre site et ses
+propres limites d'accès), le site reste 100% statique (§8).
+
+**Pas encore fait** : la V1 actuelle ne contient que des œuvres du Louvre ;
+cette section documente la structure cible pour ne pas avoir à tout
+refondre au premier cours Orsay, mais rien n'oblige à l'implémenter avant
+d'en avoir besoin.
