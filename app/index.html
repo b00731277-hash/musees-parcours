@@ -507,6 +507,13 @@ function inlineMd(t) {
   return esc(t).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
 }
 
+// Titre des cartes : sans « [Louvre] » ni « [Aile …] », la période est conservée.
+function cardTitle(p) {
+  return (p.titre || '')
+    .replace(/\[(?:Louvre|Orsay|Pompidou)[^\]]*\]\s*/i, '')
+    .replace(/\[Aile[^\]]*\]\s*/i, '');
+}
+
 function shortTitle(p) {
   return (p.titre || '').replace(/^(\s*\[[^\]]*\]\s*)+/, '');
 }
@@ -715,9 +722,9 @@ function parcoursCardHtml(p) {
   const vus = n ? ` · ${n}/${p.etapes.length} vues` : '';
   return `
     <a class="card" onclick="openParcours('${p.id}')">
-      <h3>${esc(p.titre)}</h3>
+      <h3>${esc(cardTitle(p))}</h3>
       <div class="fil">${esc(p.fil_conducteur || '')}</div>
-      <div class="meta">${esc(p.date_creation || '')} · ${p.etapes.length} œuvres · ${esc(p.duree_estimee || '')}${vus}</div>
+      <div class="meta">${p.etapes.length} œuvres · ${esc(p.duree_estimee || '')}${vus}</div>
     </a>`;
 }
 
