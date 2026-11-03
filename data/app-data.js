@@ -543,6 +543,7 @@ window.PARCOURS = [
   {
     "id": "denon_1804-1830_romantisme-contre-neoclassicisme",
     "musee_id": "louvre",
+    "illustration": "cl010065872",
     "titre": "[Louvre] [Aile Denon] [1804-1830] Romantisme contre néoclassicisme",
     "date_creation": "2026-09-24",
     "cours_source": "Introduction générale — Anne-Sophie Godot, École du Louvre, 1er septembre 2025",
@@ -679,6 +680,7 @@ window.PARCOURS = [
   {
     "id": "richelieu_1629-1664_poussin-lorrain-heritage-carrache",
     "musee_id": "louvre",
+    "illustration": "cl010062528",
     "titre": "[Louvre] [Aile Richelieu] [1629-1664] Poussin et Le Lorrain : l'héritage des Carrache",
     "date_creation": "2026-11-03",
     "cours_source": "Histoire générale de l'art 3 (XVIIe siècle), séance 4 « La tentation de l'Italie » (Aude Prigot, 30/09/2024) et diaporama du cours",
@@ -918,6 +920,7 @@ window.PARCOURS = [
   {
     "id": "denon_1592-1640_caravage-caravagisme",
     "musee_id": "louvre",
+    "illustration": "cl010062304",
     "titre": "[Louvre] [Aile Denon] [1592-1640] Du Caravage au caravagisme",
     "date_creation": "2026-11-03",
     "cours_source": "Histoire générale de l'art 3 (XVIIe siècle), séance 1 « Les révolutions silencieuses » (Aude Prigot, 09/09/2024), séances 4 et 5 et diaporama du cours",
@@ -1173,6 +1176,7 @@ window.PARCOURS = [
   {
     "id": "sully_1630-1655_xviie-francais-silence-ordre",
     "musee_id": "louvre",
+    "illustration": "cl010060624",
     "titre": "[Louvre] [Aile Sully] [1630-1655] Le XVIIe français : silence et ordre",
     "date_creation": "2026-11-03",
     "cours_source": "Histoire générale de l'art 3 (XVIIe siècle), séances 5 et 6 « La peinture française au XVIIe siècle » (Laurent Nabias, 07/10/2024) et diaporama du cours",
@@ -1447,6 +1451,7 @@ window.PARCOURS = [
   {
     "id": "richelieu_1588-1650_manierisme-rubens",
     "musee_id": "louvre",
+    "illustration": "cl010060825",
     "titre": "[Louvre] [Aile Richelieu] [1588-1650] Du maniérisme à Rubens",
     "date_creation": "2026-11-03",
     "cours_source": "Histoire générale de l'art 3 (XVIIe siècle), séance 12 « Les cartographes de la couleur » (Laurent Nabias, 02/12/2024) et diaporama du cours",
@@ -1702,6 +1707,7 @@ window.PARCOURS = [
   {
     "id": "richelieu_1620-1670_lumieres-du-nord",
     "musee_id": "louvre",
+    "illustration": "cl010063553",
     "titre": "[Louvre] [Aile Richelieu] [1620-1670] Lumières du Nord : Hals, Ruisdael, De Hooch, Vermeer",
     "date_creation": "2026-11-03",
     "cours_source": "Histoire générale de l'art 3 (XVIIe siècle), séance 13 « Lumières du Nord » (Laurent Nabias, 09/12/2024), notes du 09/12 et du 16/12/2024 et diaporama du cours",

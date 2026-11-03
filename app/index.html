@@ -198,12 +198,21 @@
     background: white;
     border: 1px solid var(--line);
     border-radius: 10px;
-    padding: 1.1rem 1.3rem;
+    padding: 0;
+    overflow: hidden;
     margin-bottom: 0.9rem;
     text-decoration: none;
     color: var(--ink);
     cursor: pointer;
     transition: border-color 0.15s, transform 0.15s;
+  }
+  #list-view .card .card-body { padding: 1.1rem 1.3rem; }
+  #list-view .card .card-img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    display: block;
+    background: var(--paper-dim);
   }
   #list-view .card:hover { border-color: var(--gold); transform: translateY(-1px); }
   #list-view .card h3 { margin: 0 0 0.35rem; font-size: 1.1rem; line-height: 1.35; }
@@ -212,7 +221,13 @@
     font-family: -apple-system, sans-serif;
     font-size: 0.78rem;
     color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1rem;
+    align-items: center;
   }
+  .meta-item { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .meta-item .ico { flex: 0 0 auto; color: var(--gold); }
   .empty {
     text-align: center;
     color: var(--muted);
@@ -391,7 +406,7 @@
   .vu-label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; }
   .vu-btn.on .vu-box { background: #6f8f5b; border-color: #6f8f5b; color: white; }
   .vu-btn.on { color: #6f8f5b; }
-  .chev { color: var(--gold); font-size: 0.9rem; transition: transform 0.2s; font-family: -apple-system, sans-serif; }
+  .chev { color: var(--gold); font-size: 1.7rem; line-height: 1; transition: transform 0.2s; font-family: -apple-system, sans-serif; }
   details[open] > summary .chev { transform: rotate(180deg); }
   .oeuvre-note { padding-top: 0.6rem; }
   .oeuvre-note .note {
@@ -717,6 +732,14 @@ function searchResultsHtml(museeId, q) {
   return html;
 }
 
+// Pictogrammes (SVG en ligne, hérite de la couleur du texte).
+const svgIcon = inner =>
+  `<svg class="ico" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" ` +
+  `stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+const ICON_PIN = svgIcon('<path d="M12 21s-6.5-5.7-6.5-11a6.5 6.5 0 0 1 13 0c0 5.3-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.3"/>');
+const ICON_PAINTING = svgIcon('<rect x="3" y="4" width="18" height="16" rx="1.5"/><circle cx="9" cy="10" r="1.6"/><path d="M3.5 18l5.5-5 4 3.5 3-2.5 4.5 4"/>');
+const ICON_TIMER = svgIcon('<circle cx="12" cy="13.5" r="7"/><path d="M12 13.5V9.5M10 3h4M12 3v3M18.2 6.8l1.3-1.3"/>');
+
 // Ailes et niveaux traversés par un parcours, dans l'ordre de visite.
 function parcoursLieux(p) {
   const byId = oeuvresById();
@@ -732,12 +755,25 @@ function parcoursLieux(p) {
 
 function parcoursCardHtml(p) {
   const n = countVu(p);
-  const vus = n ? ` · ${n}/${p.etapes.length} vues` : '';
+  const ill = p.illustration ? oeuvresById()[p.illustration] : null;
+  const illImg = ill && ill.image
+    ? `<img class="card-img" loading="lazy" alt="${esc(ill.titre)}" src="${esc(ill.image.replace('/cache/small/', '/cache/medium/'))}" ` +
+      `style="object-position:${esc(p.illustration_position || 'center 35%')}" ` +
+      `onerror="this.onerror=null;this.src='${esc(ill.image)}'">`
+    : '';
   return `
     <a class="card" onclick="openParcours('${p.id}')">
+      ${illImg}
+      <div class="card-body">
       <h3>${esc(cardTitle(p))}</h3>
       <div class="fil">${esc(p.fil_conducteur || '')}</div>
-      <div class="meta">${parcoursLieux(p) ? esc(parcoursLieux(p)) + ' · ' : ''}${p.etapes.length} œuvres · ${esc(p.duree_estimee || '')}${vus}</div>
+      <div class="meta">
+        ${parcoursLieux(p) ? `<span class="meta-item">${ICON_PIN}${esc(parcoursLieux(p))}</span>` : ''}
+        <span class="meta-item">${ICON_PAINTING}${p.etapes.length} œuvres</span>
+        ${p.duree_estimee ? `<span class="meta-item">${ICON_TIMER}${esc(p.duree_estimee)}</span>` : ''}
+        ${n ? `<span class="meta-item">${n}/${p.etapes.length} vues</span>` : ''}
+      </div>
+      </div>
     </a>`;
 }
 
