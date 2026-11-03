@@ -717,6 +717,19 @@ function searchResultsHtml(museeId, q) {
   return html;
 }
 
+// Ailes et niveaux traversés par un parcours, dans l'ordre de visite.
+function parcoursLieux(p) {
+  const byId = oeuvresById();
+  const seen = [];
+  p.etapes.forEach(e => {
+    const o = byId[e.oeuvre_id];
+    if (!o || !o.salle) return;
+    const label = [o.aile, o.niveau].filter(Boolean).join(' · ');
+    if (label && !seen.includes(label)) seen.push(label);
+  });
+  return seen.join(' + ');
+}
+
 function parcoursCardHtml(p) {
   const n = countVu(p);
   const vus = n ? ` · ${n}/${p.etapes.length} vues` : '';
@@ -724,7 +737,7 @@ function parcoursCardHtml(p) {
     <a class="card" onclick="openParcours('${p.id}')">
       <h3>${esc(cardTitle(p))}</h3>
       <div class="fil">${esc(p.fil_conducteur || '')}</div>
-      <div class="meta">${p.etapes.length} œuvres · ${esc(p.duree_estimee || '')}${vus}</div>
+      <div class="meta">${parcoursLieux(p) ? esc(parcoursLieux(p)) + ' · ' : ''}${p.etapes.length} œuvres · ${esc(p.duree_estimee || '')}${vus}</div>
     </a>`;
 }
 
