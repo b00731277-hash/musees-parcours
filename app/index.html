@@ -524,9 +524,10 @@ function inlineMd(t) {
 
 // Titre des cartes : sans « [Louvre] » ni « [Aile …] », la période est conservée.
 function cardTitle(p) {
-  return (p.titre || '')
-    .replace(/\[(?:Louvre|Orsay|Pompidou)[^\]]*\]\s*/i, '')
-    .replace(/\[Aile[^\]]*\]\s*/i, '');
+  let t = p.titre || '';
+  const re = /^\s*\[(?!\d{3,4}\s*-)[^\]]*\]\s*/;
+  while (re.test(t)) t = t.replace(re, '');
+  return t;
 }
 
 function shortTitle(p) {
@@ -554,6 +555,14 @@ function periodeParcours(p) {
 function numOf(s) {
   const m = /-?\d+/.exec(s || '');
   return m ? parseInt(m[0], 10) : Infinity;
+}
+
+// Rang d'un niveau : Louvre « Niveau 2 », Orsay « Rez-de-chaussée / Niveau médian / Niveau supérieur ».
+function levelRank(n) {
+  if (/rez/i.test(n || '')) return 0;
+  if (/m[ée]dian/i.test(n || '')) return 2;
+  if (/sup[ée]rieur/i.test(n || '')) return 5;
+  return numOf(n);
 }
 
 function oeuvresById() {
@@ -814,7 +823,7 @@ function roomsListHtml(museeId) {
     const aKnown = !!a.room.salle, bKnown = !!b.room.salle;
     if (aKnown !== bKnown) return aKnown ? -1 : 1;
     return (a.room.aile || '').localeCompare(b.room.aile || '')
-      || (numOf(a.room.niveau) - numOf(b.room.niveau))
+      || (levelRank(a.room.niveau) - levelRank(b.room.niveau))
       || (numOf(a.room.salle) - numOf(b.room.salle));
   });
 
@@ -823,11 +832,12 @@ function roomsListHtml(museeId) {
     if (!r.room.salle) {
       if (!inconnu) { html += `<h3 class="aile-title">À confirmer</h3>`; inconnu = true; }
     } else {
-      if (r.room.aile !== curAile) {
-        html += `<h3 class="aile-title">${esc(r.room.aile || '')}</h3>`;
-        curAile = r.room.aile; curNiveau = null;
+      const group = r.room.aile || r.room.niveau || '';
+      if (group !== curAile) {
+        html += `<h3 class="aile-title">${esc(group)}</h3>`;
+        curAile = group; curNiveau = null;
       }
-      if (r.room.niveau !== curNiveau) {
+      if (r.room.aile && r.room.niveau !== curNiveau) {
         html += `<h4 class="niveau-title">${esc(r.room.niveau || '')}</h4>`;
         curNiveau = r.room.niveau;
       }

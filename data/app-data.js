@@ -20,9 +20,8 @@ window.MUSEES = [
   {
     "id": "pompidou",
     "nom": "Centre Pompidou",
-    "actif": false,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Centre%20Georges%20Pompidou%20en%202016.jpg?width=800",
-    "note": "Fermé au public depuis le 22 septembre 2025, jusqu'en 2030 (travaux). Ne pas générer de parcours tant qu'il est fermé."
+    "actif": true,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Centre%20Georges%20Pompidou%20en%202016.jpg?width=800"
   }
 ];
 
@@ -536,6 +535,698 @@ window.OEUVRES = [
     "niveau": "Niveau 2",
     "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059161/0000601721_OG.JPG",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059161"
+  },
+  {
+    "id": "cl010066604",
+    "musee_id": "louvre",
+    "titre": "Psyché et l'Amour",
+    "artiste": "François Gérard",
+    "dates": "1798",
+    "salle": "Salle 934",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066604/0001343915_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066604"
+  },
+  {
+    "id": "cl010064831",
+    "musee_id": "louvre",
+    "titre": "Endymion. Effet de lune (Le Sommeil d'Endymion)",
+    "artiste": "Anne-Louis Girodet",
+    "dates": "1791",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000064831/0000367563_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064831"
+  },
+  {
+    "id": "cl010065426",
+    "musee_id": "louvre",
+    "titre": "Les Sabines (L'Intervention des Sabines)",
+    "artiste": "Jacques-Louis David",
+    "dates": "1799",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065426/0001319152_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065426"
+  },
+  {
+    "id": "cl010066486",
+    "musee_id": "louvre",
+    "titre": "Napoléon sur le champ de bataille d'Eylau (9 février 1807)",
+    "artiste": "Antoine-Jean Gros",
+    "dates": "1808",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066486/0000772145_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066486"
+  },
+  {
+    "id": "cl010059198",
+    "musee_id": "louvre",
+    "titre": "Officier de chasseurs à cheval de la Garde impériale, chargeant",
+    "artiste": "Théodore Géricault",
+    "dates": "1812",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059198/0000772153_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059198"
+  },
+  {
+    "id": "cl010059199",
+    "musee_id": "louvre",
+    "titre": "Le Radeau de la Méduse",
+    "artiste": "Théodore Géricault",
+    "dates": "1818-1819",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059199/0000560597_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059199"
+  },
+  {
+    "id": "cl010065871",
+    "musee_id": "louvre",
+    "titre": "Dante et Virgile aux enfers (La Barque de Dante)",
+    "artiste": "Eugène Delacroix",
+    "dates": "1822",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065871/0000752968_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065871"
+  },
+  {
+    "id": "cl010065757",
+    "musee_id": "louvre",
+    "titre": "La Mort de Sardanapale",
+    "artiste": "Eugène Delacroix",
+    "dates": "1827",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065757/0001224148_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065757"
+  },
+  {
+    "id": "cl010065869",
+    "musee_id": "louvre",
+    "titre": "Femmes d'Alger dans leur appartement",
+    "artiste": "Eugène Delacroix",
+    "dates": "1834",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065869/0001113206_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065869"
+  },
+  {
+    "id": "cl010066297",
+    "musee_id": "louvre",
+    "titre": "La Mort d'Élisabeth, reine d'Angleterre",
+    "artiste": "Paul Delaroche",
+    "dates": "1828",
+    "salle": "Salle 701",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066297/0000353383_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066297"
+  },
+  {
+    "id": "cl010065748",
+    "musee_id": "louvre",
+    "titre": "L'Apothéose d'Homère (Homère déifié)",
+    "artiste": "Jean-Auguste-Dominique Ingres",
+    "dates": "1827",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065748/0000134319_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065748"
+  },
+  {
+    "id": "cl010061562",
+    "musee_id": "louvre",
+    "titre": "L'Étude et le Génie dévoilent l'antique Égypte à la Grèce",
+    "artiste": "François-Édouard Picot",
+    "dates": "1827",
+    "salle": "Salle 644",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000061562/0001356550_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010061562"
+  },
+  {
+    "id": "cl010101256",
+    "musee_id": "louvre",
+    "titre": "Lit de Madame Récamier",
+    "artiste": "Jacob Frères",
+    "dates": "vers 1799",
+    "salle": "Salle 556",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000101256/0000238959_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010101256"
+  },
+  {
+    "id": "cl010101291",
+    "musee_id": "louvre",
+    "titre": "Guéridon du salon de Madame Récamier",
+    "artiste": "Jacob Frères",
+    "dates": "vers 1799",
+    "salle": "Salle 557",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000101291/0000247640_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010101291"
+  },
+  {
+    "id": "cl010103631",
+    "musee_id": "louvre",
+    "titre": "Athénienne de Napoléon Ier",
+    "artiste": "Martin-Guillaume Biennais, d'après Charles Percier",
+    "dates": "1801-1804",
+    "salle": "Salle 555",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000103631/0000248224_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010103631"
+  },
+  {
+    "id": "cl010098917",
+    "musee_id": "louvre",
+    "titre": "Cabaret égyptien de Napoléon Ier",
+    "artiste": "Manufacture de Sèvres",
+    "dates": "1810",
+    "salle": "Salle 555",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000098917/0000236240_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010098917"
+  },
+  {
+    "id": "cl010111605",
+    "musee_id": "louvre",
+    "titre": "Service à thé de Napoléon Ier et de Marie-Louise",
+    "artiste": "Martin-Guillaume Biennais",
+    "dates": "1809-1810",
+    "salle": "Salle 555",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000111605/0000239822_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010111605"
+  },
+  {
+    "id": "cl010117332",
+    "musee_id": "louvre",
+    "titre": "Fauteuil du trône de Napoléon Ier aux Tuileries",
+    "artiste": "Jacob-Desmalter",
+    "dates": "1804",
+    "salle": "Salle 552",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000117332/0000241040_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010117332"
+  },
+  {
+    "id": "cl010117913",
+    "musee_id": "louvre",
+    "titre": "Console",
+    "artiste": "Pierre-Philippe Thomire",
+    "dates": "avant 1807",
+    "salle": "Salle 552",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000117913/0000247181_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010117913"
+  },
+  {
+    "id": "cl010100833",
+    "musee_id": "louvre",
+    "titre": "Serre-bijoux de l'impératrice (Grand écrin)",
+    "artiste": "Jacob-Desmalter",
+    "dates": "1809",
+    "salle": "Salle 553",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 1",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000100833/0000243791_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010100833"
+  },
+  {
+    "id": "orsay-656",
+    "musee_id": "orsay",
+    "titre": "François Pierre Guillaume Guizot (buste de charge)",
+    "artiste": "Honoré Daumier",
+    "dates": "1833",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 4",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/francois-pierre-guillaume-guizot-656"
+  },
+  {
+    "id": "orsay-10865",
+    "musee_id": "orsay",
+    "titre": "La République",
+    "artiste": "Honoré Daumier",
+    "dates": "1848",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 4",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daumier%20R%C3%A9publique.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/la-republique-10865"
+  },
+  {
+    "id": "orsay-68",
+    "musee_id": "orsay",
+    "titre": "Labourage nivernais (Le Sombrage)",
+    "artiste": "Rosa Bonheur",
+    "dates": "1849",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Ploughing%20in%20Nevers%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/labourage-nivernais-68"
+  },
+  {
+    "id": "orsay-342",
+    "musee_id": "orsay",
+    "titre": "Des glaneuses (Les Glaneuses)",
+    "artiste": "Jean-François Millet",
+    "dates": "1857",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Des%20glaneuses.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/des-glaneuses-342"
+  },
+  {
+    "id": "orsay-345",
+    "musee_id": "orsay",
+    "titre": "L'Angélus",
+    "artiste": "Jean-François Millet",
+    "dates": "1857-1859",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 5",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN-FRAN%C3%87OIS%20MILLET%20-%20El%20%C3%81ngelus%20%28Museo%20de%20Orsay%2C%201857-1859.%20%C3%93leo%20sobre%20lienzo%2C%2055.5%20x%2066%20cm%29.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/langelus-345"
+  },
+  {
+    "id": "orsay-924",
+    "musee_id": "orsay",
+    "titre": "Un enterrement à Ornans",
+    "artiste": "Gustave Courbet",
+    "dates": "1849-1850",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 7",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20A%20Burial%20at%20Ornans%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/un-enterrement-ornans-924"
+  },
+  {
+    "id": "orsay-927",
+    "musee_id": "orsay",
+    "titre": "L'Atelier du peintre",
+    "artiste": "Gustave Courbet",
+    "dates": "1854-1855",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 7",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20LAtelier%20du%20peintre.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/latelier-du-peintre-927"
+  },
+  {
+    "id": "orsay-195",
+    "musee_id": "orsay",
+    "titre": "Les Hauteurs du Jean-de-Paris",
+    "artiste": "Narcisse Diaz de la Peña",
+    "dates": "1867",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Galerie Seine",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/les-hauteurs-du-jean-de-paris-195"
+  },
+  {
+    "id": "orsay-9493",
+    "musee_id": "orsay",
+    "titre": "Romains de la décadence",
+    "artiste": "Thomas Couture",
+    "dates": "1847",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Allée centrale des sculptures",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Couture%20-%20Les%20Romains%20de%20la%20d%C3%A9cadence%20-%20Mus%C3%A9e%20d%27Orsay.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/romains-de-la-decadence-9493"
+  },
+  {
+    "id": "orsay-98",
+    "musee_id": "orsay",
+    "titre": "Naissance de Vénus",
+    "artiste": "Alexandre Cabanel",
+    "dates": "1863",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 3",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20The%20Birth%20of%20Venus%20-%20Google%20Art%20Project%202.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/naissance-de-venus-98"
+  },
+  {
+    "id": "orsay-904",
+    "musee_id": "orsay",
+    "titre": "Le Déjeuner sur l'herbe",
+    "artiste": "Édouard Manet",
+    "dates": "1863",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 18",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Luncheon%20on%20the%20Grass%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-904"
+  },
+  {
+    "id": "orsay-712",
+    "musee_id": "orsay",
+    "titre": "Olympia",
+    "artiste": "Édouard Manet",
+    "dates": "1863",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 14",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Olympia%20-%20Google%20Art%20Project%203.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/olympia-712"
+  },
+  {
+    "id": "orsay-713",
+    "musee_id": "orsay",
+    "titre": "Émile Zola",
+    "artiste": "Édouard Manet",
+    "dates": "1868",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 14",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Emile%20Zola.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/emile-zola-713"
+  },
+  {
+    "id": "orsay-25651",
+    "musee_id": "orsay",
+    "titre": "Le Déjeuner sur l'herbe (fragment central)",
+    "artiste": "Claude Monet",
+    "dates": "1865-1866",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 29",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20D%C3%A9jeuner%20sur%20l%27herbe%2C%20partie%20centrale.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-25651"
+  },
+  {
+    "id": "orsay-1132",
+    "musee_id": "orsay",
+    "titre": "Le Berceau",
+    "artiste": "Berthe Morisot",
+    "dates": "1872",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 10",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Le%20berceau.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/le-berceau-1132"
+  },
+  {
+    "id": "orsay-807",
+    "musee_id": "orsay",
+    "titre": "Femmes au jardin",
+    "artiste": "Claude Monet",
+    "dates": "vers 1866",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 29",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20024.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/femmes-au-jardin-807"
+  },
+  {
+    "id": "orsay-1151",
+    "musee_id": "orsay",
+    "titre": "La Classe de danse",
+    "artiste": "Edgar Degas",
+    "dates": "1873-1876",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 31",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Ballet%20Class%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/la-classe-de-danse-1151"
+  },
+  {
+    "id": "orsay-1154",
+    "musee_id": "orsay",
+    "titre": "Répétition d'un ballet sur la scène",
+    "artiste": "Edgar Degas",
+    "dates": "1874",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 32",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ballet%20Rehearsal%20on%20Stage%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/repetition-dun-ballet-sur-la-scene-1154"
+  },
+  {
+    "id": "orsay-368",
+    "musee_id": "orsay",
+    "titre": "Gelée blanche",
+    "artiste": "Camille Pissarro",
+    "dates": "1873",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 32",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Gel%C3%A9e%20blanche%2C%20ancienne%20route%20d%C2%B4Ennery%2C%20Pontoise%20-%201873.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/gelee-blanche-368"
+  },
+  {
+    "id": "orsay-105",
+    "musee_id": "orsay",
+    "titre": "Raboteurs de parquets",
+    "artiste": "Gustave Caillebotte",
+    "dates": "1875",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Caillebotte%20-%20The%20Floor%20Planers%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/raboteurs-de-parquets-105"
+  },
+  {
+    "id": "orsay-497",
+    "musee_id": "orsay",
+    "titre": "Bal du moulin de la Galette",
+    "artiste": "Auguste Renoir",
+    "dates": "1876",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%2C%20Pierre-Auguste%20-%20Dance%20at%20Le%20Moulin%20de%20la%20Galette%2C%201876.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/bal-du-moulin-de-la-galette-497"
+  },
+  {
+    "id": "orsay-10897",
+    "musee_id": "orsay",
+    "titre": "La Gare Saint-Lazare",
+    "artiste": "Claude Monet",
+    "dates": "1877",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Gare%20Saint-Lazare%20-%20Claude%20Monet.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/la-gare-saint-lazare-10897"
+  },
+  {
+    "id": "orsay-328",
+    "musee_id": "orsay",
+    "titre": "Jeunes Grecs faisant battre des coqs",
+    "artiste": "Jean-Léon Gérôme",
+    "dates": "1846",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 2",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Young%20Greeks%20Attending%20a%20Cock%20Fight%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/jeunes-grecs-faisant-battre-des-coqs-328"
+  },
+  {
+    "id": "orsay-153692",
+    "musee_id": "orsay",
+    "titre": "Dante et Virgile",
+    "artiste": "William Bouguereau",
+    "dates": "1850",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 3",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Bouguereau%20-%20Dante%20and%20Virgile%20-%20Google%20Art%20Project%202.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/dante-et-virgile-153692"
+  },
+  {
+    "id": "orsay-16649",
+    "musee_id": "orsay",
+    "titre": "Naissance de Vénus",
+    "artiste": "William Bouguereau",
+    "dates": "1879",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Salle 3",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20The%20Birth%20of%20Venus%20%281879%29.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/naissance-de-venus-16649"
+  },
+  {
+    "id": "orsay-246",
+    "musee_id": "orsay",
+    "titre": "Campagne de France, 1814",
+    "artiste": "Ernest Meissonier",
+    "dates": "1864",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis-Ernest%20Meissonier-Campagne%20de%20France.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/campagne-de-france-1814-246"
+  },
+  {
+    "id": "orsay-1704",
+    "musee_id": "orsay",
+    "titre": "La Danse (groupe en pierre)",
+    "artiste": "Jean-Baptiste Carpeaux",
+    "dates": "1869",
+    "niveau": "Rez-de-chaussée",
+    "salle": "Allée centrale des sculptures",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danse%20Carpeaux.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/la-danse-1704"
+  },
+  {
+    "id": "orsay-783",
+    "musee_id": "orsay",
+    "titre": "La Roue de la Fortune",
+    "artiste": "Edward Burne-Jones",
+    "dates": "1875-1883",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Wheel%20of%20Fortune%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/la-roue-de-la-fortune-783"
+  },
+  {
+    "id": "orsay-1070",
+    "musee_id": "orsay",
+    "titre": "Jason",
+    "artiste": "Gustave Moreau",
+    "dates": "1865",
+    "niveau": "Niveau médian",
+    "salle": "Salle 59",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moreau%20-%20Jason%20et%20M%C3%A9d%C3%A9e.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/jason-1070"
+  },
+  {
+    "id": "orsay-1091",
+    "musee_id": "orsay",
+    "titre": "Orphée",
+    "artiste": "Gustave Moreau",
+    "dates": "1865",
+    "niveau": "Niveau médian",
+    "salle": "Salle 59",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Moreau%20-%20Orpheus%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/orphee-1091"
+  },
+  {
+    "id": "orsay-443",
+    "musee_id": "orsay",
+    "titre": "Jeunes filles au bord de la mer",
+    "artiste": "Pierre Puvis de Chavannes",
+    "dates": "1879",
+    "niveau": "Niveau médian",
+    "salle": "Salle 59",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Puvis%20de%20Chavannes%20-%20Young%20Girls%20by%20the%20Seaside%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/jeunes-filles-au-bord-de-la-mer-443"
+  },
+  {
+    "id": "orsay-140626",
+    "musee_id": "orsay",
+    "titre": "Futur (Une jeune femme anglaise)",
+    "artiste": "Fernand Khnopff",
+    "dates": "1898",
+    "emplacement_note": "Salle à confirmer",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/futur-140626"
+  },
+  {
+    "id": "orsay-20838",
+    "musee_id": "orsay",
+    "titre": "Sommeil de Caliban",
+    "artiste": "Odilon Redon",
+    "dates": "1895-1900",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sommeil%20de%20Caliban%2C%20par%20Odilon%20Redon.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/sommeil-de-caliban-20838"
+  },
+  {
+    "id": "orsay-148888",
+    "musee_id": "orsay",
+    "titre": "Bouclier avec le visage de Méduse",
+    "artiste": "Arnold Böcklin",
+    "dates": "1897",
+    "emplacement_note": "Salle à confirmer",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/bouclier-avec-le-visage-de-meduse-148888"
+  },
+  {
+    "id": "orsay-25573",
+    "musee_id": "orsay",
+    "titre": "Cassandre",
+    "artiste": "Max Klinger",
+    "dates": "vers 1893",
+    "emplacement_note": "Salle à confirmer",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/cassandre-25573"
+  },
+  {
+    "id": "orsay-797",
+    "musee_id": "orsay",
+    "titre": "Pont de Maincy",
+    "artiste": "Paul Cézanne",
+    "dates": "vers 1879",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pont%20de%20Maincy%2C%20par%20Paul%20C%C3%A9zanne.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/pont-de-maincy-797"
+  },
+  {
+    "id": "orsay-746",
+    "musee_id": "orsay",
+    "titre": "La Chambre de Van Gogh à Arles",
+    "artiste": "Vincent van Gogh",
+    "dates": "1889",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 36",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Chambre%20%C3%A0%20Arles%2C%20by%20Vincent%20van%20Gogh%2C%20from%20C2RMF.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/la-chambre-de-van-gogh-arles-746"
+  },
+  {
+    "id": "orsay-542",
+    "musee_id": "orsay",
+    "titre": "Le Cirque",
+    "artiste": "Georges Seurat",
+    "dates": "1891",
+    "niveau": "Niveau supérieur",
+    "salle": "Salle 38",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20The%20Circus%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/le-cirque-542"
+  },
+  {
+    "id": "orsay-3024",
+    "musee_id": "orsay",
+    "titre": "L'Air du soir",
+    "artiste": "Henri-Edmond Cross",
+    "dates": "vers 1893",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri-Edmond%20Cross%20-%20The%20Evening%20Air%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/lair-du-soir-3024"
+  },
+  {
+    "id": "orsay-203574",
+    "musee_id": "orsay",
+    "titre": "Le Pardon (Bretonnes dans la prairie)",
+    "artiste": "Émile Bernard",
+    "dates": "1888",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Bernard%20-%20The%20Pardon%20%28Le%20Pardon%29%201888.jpeg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/le-pardon-203574"
+  },
+  {
+    "id": "orsay-291",
+    "musee_id": "orsay",
+    "titre": "Arearea",
+    "artiste": "Paul Gauguin",
+    "dates": "1892",
+    "emplacement_note": "Salle à confirmer",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Arearea%20-%20Google%20Art%20Project.jpg?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/arearea-291"
+  },
+  {
+    "id": "orsay-8028",
+    "musee_id": "orsay",
+    "titre": "Le Talisman, Paysage au Bois d'Amour",
+    "artiste": "Paul Sérusier",
+    "dates": "1888",
+    "niveau": "Niveau supérieur",
+    "salle": "Galerie Françoise Cachin",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Serusier%20-%20the%20talisman.JPG?width=600",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/le-talisman-paysage-au-bois-damour-8028"
+  },
+  {
+    "id": "orsay-8022",
+    "musee_id": "orsay",
+    "titre": "Femmes au jardin (quatre panneaux)",
+    "artiste": "Pierre Bonnard",
+    "dates": "1891",
+    "niveau": "Niveau médian",
+    "salle": "Salle 72",
+    "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/femmes-au-jardin-femme-assise-au-chat-8022"
   }
 ];
 
@@ -1917,6 +2608,2020 @@ window.PARCOURS = [
                 "Un véritable **portrait de cheval**, sans cavalier : un étalon moucheté, de type espagnol avec du sang arabe ou berbère.",
                 "En contrebas à droite, un cerf buvant et deux biches ; ce cheval revient dans un autre tableau de 1649.",
                 "Il s'agit sans doute autant de représenter une race que de fixer l'image d'un cheval à la demande de son propriétaire."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "denon_1791-1819_neoclassicisme-gericault",
+    "musee_id": "louvre",
+    "illustration": "cl010059199",
+    "titre": "[Louvre] [Aile Denon] [1791-1819] Du néoclassicisme à Géricault",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 5 « Couleur, passion et politique : le romantisme en France » (Cybill Whalley, 29/09/2025)",
+    "fil_conducteur": "La peinture d'histoire néoclassique est peu à peu gagnée par le sentiment, le mystère et l'actualité : de Gérard et Girodet à David, puis Gros et Géricault, l'idéal laisse place à l'individu, au drame et à l'histoire contemporaine.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010066604",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Gérard, élève de David depuis 1786, sera portraitiste officiel du Consulat, de l'Empire puis de la Restauration. Ici, il allie **sentimentalisme** et représentation néoclassique.",
+                "Le tableau, daté de 1798, est de **format historique** : il traite un sujet mythologique à grande échelle, selon la hiérarchie des genres.",
+                "L'œuvre témoigne de l'évolution du néoclassicisme vers l'expression de la **sensualité**, qui n'a pas reçu un accueil unanime : beaucoup furent troublés par ce nouveau style."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **186 x 222 cm**. Psyché hérite de la sculpture antique, mais avec des formes un peu plus charnelles.",
+                "Regardez le paysage à l'arrière-plan : il est hérité de la Renaissance, du voyage en Italie et des maîtres italiens.",
+                "Regardez le geste de Psyché : mains sous la poitrine, bras croisé sur le buste nu, regard un peu perdu."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Psyché, personnification de l'**âme humaine**, est troublée par le premier baiser de Cupidon, l'Amour.",
+                "Son expression est surprise et troublée : c'est « l'entrée du sentiment dans la peinture néoclassique »."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064831",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Girodet est l'un des peintres les plus **intellectuels** de l'entourage de David. Prix de Rome, il se familiarise à Rome avec les antiques et les maîtres de la Renaissance.",
+                "Il puise ses sujets dans la mythologie antique, la Bible et la littérature d'Ossian. Le tableau, présenté au Salon de 1793, rencontre un grand succès.",
+                "Il s'inspire d'un **bas-relief de sarcophage antique** : la lune y symbolise la mort et Séléné, descendue de son char, veut séduire le plus beau berger, Endymion, endormi par Hypnos."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **198 x 261 cm**. Le néoclassicisme s'allie à l'**immatérialité** : Girodet ne montre pas Séléné, seulement les effets de la lune.",
+                "Regardez la lumière lunaire qui baigne le corps du berger : c'est elle, et non la déesse, qui est représentée.",
+                "À gauche, Zéphir, le vent de l'Ouest, correspond à la déesse de la brise du bas-relief et guide la lumière vers Endymion."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le jeune berger, le plus beau de tous, est endormi : c'est le sommeil éternel du mythe, éclairé par la lune.",
+                "Contrairement à l'imagerie de David, Girodet s'intéresse à l'**immatériel**, au mystère et à la présence du sensible, au lieu de la raison."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065426",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ce n'est pas une commande : David peint dans son atelier du Louvre et décide d'exposer. Il fait payer l'entrée pendant cinq ans, pour environ **50 000 visiteurs**.",
+                "En 1799, il prône la **réconciliation des Français** entre révolutionnaires et contre-révolutionnaires, après le traumatisme de la Terreur. Il sert la propagande napoléonienne en touchant l'opinion publique.",
+                "David avait installé un miroir pour que le spectateur soit placé au centre de la scène.",
+                "La ligne contre la couleur sera un combat, « l'histoire sans fin » qui revient avec les romantiques entre Ingres et Delacroix."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile gigantesque de **385 x 522 cm** : une frise académique sans effet de profondeur, héritée de la sculpture.",
+                "Le paysage occupe un tiers de la composition : la colline du Capitole à Rome, dans un style simple et pur.",
+                "Regardez les guerriers nus, au corps lisse comme du marbre : la critique jugeait cela incohérent, David y voit héroïsme et forme épurée."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau montre non l'enlèvement des Sabines, comme chez Poussin, mais **l'épisode d'après** : les Sabins tentent de reprendre leurs filles aux Romains.",
+                "Au centre, **Hersilie** interrompt le combat entre son mari Romulus, au bouclier orné d'une louve, et son père Tatius, roi des Sabins.",
+                "Pour la première fois, David met les femmes au premier plan et au centre de l'épisode historique, avec une iconographie de la charité.",
+                "Regardez la femme en rouge, bras levés, bouche ouverte : incarnation de la **Terreur** contenue devant l'innocence et la paix d'Hersilie."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066486",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Dernier grand tableau de bataille de l'Empire par Gros, élève de David dont il reprend l'atelier. C'est une **commande de l'État**, passée par Vivant Denon, à l'issue d'un concours.",
+                "Gros l'emporte parce qu'il montre les désastres et les souffrances de la vie humaine : 9 000 morts français à Eylau, par environ -20 °C.",
+                "La presse s'empare du sujet malgré la censure : le bulletin de la Grande Armée parle d'un « spectacle horrible » que « le devoir rendait nécessaire ».",
+                "Le sujet moderne prend le pas sur l'histoire antique et valorise l'effort de guerre. À la chute de l'Empire, Gros se suicide en 1835, ne s'accommodant pas de la peinture romantique."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **521 x 734 cm**. Napoléon est au centre, tel une statue équestre, sur son cheval lumineux, dans un geste à la fois christique et absolutiste.",
+                "Regardez le paysage de neige, les armes, les morts et les blessés, sans doute amputés ou en train de l'être.",
+                "À l'arrière-plan, l'armée française et la ville d'Eylau dans le chaos et les fumées : un paysage brossé qui fait son entrée dans la grande peinture d'histoire."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Napoléon vient sur le champ de bataille, mais « il n'y pouvait rien » : il est déjà trop tard, ces hommes sont morts pour la patrie et le devoir.",
+                "Au centre, un soldat implore et remercie le chef ; un autre, allongé, est peut-être piétiné. Murat figure parmi les généraux.",
+                "C'est le **fragment romantique** : on représente l'individu dans ses souffrances plus que la valeur morale, ce que Géricault et Delacroix admireront.",
+                "Pour les Pestiférés de Jaffa, voir le premier parcours."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059198",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Première œuvre de Géricault, exposée au Salon de 1812 avec une bonne critique. Formé en copiant au Louvre, il ne s'entend pas avec Vivant Denon.",
+                "Géricault réforme la peinture d'histoire en s'intéressant au **revers de la Grande Armée** : peintre de la défaite et des vaincus, inspiré de Gros mais aux antipodes de la propagande.",
+                "Pour Henri Zerner, le chasseur « n'appartient à aucune catégorie de peinture » : il combine portrait, anonymat, scène de genre et **format du portrait équestre**."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **349 x 296 cm**. Le romantisme, c'est le mouvement de la scène suggéré par la **touche** : pas de fini néoclassique, une touche rapide.",
+                "Regardez le paysage sombre, dangereux, presque apocalyptique, avec le feu : on ne sait pas ce qui s'y passe.",
+                "L'anatomie du cheval peut être critiquée, mais sur 2,96 m les proportions sont en fait très bien calibrées."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Géricault représente son ami Alexandre Dieudonné, chasseur de la Garde impériale, homme de rang à la carrière lente, en plein combat : « tombera, tombera pas ».",
+                "Ce n'est pas la victoire mais la chute : un portrait équestre d'un anonyme, **anti-héros**, dans une lutte désespérée pour la survie.",
+                "Regardez son regard perdu, tandis qu'il tient les brides de son cheval : le drame personnel remplace l'héroïsme traditionnel."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059199",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Exposé au Salon de 1819 sous le titre de **Scène de naufrage**, pour ne pas critiquer ouvertement la Restauration : le tableau fait un constat, sans attaque antimonarchiste ou libérale.",
+                "En juillet 1816, la frégate royale la Méduse, en route pour coloniser le Sénégal, s'échoue. Sur le radeau, 150 hommes s'entassent dix jours : 20 sont emportés, les autres s'entretuent, avec cannibalisme.",
+                "Deux survivants racontent l'histoire, Louis XVIII ne peut la nier. Géricault se documente, travaille d'après des cadavres et fragments fournis par des infirmiers de l'hôpital Beaujon.",
+                "Présenté en Angleterre, le tableau y est très bien reçu. À Paris, en 1819, il suscite attrait ou répulsion."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **491 x 716 cm** : une frise à la David, lisible, mais en **pyramide** vers le haut, symbole d'une survie qui ne mène pas à la gloire.",
+                "Esthétique du sublime, « l'horreur délicieuse » : corps contorsionnés hérités de Michel-Ange, vu en Italie en 1816, et beauté dans la violence.",
+                "Regardez les cadavres au premier plan, puis l'Argus minuscule à l'horizon : l'espoir est tout au fond.",
+                "Les dessins préparatoires, la Mutinerie ou la Scène de cannibalisme, sont beaucoup plus peuplés."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau montre la lutte pour la survie. Regardez le personnage pensif au voile rouge : il incarne le doute, déjà vu chez Gros, et la violence.",
+                "Un personnage pourrait être un portrait de Delacroix, ami de Géricault.",
+                "Les « fragments » s'intéressent à l'homme et à ses accidents, pas à une vertu ou à un concept idéal."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "denon_1822-1834_delacroix-ingres-salon-1827",
+    "musee_id": "louvre",
+    "illustration": "cl010065757",
+    "titre": "[Louvre] [Aile Denon] [1822-1834] Delacroix, Ingres et le Salon de 1827",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 5 « Couleur, passion et politique : le romantisme en France » (Cybill Whalley, 29/09/2025)",
+    "fil_conducteur": "Le Salon de 1827 et ses alentours : dessin d'Ingres et couleur de Delacroix s'affrontent, entre orientalisme, histoire et « juste milieu » de Delaroche.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010065871",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Delacroix, inconnu de la critique et du public, est reconnu très jeune dès **1822** avec ce tableau : il veut réussir vite, obtenir une médaille et devenir « maître parmi les maîtres ».",
+                "Il a rencontré Géricault dans l'atelier de Guérin, à la fois néoclassique et ouvert à la nouvelle peinture ; la mort de Géricault, en 1824, lui laisse la voie libre.",
+                "Œuvre conçue pour le Salon, achetée par l'État : le comte de Forbin, directeur du Louvre et successeur de Denon, l'acquiert pour la Direction des Musées royaux.",
+                "Les poètes unis dans les souffrances de l'enfer figurent les artistes touchés par le « mal du XIXe siècle », sous la Restauration qui « va serrer la vis » jusqu'en 1830.",
+                "Dante, Shakespeare ou Byron justifient l'entrée du **sublime** et des épisodes dramatiques ; Delacroix leur préfère Ossian, laissé aux générations précédentes."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 189 x 241,5 cm : un thème littéraire élevé aux dimensions de la peinture d'histoire, le « grand genre ».",
+                "Composition centrée sur les deux poètes, monumentalisés par leurs **drapés** ; regardez Virgile au centre et Dante sur la barque.",
+                "Ciel sombre, paysage obscur : l'atmosphère dit d'emblée « vous êtes aux enfers ». Observez les corps des damnés, éclairés contre l'obscurité.",
+                "Le traitement rappelle la scène de déluge de Girodet (1806), où l'on ne distingue plus nettement le néoclassique du romantique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Scène de la Divine Comédie : sur le **Styx**, Virgile et Dante sont conduits par Phlégias, tandis que les damnés s'accrochent à la barque.",
+                "Les échecs des régimes politiques successifs se liraient à travers Dante et Virgile aux enfers : le tableau mêle thème littéraire et critique de l'histoire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065757",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Présenté au **Salon de 1827**, ouvert en 1827 et fermé en 1828, dit « romantique » : plus de 40 % des tableaux relèvent de la nouvelle peinture, devenue officielle.",
+                "Le sujet est tiré de *Sardanapalus* de Lord Byron (1821-1822, traduit en France) : un roi assyrien assiégé qui préfère se suicider plutôt que capituler.",
+                "Gros le qualifie de « massacre numéro deux » après Scio : il ne comprend pas la nouvelle génération.",
+                "Delacroix ne trouve pas d'acheteur : il garde la toile dix-huit ans dans ses ateliers ; le Louvre l'acquiert en 1921."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 392 x 496 cm. Delacroix mélange peinture d'histoire, scène de genre et peinture baroque.",
+                "Regardez la **diagonale rouge** du drap qui coule : elle structure la scène, avec une frise en mouvement, le cheval et la femme violentée.",
+                "Le bas de la toile fonctionne en frise, avec un cadrage moderne ; la tête d'éléphant et les objets situent la scène en Orient, selon la passion de Delacroix pour les décors.",
+                "Le roi, au sommet, est lumineux dans son vêtement sur le drap rouge, à l'inverse du chaos des corps."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Sardanapale ordonne la mort de son harem et de sa maîtresse Myrrha avant de périr sur le bûcher ; une femme se pend au-dessus.",
+                "Le roi incarne la « noble simplicité, calme grandeur » de David : suicide, mais tout va bien, il reste calme tandis que femmes et soldats sont violentés.",
+                "Le romantisme ne fait pas table rase mais une **subversion** : une critique de la peinture d'histoire par l'histoire elle-même, rendue lisible au spectateur.",
+                "Dans la partie inférieure, le groupe des esclaves s'entre-tue avant d'aller sur le bûcher."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065869",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Delacroix voyage au Maroc en 1832, avec le comte de Mornay, ambassadeur de Louis-Philippe : il est invité dans les hautes sphères.",
+                "Il ne fait pas poser les femmes du harem : ses carnets de croquis rapportés du voyage serviront jusqu'à la fin de sa carrière.",
+                "L'**orientalisme** est une esthétique occidentale liée au romantisme, qui introduit un nouveau thème dans la peinture d'histoire, comme Gros dès 1801.",
+                "Delacroix reviendra aux thèmes orientaux jusqu'à sa mort en 1863 ; Saïd rappelle que l'Orient de la peinture est fantasmé par l'Occident."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 180 x 229 cm, au grand format digne d'une peinture historique.",
+                "La composition reste **en frise**, héritage de la peinture d'histoire académique, avec des poses lascives loin de Vénus et d'Hersilie.",
+                "Regardez le costume, les touches, les babouches et le décor : le peintre s'y attarde, avec un nouveau ciel, de nouvelles couleurs et une nouvelle lumière."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Nouveaux sujets, nouvelle histoire : des femmes dans l'intimité d'un intérieur, scène contemporaine plutôt que mythe ou histoire antique.",
+                "Pour Delacroix, l'antique devient une « antiquité vivante » : l'apprentissage classique sert le nouveau thème de l'Orient."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066297",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Delaroche est le peintre du **juste milieu**, qui deviendra le portraitiste de Louis-Philippe : il mêle drame et retenue dans les émotions.",
+                "Le tableau, exposé au Salon de 1827-1828, prolonge l'anglomanie ; le livret renvoie à l'histoire d'Angleterre de David Hume.",
+                "Acheté par la Liste civile en 1828 pour 6 000 francs, il est envoyé au musée du Luxembourg ; la nouvelle peinture entre ainsi au musée grâce à Forbin.",
+                "Le « juste milieu » désigne aussi Louis-Philippe : se tenir également éloigné des excès du pouvoir populaire et des abus du pouvoir royal."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 422 x 343 cm. Tout est placé pour la **lisibilité** : chez Ossian les personnages étaient difficiles à identifier, ici tout est clair.",
+                "La reine, loin du portrait, se perd dans les draps : on la reconnaît à son manteau d'hermine et à un pied qui dépasse.",
+                "Regardez les ministres dans l'obscurité et le blason d'Angleterre au fond du tableau."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La reine Élisabeth rend l'âme en 1603 : l'essentiel se joue du côté des femmes, « royaume de l'émotion », qui prient ou détournent le regard.",
+                "Le futur Jacques Ier, reconnaissable à son symbole de chevalerie, reçoit la bague royale ; ses ministres, dans l'ombre, penseront le gouvernement.",
+                "Le tableau offre une autre version de l'histoire, centrée sur la mort du héros."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065748",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ingres a fait une grande carrière en Italie, avec deux maîtres, **Raphaël** et Masaccio ; la composition s'inspire du Parnasse de Raphaël.",
+                "Commandée pour un plafond du musée Charles X, au Louvre, l'œuvre est exposée au Salon de 1827 ; Baudelaire la juge « un beau tableau qui plafonne mal ».",
+                "Le Salon de 1827 oppose les deux écoles, ou plutôt la critique les fait s'affronter : une quarantaine d'individus d'Ingres face au Sardanapale.",
+                "Hugo, dans la préface de *Cromwell*, distingue trois âges de la poésie : l'ode, l'épopée, le drame ; en 1827, on étudie le drame."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 386 x 512 cm. Le dessin est présent, avec l'importance de la forme  : on dit que chez Delacroix il y a du dessin et chez Ingres de la couleur.",
+                "Regardez Homère assis devant un temple, couronné par la **Victoire**, et l'Iliade et l'Odyssée à ses pieds.",
+                "Repérez Virgile à la collerette blanche tenant la main d'Apelle en bleu, Eschyle au rouleau ouvert, Dante en rouge à gauche, Shakespeare et Poussin en bas.",
+                "À droite, Pindare avec son instrument, Phidias, Périclès, Platon, le roi Alexandre au casque doré, et Molière en bas."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Tous les artistes antiques et modernes descendent d'Homère, ici divinisé : ils lui doivent tout.",
+                "Ces personnages n'ont pas posé : Ingres s'est inspiré de portraits existants."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010061562",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Plafond de la quatrième salle du musée Charles X, actuelle salle 644, commandé à Picot en 1826 et terminé pour l'inauguration du musée en décembre 1827.",
+                "Tableau présenté parmi les œuvres du Salon de 1827 : l'Égypte y est fantasmée, car peu d'artistes vont réellement en Égypte.",
+                "Edward Saïd, dans *L'Orientalisme*, explique que l'Orient du XIXe siècle est fantasmé par l'Occident ; la Grèce passe ici le flambeau à l'**égyptomanie**."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Plafond monumental d'environ 5,7 x 6,8 m, entouré de voussures aux motifs égyptiens mêlés à des guirlandes.",
+                "Regardez l'Étude ailée et le Génie qui tient le flambeau, tournés vers la Grèce.",
+                "Repérez la chouette aux pieds d'Athéna, et les clichés égyptiens comme le crocodile."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "L'Étude et le Génie présentent l'Égypte à la Grèce : la Grèce, symbolisée par Athéna, la sagesse, accueille l'Égypte.",
+                "Une Égypte érotique et fantasmée, antiquité vivante : l'Orient imaginé par l'Occident."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "richelieu_1799-1810_directoire-empire",
+    "musee_id": "louvre",
+    "illustration": "cl010101256",
+    "titre": "[Louvre] [Aile Richelieu] [1799-1810] Du Directoire à l'Empire : le style de Percier et Jacob",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 2 « Le néoclassicisme en France et en Europe. Les styles Empire » (Aurélie Erlich, 08/09/2025)",
+    "fil_conducteur": "Du dépouillé du Directoire, avec le lit et le salon de Madame Récamier, à la magnificence impériale des Tuileries, le parcours suit le vocabulaire antique puis égyptien, porté par le trio Percier, Fontaine et Jacob et par l'orfèvre Biennais.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010101256",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Commande de la toute fin du **Directoire**, vers 1799, pour l'hôtel particulier de Juliette Récamier, rue du Mont-Blanc à Paris, où elle tient de nombreux salons.",
+                "Le dessin est de l'architecte décorateur **Berthault**, élève de Percier et Fontaine, qui accorde un soin particulier à la chambre, dont le lit est l'une des pièces maîtresses.",
+                "Réalisé par les ébénistes **Jacob Frères**. Un meuble conçu pour un décor perd une part de son histoire une fois sorti du lieu pour lequel il a été commandé.",
+                "Il annonce déjà le style Empire : sobriété des lignes, choix de l'acajou, bronzes tirés d'un vocabulaire antique nourri par les fouilles de Pompéi et d'Herculanum.",
+                "On pouvait alors recevoir dans sa chambre, d'où la qualité du mobilier."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Lit entièrement en **acajou**, très géométrique : une majorité de lignes droites, retour à la rigueur adoucie par la courbe de la traverse et les légers enroulements des chevets.",
+                "Conçu parallèle au mur, il a deux chevets de hauteurs égales, posés sur une sorte de socle aux angles, avec un léger ressaut des extrémités qui donne du volume.",
+                "À observer : la marqueterie d'acajou très simple, où le veinage du bois crée relief et profondeur, et le contraste entre bronze doré et bronze patiné à l'antique, qui apporte une polychromie."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Aux extrémités, des femmes en bronze doré vêtues de péplums, coiffées d'un croissant de lune et tenant des torches allumées : elles symbolisent la **nuit**.",
+                "Au pied de chaque chevet, des **cygnes** en bronze doré quasiment en ronde bosse, symbole de l'Antiquité qui sera repris sous l'Empire.",
+                "Des fleurs de **pavot**, symbole du sommeil, complètent ce programme ornemental lié à la fonction du meuble.",
+                "Le tore de lauriers, les palmettes et les rosaces de la partie inférieure viennent directement du répertoire antique."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010101291",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le guéridon appartient au salon de Madame Récamier (guéridon, chaise longue, paire de bergères, fauteuils, chaises, tabourets), œuvre des **Jacob Frères** vers 1798.",
+                "La famille Jacob traverse l'Ancien Régime, le Directoire, le Consulat et l'Empire en changeant de nom : Jacob, Jacob Frères, Jacob-Desmalter, c'est la même famille.",
+                "Sans corporations, les ébénistes peuvent enfin réaliser chaises et lits en bois plaqué, ce que l'Ancien Régime réservait aux menuisiers, qui n'avaient pas le droit de plaquer.",
+                "Le guéridon a appartenu à Juliette Récamier puis à sa nièce Amélie Lenormant ; il entre au Louvre en 1994 par un don."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Plateau en marbre brèche violette dans un encadrement de **citronnier** avec filets, pastilles et rosaces d'étain ; ceinture en bronze guilloché.",
+                "Fût triangulaire évasé en acajou, orné d'une rosace en bronze doré, sur trois pieds incurvés terminés par des griffes. Hauteur 74,7 cm, diamètre 75,5 cm.",
+                "Le salon se distingue par une grande sobriété : pas de bronze doré, mais l'acajou, le citronnier et l'amarante, précieux pour leur **polychromie**, avec un placage très simple."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Inspiration néoclassique tirée du mobilier dessiné sur les **vases étrusques** : pieds balustres à pattes de lion, pieds étrusques dits en dents de sabre, tabourets à pieds en X, sièges curules.",
+                "Les sièges du salon reprennent des draps de laine à galons noirs, imaginés d'après les vases étrusques, et des supports d'accotoirs en sphinges patinées sombres comme des bronzes vieillis.",
+                "Madame Récamier est peinte par David dans ce décor, en tenue et coiffure à l'antique : on sort du faste Louis XVI pour une recherche plus archéologique."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010103631",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Une athénienne est un **lavabo** : le nom vient d'un tableau de Vien, « La Vertueuse Athénienne », où une femme grecque fait une offrande sur un trépied.",
+                "Réalisée entre 1800 et 1804 pour orner la chambre de Napoléon aux Tuileries, sur une forme donnée par **Charles Percier**.",
+                "**Biennais**, à l'origine orfèvre, peut la réaliser car les corporations rigides n'existent plus.",
+                "Napoléon l'apprécia tant qu'il l'emporta en exil à **Sainte-Hélène**.",
+                "On ne parle d'athénienne que pour les exemplaires très luxueux : on sent le passage aux Tuileries, plus luxueux qu'à la Malmaison."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Petit trépied inspiré des trépieds antiques que l'on voit sur les vases, à socle tripartite aux lignes un peu courbes pour atténuer la rigueur visuelle.",
+                "À observer : les pieds en pattes de lion en bronze doré sur une loupe qui donne un effet moucheté, légèrement incurvés et reliés au centre par une entretoise.",
+                "Au sommet, l'aiguière destinée à conserver l'eau, et les cygnes aux ailes éployées en ronde bosse qui soutiennent la vasque, le tout en **bronze doré ciselé**."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un dé à chaque extrémité de l'entretoise porte un petit **aigle**, emblème impérial.",
+                "Les **dauphins**, qui symbolisent l'eau, relient l'entretoise aux pieds ; avec les cygnes, les entrelacs et les petites palmettes ciselées, ils installent l'univers aquatique propre à un lavabo."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010098917",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ce service à café de 36 pièces, livré en 1810 au palais des Tuileries par la manufacture de **Sèvres**, est le quatrième cabaret égyptien réalisé, l'empereur en ayant fait faire plusieurs.",
+                "Les cabarets sont des services à déjeuner : à l'époque on déjeune vers 8 h, et Napoléon prend un déjeuner plus copieux vers 9 h 30 ou 10 h.",
+                "Ces objets prennent une place importante dans la vie sociale et protocolaire, avec de nouvelles boissons réservées à la très haute société : café, chocolat, thé.",
+                "Le décor puise dans le « Voyage dans la basse et haute Égypte » de **Vivant Denon**, qui accompagnait Napoléon dans l'expédition militaire, aussi « artistique » que technique."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Service à café en porcelaine aux polychromies, à l'intérieur doré : un travail de dorure extraordinaire.",
+                "Les formes ne sont pas du tout égyptiennes : seuls les **décors** le sont, comme pour le cabaret de Joséphine.",
+                "À observer : la variété des pièces, car les tasses à thé, à café et à chocolat avaient chacune une forme selon leur usage."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Les soucoupes portent les portraits de personnages locaux, bédouins, cheikhs, strictement copiés des dessins de Denon, et les grandes vues égyptiennes viennent de ses planches.",
+                "Les **hiéroglyphes** mêlés au décor n'en sont pas : c'est de la copie qui n'a aucun sens, car leur compréhension n'existait pas encore.",
+                "Même après Champollion, les artistes peinent à mettre en scène les hiéroglyphes : connaître leur sens ne donne pas la maîtrise de leur grammaire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010111605",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Service en vermeil livré en 1810 par **Biennais**, l'orfèvre favori de Napoléon, à l'occasion du mariage de l'empereur avec Marie-Louise.",
+                "Il devait remplacer auprès de Marie-Louise le service de Joséphine.",
+                "Les modèles sont dus à Charles Percier et Fontaine, sur des dessins préparatoires aujourd'hui conservés aux Arts décoratifs de Paris.",
+                "Il complétait le service à café en porcelaine de Sèvres aux vues d'Égypte ; ses pièces sont aujourd'hui partagées entre le Louvre et le musée d'Édimbourg."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "L'ensemble comprend notamment un grand samovar, des théières et un petit passe-thé très élégant, dont le col est en bec de cygne.",
+                "Le travail se fait en **bas-relief** et en vermeil, dans la virtuosité de l'orfèvre, pour le luxe de la table impériale.",
+                "À observer : le grand samovar et les théières, pièces maîtresses de l'ensemble livré avec ses deux coffres."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Décor d'**abeilles**, de cygnes et de petites rosaces à l'antique : l'abeille, non romaine, renvoie aux abeilles mérovingiennes et place Napoléon dans la lignée des rois.",
+                "Le passe-thé associe Amphitrite et des chevaux marins, un répertoire antique et aquatique."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010117332",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Fauteuil du trône livré en 1804 par **Jacob-Desmalter** pour la salle du Trône des Tuileries, aménagée pour le sacre du 2 décembre 1804.",
+                "Percier et Fontaine conçoivent le décor : grande innovation dans l'agencement héraldique, avec le **N** entouré d'une couronne de laurier et des palmettes.",
+                "Depuis le sacre, l'empereur doit afficher aux yeux de l'Europe sa puissance : les arts décoratifs deviennent, comme la peinture et la sculpture, des objets de **propagande**.",
+                "Le blocus continental, à partir de 1806, interdit l'acajou : on utilise alors des bois indigènes, orme, frêne, noyer, érable, tilleul."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Dossier beaucoup plus droit, rigueur orthogonale, meuble lourd et massif aux piètements imposants, de plus en plus **architecturé**.",
+                "Bois de plus en plus dorés, pour donner l'illusion de meubles en or ; on joue moins sur le placage dans les commandes officielles.",
+                "Les couleurs, jaune d'or, vert, cramoisi, violet, pourpre, sont complexes à obtenir et portent une symbolique royale.",
+                "À observer : le dossier à tore de laurier sculpté et doré, et les tissus couverts de fil d'or, où l'Empire ne laisse pas un centimètre carré libre."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "L'iconographie reprend le décor guerrier de la Rome républicaine : Napoléon se voit en nouveau César.",
+                "Sphinx, renommées, lions, aigles, dauphins, étoiles, palmettes, lyres, et le **N** lauré, initiale de Napoléon.",
+                "Les **abeilles**, qui ne sont pas romaines, renvoient aux abeilles mérovingiennes et rattachent Napoléon à la lignée des rois.",
+                "On trouve aussi les colliers de la **Légion d'honneur**, apparue à cette période."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010117913",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Console de Thomire datée d'avant 1807, représentative des meubles sculpturaux et massifs du style Empire.",
+                "Elle illustre la dernière évolution du style Empire : des meubles beaucoup plus sculpturaux, massifs et assez rigides, où un faste doit s'imposer.",
+                "Achetée par le Garde-Meuble en 1812, elle passe par l'Élysée puis le château de Compiègne et rejoint le Louvre en 1957."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Meuble en **racine d'if** rehaussé de bronzes dorés et patinés, avec un beau marbre bleu turquin.",
+                "Le plateau, d'environ 1,79 m de long, repose sur deux chimères ailées, un contraste de matériaux entre bois, bronze et marbre.",
+                "À observer : la frise de guirlandes et de candélabres, et les griffons affrontés de part et d'autre d'une lyre aux extrémités."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Deux **chimères ailées** en bronze patiné, rehaussées de dorure, supportent la console : un bestiaire antique cher à Percier et Fontaine.",
+                "Griffons et lyre complètent ce vocabulaire antique, dans la lignée du bestiaire (cygne, lion, griffon, sphinx) imposé par Percier et Fontaine."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010100833",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Livré en **1809** à l'impératrice Joséphine, peu avant son divorce, il appartient ensuite à Marie-Louise.",
+                "La forme est fournie par **Charles Percier** et la réalisation revient à Jacob-Desmalter.",
+                "Les intérieurs cachent de petits tiroirs destinés aux parures, sécurisés par un **secret** : un mécanisme que seule connaît l'impératrice, et que l'on changea entre Joséphine et Marie-Louise."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Meuble très architectural, presque un petit **arc de triomphe**, qui s'ouvre par trois vantaux, avec colonnes.",
+                "Entièrement en bois d'if moucheté et amarante, et non en acajou, avec incrustations d'amarante, de nacre et de bronze doré.",
+                "À observer : la finesse des bronzes dorés et des incrustations de nacre, l'une des plus belles orfèvreries du mobilier."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Décor de bronze doré avec de petits putti et des trophées d'armes.",
+                "Les petits **papillons** sont les symboles de l'âme féminine, qui souvent varie et volte."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "orsay_1833-1867_peuple-terre",
+    "musee_id": "orsay",
+    "illustration": "orsay-345",
+    "titre": "[Orsay] [Rez-de-chaussée] [1833-1867] Le peuple et la terre",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 6 « Les réalismes au milieu du siècle » (Cybill Whalley, 06/10/2025)",
+    "fil_conducteur": "Entre la Seconde République et le Second Empire, le monde paysan et populaire entre dans la peinture d'histoire : grands formats pour sujets « bas » chez Daumier, Rosa Bonheur, Millet et Courbet, avant que le paysage de Barbizon ne s'impose à son tour.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "orsay-656",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Entre 1832 et 1835, à la demande de son ami Charles Philippon, Daumier exécute les **bustes de charge** : 36 au total, tous conservés à Orsay.",
+                "Daumier est un fervent républicain : dès la révolution de 1830, il choisit sa vocation de caricaturiste, dans le journal satirique de Philippon, La Caricature.",
+                "Louis-Philippe se voulait dans un « juste milieu également éloigné des excès du pouvoir populaire et des abus du pouvoir royal » : ne pas choisir lui vaut d'être tourné en ridicule.",
+                "Ces bustes symbolisent l'**opposition à la monarchie de Juillet** ; Guizot, ministre du régime, sera renvoyé en 1848."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Modèle en **terre crue colorée**, de petite taille (22,5 x 17,5 x 15,4 cm) : regardez ce portrait-charge de petite échelle, presque un objet à tenir.",
+                "Ces bustes sont peints à l'huile : observez la couleur appliquée sur la terre, qui accentue le caractère de caricature en volume.",
+                "Ici la caricature passe de la lithographie, son média habituel, à la sculpture : Daumier garde son sens de l'essentiel et du trait appuyé."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le sujet est le ministre **Guizot**, figure du pouvoir de la monarchie de Juillet, traité en charge satirique plutôt qu'en portrait officiel.",
+                "Les amis et l'entourage professionnel de Daumier figurent aussi parmi les bustes, tel Philippon lui-même, qui a commandé la série."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-10865",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le 24 février 1848, la République est proclamée : il faut une image officielle, et un concours s'ouvre le 14 mars pour « la figure peinte de la République ».",
+                "Plus de 700 candidats se présentent, dont Daumier et Jean-Léon Gérôme, deux styles différents à la même période ; Daumier est retenu parmi les 20 finalistes.",
+                "Le jury (Ingres, Delacroix, Delaroche) classe Daumier 11e, mais il n'y a **pas de lauréat** : la répression de juin, et une Seconde République qui se veut fraternelle, l'expliquent.",
+                "Cette toile marque le début de sa carrière de peintre ; l'esquisse mesure 70 cm de haut."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La figure est stable : elle tient fermement le **drapeau**, et la poitrine dénudée rappelle La Liberté guidant le peuple de Delacroix (1830).",
+                "Regardez la femme au centre dominant les enfants à ses pieds : l'un lit, les livres rappellent l'instruction.",
+                "En face, la République de Gérôme est néo-grecque : déesse figée, de face, rameau d'olivier, glaive baissé, arc-en-ciel et étoile dans un paysage apaisé."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Daumier propose une République généreuse : « La République nourrit ses enfants et les instruit », sur l'iconographie de la **charité**.",
+                "C'est une femme du peuple qui nourrit deux enfants, fusion de la charité avec une image simple, populaire et réaliste."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-68",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "C'est une **commande** passée à Rosa Bonheur (1822-1899) pour le musée de Lyon ; le tableau sera finalement conservé à Paris, au musée du Luxembourg, musée de l'art contemporain.",
+                "Exécuté entre 1848 et 1849, il paraît au lendemain de la révolution : le travail des champs devient sujet d'importance, dans un monde paysan marqué par un contraste social.",
+                "Elle commence sa carrière en 1841 et se consacre à la peinture de genre, mais dans un **format de peinture d'histoire**."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le format est grand (133 x 206 cm) : regardez comme les attelages s'étirent en largeur, comme dans une frise.",
+                "La **frise** héritée des sarcophages antiques est remplacée par des animaux : les bœufs du pays nivernais."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Les héros deviennent les animaux, dans une représentation du labourage au début de l'automne.",
+                "Le tableau lie peinture d'histoire, peinture de genre et peinture animalière, et montre une reconnaissance de la **province** et de ses traditions agricoles.",
+                "Le réalisme revendique une réalité brute et contemporaine, non édulcorée, mais il y a toujours composition et travail d'atelier."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-342",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Millet est loin d'être inconnu en 1857 : il se fait connaître dès la Seconde République avec une œuvre sociale, représentant les gestes des paysans.",
+                "Exposée au salon de 1857, l'œuvre déclenche une **polémique** : certains critiques y voient une lutte sociale, les glaneuses incarnant le prolétariat rural.",
+                "Paul Mantz écrit en 1859 que Millet a « rompu avec les vulgarités d'un réalisme mesquin » : les labeurs des champs ont « leur poésie et leur héroïsme ».",
+                "Millet est un peintre conservateur, non engagé politiquement : son œuvre est fataliste, l'homme est condamné à porter son fardeau."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 83,5 x 110 cm : un grand format d'histoire pour un sujet « bas ». Regardez la composition en **frise**, le ciel couvrant un tiers du tableau.",
+                "Trois femmes, trois positions : se baisser, ramasser, se relever. Observez leurs têtes couvertes, sans visage, aux vêtements de bure en bleu, blanc, rouge.",
+                "À l'arrière-plan, le climat change : la récolte du blé et, au fond à droite, un garde à cheval, comme l'instant fécond du Radeau de la Méduse."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le glanage est un travail réglementé : autorisé avant le coucher du soleil, pour ramasser les épis négligés dans les champs moissonnés.",
+                "Anonymes, les paysannes sont définies par leur seule tâche : Millet en fait des figures classiques, une image universelle du **labeur**.",
+                "Face aux Glaneuses de Jules Breton, plus pittoresques et bucoliques, la dureté du travail se lit dans la forme même des corps chez Millet."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-345",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le tableau est peint à la demande d'un **collectionneur américain** ; Millet l'achève deux ans plus tard, en 1859.",
+                "Inspiré d'un souvenir d'enfance, ce paysan modèle n'est pas peint pour la Seconde République mais pour le **Second Empire** ; Millet est un peintre conservateur.",
+                "Millet contribue dans les années 1850-1860 à la disparition des sujets classiques et bibliques : avec les paysans, l'histoire continue, sans rompre avec la tradition.",
+                "Sa réputation ne cesse de croître : il devient le grand peintre républicain des années 1870, alors que Courbet, plus virulent, sera le communard."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 55,5 x 66 cm. Composition classique en **frise** : regardez le couple planté dans la terre, monumentalisé comme des sculptures d'académie.",
+                "La femme est plus éclairée, son recueillement plus prononcé ; l'homme est tourné sur son chapeau, sans visage net.",
+                "Observez les outils posés sur le sol (fourche, panier, brouette) et, au fond, l'église de Chailly."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un couple de paysans interrompt la récolte de pommes de terre quand la cloche sonne l'**Angélus** : ils s'arrêtent pour prier.",
+                "Ce n'est pas une personne en particulier mais une fonction, un paysan : ce moment d'arrêt, universel, a fait de l'œuvre une icône."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-924",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Courbet est autodidacte et refuse la hiérarchie des académies : son maître, c'est la nature, humaine ou paysage. Il revendique le qualificatif de **Réaliste**.",
+                "Il retourne à Ornans en 1849, fuyant les milieux intellectuels parisiens : il revendique une peinture d'histoire contemporaine tirée de ses racines.",
+                "La médaille obtenue au salon de 1849 pour L'Après-dînée à Ornans le dispense du jury et lui permet d'exposer cette toile.",
+                "Depuis 1848, le salon n'est plus organisé au Louvre : les artistes n'exposent plus près de leurs maîtres."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 315 x 668 cm : un format qui revendique Le Sacre de Napoléon, réservé aux grands événements de la nation.",
+                "Regardez la **frise** en trois parties : les officiants, les hommes, les femmes. Nous sommes accueillis par un trou, le cercueil sur le côté.",
+                "Le paysage est très plat, avec les falaises de craie sous un ciel gris qui écrase les personnages ; le crucifix est présent seulement de façon matérielle.",
+                "Technique subversive : silhouettes cernées de noir comme la caricature de Daumier, noirs lisses mais blancs en matière épaisse et rugueuse."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une assemblée austère et silencieuse, des anonymes qui ne nous regardent pas : un enterrement, événement universel, sans héros représenté.",
+                "L'alignement des figures à la même hauteur est vu comme symbole d'**égalitarisme** : un sujet qui n'intéresse que Courbet devient tableau d'histoire.",
+                "« L'enterrement du romantisme » : le trou, un idéalisme sans portée métaphysique. Mais Delacroix et Ingres sont toujours vivants.",
+                "Le cours y voit aussi, peut-être, une référence à deux républicains héros de 1789, et un crâne en vanité aux pieds des hommes."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-927",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "En 1855, le jury refuse l'œuvre : vexé, Courbet organise sa propre exposition en marge de l'**Exposition universelle**, dans son pavillon de l'avenue Montaigne.",
+                "Face à Ingres à l'Exposition universelle, deux générations s'affrontent ; l'exposition de Courbet est très peu visitée et son réalisme mal compris.",
+                "Dans le prologue du catalogue il écrit : « Savoir pour pouvoir [...] faire de l'art vivant tel est mon but. »",
+                "Il y a un pas entre Courbet et l'art officiel : on pense à L'Apothéose d'Homère d'Ingres ou au Siècle d'Auguste de Gérôme, célébrant Napoléon III."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 361 x 598 cm. Regardez la **frise** en trois parties : Courbet au centre, et deux groupes de part et d'autre.",
+                "Courbet peint, certainement en autoportrait, un paysage d'Ornans sur une grande toile carrée inachevée sur le chevalet.",
+                "Observez la réunion des genres : paysage, scène de genre (enfant habillé en paysan, chien), nu, modèle d'atelier aux vêtements posés au sol."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le titre complet est « allégorie réelle déterminant une phase de sept années de ma vie artistique » : c'est son histoire qu'il raconte.",
+                "À droite les « gentils » : Baudelaire avec un livre, Champfleury assis, Théophile Gautier en rouge, un couple de mécènes dont Alfred Bruyas.",
+                "À gauche les « méchants », le monde trivial : le nu académique, la vanité, le bourgeois, peut-être Napoléon III en chasseur.",
+                "Courbet critique ainsi l'académie, Napoléon III et la bourgeoisie, et fait entrer l'allégorie dans le **réalisme** en format gigantesque."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-195",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Narcisse Diaz de la Peña est un Espagnol, attiré par les peintures de **Théodore Rousseau** et de Barbizon ; Rousseau passe l'hiver à Paris et l'été à Barbizon.",
+                "Cette peinture de plein air sera une composante de l'impressionnisme : la forêt de Fontainebleau est un lieu d'étude pour les paysagistes.",
+                "Pour la critique, le paysage est la modernité : les Goncourt écrivent dès 1855 que « le paysage est la victoire de l'art moderne ».",
+                "Les peintres de Barbizon expriment un **sentiment dédié à la nature**, loin du pittoresque italien, qui annonce l'impressionnisme."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 84 x 106 cm, grande dimension pour un paysage ; le tableau date de 1867.",
+                "Un sous-bois : regardez la lumière sur le sol, qui résonne sur les feuilles, et le **ciel**, qui occupe la moitié de la toile.",
+                "Cherchez dans le ciel un orage, quelque chose qui vient éclairer la nature : c'est là que se passe l'événement."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le sujet est la forêt de Fontainebleau, un paysage ancré en France : ni pays italien ni hollandais.",
+                "Il n'y a pas de narration ni de scène historique : le paysage s'anime par lui-même, comme transposition de l'expression subjective de l'artiste."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "orsay_1847-1868_manet-scandale-1863",
+    "musee_id": "orsay",
+    "illustration": "orsay-712",
+    "titre": "[Orsay] [Rez-de-chaussée] [1847-1868] Manet et le scandale de 1863",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 11 « Les académismes » (Cybill Whalley, 17/11/2025) et cours 12 « Modernité et impressionnismes » (Léa Blanchard, 24/11/2025)",
+    "fil_conducteur": "En 1863, le Salon des refusés révèle Manet, qui défie l'académisme de Couture et de Cabanel en repensant le nu et en imposant le sujet moderne, jusqu'au scandale de l'Olympia au Salon de 1865. Monet reprend ensuite le Déjeuner sur l'herbe à sa façon.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "orsay-9493",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peint en **1847**, le tableau est un succès et vaut une médaille à Couture, présenté comme un peintre profondément classique.",
+                "Thomas Couture est le maître de Manet, qui rompra avec lui : on retrouve très lointainement ses **empâtements** aux couleurs vives dans la peinture moderne.",
+                "La « débauche » de l'empire romain vise la **Monarchie de Juillet** (1830-1848), critique qui s'étend ensuite au Second Empire.",
+                "En 1856, Couture reçoit la commande du Baptême du Prince impérial, restée inachevée ; il se retire ensuite dans sa ville natale pour travailler pour le marché américain."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La composition reprend les **Noces de Cana** de Véronèse et **L'École d'Athènes** de Raphaël, avec une frise en trois parties.",
+                "Les corps sont peints avec une précision académique, rappelant les modèles de la Renaissance, mais disposés pour créer une impression de désordre et de chaos.",
+                "Regardez l'opposition entre le premier plan frivole et sensuel, et l'arrière-plan grave et silencieux, dans une atmosphère de luxe : drapés, colonnes antiques, accessoires de banquet."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une grande fête romaine : hommes et femmes, nus ou à demi vêtus, s'abandonnent à l'ivresse ; au premier plan, certains sont affalés, endormis ou épuisés, d'autres dansent ou boivent encore.",
+                "Les postures **lascives** sont très éloignées de l'héroïsme de l'Antiquité.",
+                "À l'arrière-plan, deux **philosophes** observent, semblant juger ou condamner la scène ; Couture lui-même figurerait à l'extrême gauche."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-98",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Cabanel, formé à l'Académie des Beaux-Arts, obtient le **grand prix de Rome** après deux échecs, puis est pensionnaire à la villa Médicis ; il a le même mécène que Courbet, Alfred Bruyas.",
+                "Peinte en **1863**, l'œuvre est contemporaine du Déjeuner sur l'herbe de Manet et acquise par Napoléon III pour la somme colossale de **20 000 francs**.",
+                "Cabanel devient ensuite professeur à l'École des Beaux-Arts ; avec Bouguereau et Baudry, il compte parmi les figures tutélaires d'un **ingrisme** devenu synonyme d'académisme."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toile de **130 x 225 cm** : un « tableau simple mais complètement artificiel », composition très efficace divisée en deux.",
+                "Regardez la partition : en bas la mer, l'écume et les vagues ; au-dessus le ciel et les angelots qui célèbrent la naissance de Vénus.",
+                "Vénus a de longs cheveux roux et aucune pilosité : elle est surtout **irréelle**, ce qui la place entre l'idéal et le réel."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Vénus sort des eaux, des cupidons au-dessus d'elle, dans une position d'abandon, et nous regarde ; sa proportion et sa chevelure en font la beauté par excellence.",
+                "Cabanel s'éloigne des nus mythologiques d'Ingres : sa Vénus très **sensuelle** rappelle les peintures rococo du XVIIIe siècle.",
+                "Le nu reste idéalisé et couvert par la mythologie : c'est tout ce que refuse le nu de Manet, peint la même année."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-904",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "En **1863**, le jury officiel du Salon est très sévère ; Napoléon III ouvre un **Salon des refusés** pour que le public soit juge, et celui-ci vient surtout se moquer, notamment de Manet.",
+                "Manet, élève de Couture avant de rompre avec lui, se forme par la copie, notamment à la Galerie espagnole (Velázquez) ; il subit l'influence de **Courbet**.",
+                "Deux sources formelles sont identifiées : Le Concert champêtre de Titien (alors attribué à Giorgione) et Le Jugement de Pâris de Marcantonio Raimondi, d'après Raphaël."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toile de **207 x 265 cm**, grand format destiné à la peinture d'histoire ; le titre original est Le Bain, et Manet la surnommait « la partie carrée ».",
+                "Aplats et forts empâtements sont révolutionnaires ; notes nettes (le corps féminin) et zones floues (la mare, la barque) coexistent.",
+                "Regardez la femme au fond, disproportionnée, le télescopage des plans et les ombres contradictoires : un critique juge que Manet aura du talent « le jour où il saura le dessin et la perspective ».",
+                "Nu peint en atelier, paysage conçu comme un **décor de théâtre**, effet de collage : Manet assume la bi-dimensionnalité, rejette l'illusionnisme et affiche l'artificialité de la peinture. C'est délibéré, et Zola le défend."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Quatre personnages dans un sous-bois : Eugène Manet à demi couché, Ferdinand Leenhoff assis, une femme au fond qui trempe la main dans la mare, et Victorine Meurent.",
+                "Le scandale tient au **sujet** : dans un format d'histoire, Manet montre la vie moderne, une femme dévêtue et non simplement nue, sans prétexte allégorique ni mythologique.",
+                "Regardez le regard impudique et frondeur de Victorine : elle nous regarde franchement. Les citations de maîtres sont un travestissement de la grande peinture.",
+                "Détails : un bouvreuil, une grenouille à gauche, une cascade argentée, une barque à fond plat à la grande mode du canotage."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-712",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Olympia est peinte en **1863** et provoque un nouveau coup d'éclat au **Salon de 1865**, deux ans après le scandale du Déjeuner sur l'herbe.",
+                "Elle est contemporaine de la Naissance de Vénus de Cabanel, acquise par Napoléon III pour 20 000 francs, et reprend comme elle le thème de la femme dévêtue.",
+                "Les références sont la Maja desnuda de Goya (1795-1800) et la **Vénus d'Urbino** de Titien (1538)."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toile de **130,5 x 191 cm** à la composition **frontale**, dans un intérieur bourgeois contemporain.",
+                "Regardez le corps au caractère **non idéalisé**, la main posée sur l'intimité, le bouquet cadeau d'un admirateur ou client, et le chat, symbole de luxure."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le modèle est toujours Victorine Meurent, accompagnée de Laure, la servante noire, thème récurrent de la peinture du XIXe siècle.",
+                "Tout plaide pour la **prostituée**, et non pour la déesse ; le thème annonce la Nana de Zola, après L'Œuvre.",
+                "Zola prend la défense de la toile : pour un aspirant écrivain, la critique d'art est un moyen de se faire connaître."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-713",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le portrait est peint en **1868**, pour remercier Zola d'avoir pris la défense de Manet et de l'Olympia.",
+                "Zola, aspirant écrivain, se fait connaître par la critique d'art ; il représentera la férocité des critiques dans L'Œuvre.",
+                "Dès le Déjeuner sur l'herbe, Zola ne s'y trompe pas : il comprend que les partis pris de Manet sont délibérés, et il le défend."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toile de **146 x 114 cm**, au format vertical d'un portrait en pied.",
+                "Regardez les coups de pinceau, qui viennent modeler la structure du pantalon."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Zola tient une **brochure bleue** : l'article qui lui est favorable, plume et encrier à portée de main.",
+                "On y voit l'Histoire des Peintres de Charles Blanc, une reproduction de l'Olympia et une gravure du Triomphe de Bacchus de Velázquez.",
+                "Le décor comprend aussi des estampes et un **paravent japonais**."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-25651",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Monet, vers 1860, est encore très imprégné par Manet : cette reprise du Déjeuner sur l'herbe date de **1865-1866**.",
+                "La toile devait être envoyée au Salon, mais ne l'a finalement pas été ; de même, Femmes au jardin (1866) a été refusée au Salon.",
+                "Jongkind et Eugène Boudin, célèbre pour ses scènes de loisirs contemporains dont les bains de mer, comptent parmi ses influences en plein air.",
+                "Monet fait partie des impressionnistes d'avant l'impressionnisme, tout comme Bazille, Renoir et Sisley, tous élèves de Charles Gleyre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le fragment mesure **248,7 x 218 cm**, de grand format vertical.",
+                "Monet reste fidèle à Manet dans la **touche** plutôt que dans le fond de son propos.",
+                "Regardez le jeu d'ombres et de lumière, avec la **tache de soleil**, comme dans Femmes au jardin (1866)."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "orsay_1866-1877_impressionnisme-vie-moderne",
+    "musee_id": "orsay",
+    "illustration": "orsay-1151",
+    "titre": "[Orsay] [Niveau supérieur] [1866-1877] Impressionnisme et vie moderne",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 12 « Modernité et impressionnismes » (Léa Blanchard, 24/11/2025)",
+    "fil_conducteur": "De Baudelaire et sa formule « tirer l'éternel du transitoire » aux impressionnistes : plein air, touche visible, lumière, Paris haussmannien, loisirs et vie moderne, de 1866 aux expositions de 1874 à 1877.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "orsay-1132",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "En 1863, dans Le Peintre de la vie moderne, Baudelaire demande de « tirer l'éternel du transitoire » : le fugitif et le contingent sont la moitié de l'art.",
+                "Présenté à la **première exposition** du groupe en 1874, chez Nadar : Berthe Morisot compte parmi les artistes de la Société anonyme fondée en 1873.",
+                "Morisot est l'élève, le modèle et la belle-sœur de **Manet**, mais elle développe une facture très personnelle et originale.",
+                "Face à l'académisme hérité d'Ingres, ligne et touche lisse, les impressionnistes revendiquent la touche visible et des sujets de la réalité contemporaine."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de petit format (H. 56 ; L. 46,5 cm).",
+                "Regardez les **courbes** et les formes douces : elles donnent à la toile un aspect moelleux, loin de la ligne ferme de la tradition académique.",
+                "Sentez l'atmosphère « enveloppante, ouatée et intime » qui se dégage de l'ensemble."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "L'expression est **intériorisée** : les figures semblent absorbées dans leur intimité, ce qui exclut le regardeur de l'œuvre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-807",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Vers 1866, Monet est encore très imprégné par **Manet** : il lui est fidèle dans la touche plutôt que dans le fond, comme dans son Déjeuner sur l'herbe de 1865-1866.",
+                "Comme Bazille, Renoir et Sisley, il a eu Charles Gleyre pour maître : on parle des « impressionnistes avant l'impressionnisme ».",
+                "La toile a été **refusée au Salon**, où règne encore le système académique hérité d'Ingres.",
+                "Manet, formé chez Couture, influencé par Courbet, a montré en 1863 qu'un sujet de vie moderne peut occuper un grand format : cette ambition se lit ici."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Très grand format à l'huile (H. 255 ; L. 205 cm), peint avec la fidélité à la touche de Manet.",
+                "Regardez le **jeu d'ombres et de lumière** et la tache de soleil, déjà au cœur du Déjeuner sur l'herbe de Monet.",
+                "La peinture de plein air est une composante essentielle de l'impressionnisme, nourrie par Barbizon, Corot, Boudin et Jongkind, autres influences pour Monet."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-1151",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Réalisée entre 1873 et 1876, l'œuvre est contemporaine de la construction de l'**Opéra Garnier**.",
+                "Degas s'intéresse surtout aux scènes de modernité : théâtre, danse et champs de courses.",
+                "Il est lié à l'évolution technologique de son temps : le cadrage et les attitudes évoquent le mouvement, comme la chronophotographie de Muybridge et Marey."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Format vertical à l'huile (H. 85,5 ; L. 75 cm), structuré par les **lignes obliques** du parquet et les verticales des pilastres et du bâton du maître de ballet.",
+                "Regardez les **tutus blancs vaporeux** : en dehors de cette grande structuration, ils animent la toile de leur légèreté."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Pas de corps canonique : Degas montre les **mouvements de travail** des danseuses, non une image idéalisée.",
+                "Le monde des corps de ballet est associé à la prostitution ; sa Petite danseuse de 14 ans, exposée en 1882, fut lue sous l'angle de la physiognomonie."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-1154",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Présentée à la **première exposition** du groupe en 1874, chez Nadar : une critique de cette exposition, signée Louis Leroy, donne son nom à l'impressionnisme.",
+                "Degas s'intéresse surtout aux scènes de modernité, avec une manière de représenter le mouvement liée à la chronophotographie de Muybridge et Marey.",
+                "Même thème que La Classe de danse (1873-1876), peinte à peu près en même temps, tableau contemporain de la construction de l'Opéra Garnier.",
+                "Les impressionnistes scandalisent les critiques académiques : le moyen ne doit pas prendre le dessus sur l'objet représenté."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile (H. 65 ; L. 81,5 cm) montrant des danseuses dans des **postures différentes**.",
+                "Regardez l'**orientation variée des corps** : la même danseuse est représentée à la manière de la chronophotographie, en plusieurs moments successifs.",
+                "Observez le cadrage et les attitudes, qui suggèrent le mouvement plutôt qu'une pose arrêtée."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-368",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peinte en 1873 et présentée à la **première exposition** du groupe en 1874, cette toile est de Camille Pissarro (1830-1903).",
+                "Pissarro est un grand admirateur de **Corot** et un compagnon de plein air de Cézanne.",
+                "Le critique Louis Leroy la ridiculise : « gratture de palette posée uniformément sur une toile sale ».",
+                "Les détracteurs jugent les œuvres impressionnistes inachevées : touche visible, empâtements, toile laissée en réserve."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile en largeur (H. 65,5 ; L. 93,2 cm), peinte en **plein air**, avec des **ombres colorées**.",
+                "Regardez la matière : l'œuvre est peinte au **couteau**, d'où ces surfaces épaisses et grattées qui ont tant choqué.",
+                "Observez la lumière évoquant un **soleil rasant**, le froid et l'humidité de l'hiver.",
+                "La touche visible et la juxtaposition de tons purs relèvent d'un choix de facture, non d'une maladresse : c'est la défense de Zola, Duranty et Mallarmé."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-105",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peint en 1875 et présenté à la **deuxième exposition** du groupe en 1876 : Caillebotte y expose à partir de cette date.",
+                "Riche héritier, Caillebotte deviendra un grand **mécène** qui a permis de conserver l'œuvre de ses compagnons de route.",
+                "Il expose des scènes de la vie urbaine, dans l'esprit d'une modernité faite de sujets contemporains."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Grand format à l'huile (H. 102 ; L. 147 cm), situé dans une **architecture haussmannienne**.",
+                "Regardez les lattes du parquet : elles **creusent des lignes de composition**.",
+                "Observez la lumière qui vient sublimer les corps des travailleurs et les différentes textures du bois et des copeaux, avec des effets de transparence."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une scène de travail urbain contemporaine, loin de l'histoire et de la mythologie chères à l'académisme.",
+                "Les **visages ne sont pas discernables** : c'est la gestuelle à plusieurs étapes qui est représentée."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-497",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peint en 1876 et présenté à la **troisième exposition** en 1877, avec La Balançoire.",
+                "Ces deux toiles ont été acquises par **Caillebotte**, mécène du groupe.",
+                "Renoir, né à Limoges, d'abord peintre sur porcelaine, expose aussi au Salon officiel.",
+                "La critique est féroce envers ses envois : son Torse est jugé « amas de chair en décomposition ».",
+                "Dans son Torse, il applique déjà la touche dynamique et les ombres colorées, qui préparent l'écriture du Bal."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Très grand format à l'huile (H. 131,5 ; L. 176,5 cm).",
+                "Regardez la **touche dynamique et visible**, qui crée une vibration optique, et les **ombres colorées**, héritage du principe des complémentaires de Delacroix.",
+                "Observez l'impression de mouvement, que l'on retrouve dans Danse à la ville et Danse à la campagne."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "**Plusieurs scènes simultanées** : discussions, couples dansant ; un loisir de la vie moderne, ancré dans la réalité contemporaine."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-10897",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Présentée à la **troisième exposition** du groupe en 1877 : il existe au moins 12 versions de la gare Saint-Lazare par Monet.",
+                "Monet habitait tout près de la gare ; le chemin de fer incarne la **révolution de la mobilité**.",
+                "Dans Impression, soleil levant (1874), Monet saisit déjà un instant fugace et des épaisseurs atmosphériques, avec des éléments contemporains.",
+                "Son Pont de chemin de fer à Argenteuil (1873-1874) cherche à restituer la lumière sur différentes surfaces ; l'influence de Turner, connu à Londres, y est sensible."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de format moyen (H. 75 ; L. 105 cm), à la touche **plus fondue**, la peinture empâtée, quasi granuleuse.",
+                "Regardez les **différentes épaisseurs de vapeur gazeuse**, rendues par la matière.",
+                "Observez l'**ombre bleue** du réseau métallique de la charpente de la verrière.",
+                "À l'arrière-plan, les **immeubles haussmanniens** ancrent la gare dans le Paris moderne."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "orsay_1846-1869_art-officiel-academisme",
+    "musee_id": "orsay",
+    "illustration": "orsay-1704",
+    "titre": "[Orsay] [Rez-de-chaussée] [1846-1869] L'art officiel : académisme et sculpture de Carpeaux",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 11 « Les académismes » (Cybill Whalley, 17/11/2025) et cours 16 « La manie des statues » (Margaux Wymbs, 05/01/2026)",
+    "fil_conducteur": "L'art officiel du Second Empire : le nu et l'histoire chez Gérôme, Bouguereau et Meissonier, puis la sculpture de Carpeaux, de l'Académie à la commande publique.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "orsay-328",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peint en 1846, ce tableau marque le succès précoce de Gérôme, qui obtient une médaille de troisième classe au Salon de 1847.",
+                "Gérôme, élève de Paul Delaroche, incarne le **néo-grec**, réinterprétation du néo-classicisme qui émerge vers le milieu du XIXe siècle.",
+                "Il rompt avec les sujets historiques solennels et héroïques pour un style « plus léger, plus intime et plus coloré ».",
+                "Il s'inspire des fresques de la maison des Vettii à Pompéi, qui montraient des scènes de la vie quotidienne : l'Antique, mais dans un style modifié.",
+                "Il s'éloignera ensuite du néo-grec de ses débuts, avec des peintures d'histoire de commande favorables au Second Empire."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le tableau fusionne la rigueur du dessin académique avec une sensibilité nouvelle pour la couleur : regardez comment la couleur adoucit le dessin.",
+                "Les corps nus sont idéalisés selon la tradition grecque, mais la scène est traitée avec un **réalisme de détails**.",
+                "Observez les postures et la représentation des corps nus, héritées de l'Antique : elles rappellent l'influence du décor grec dans l'iconographie."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Gérôme ne montre ni héros ni batailles : il choisit la **vie quotidienne** de jeunes Grecs qui font s'affronter des coqs.",
+                "Le tableau est donc une scène intime plutôt qu'un récit héroïque : le nu y relève de l'idéal grec, non d'un épisode d'histoire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-153692",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peint en 1850, ce tableau marque un tournant surprenant dans une carrière habituellement tournée vers la peinture d'histoire.",
+                "Bouguereau est l'une des figures tutélaires de l'académisme, avec Cabanel et Baudry, héritiers de l'**ingrisme**, devenu synonyme d'académisme.",
+                "Il enseigne à l'académie Julian, école privée payante, et devient l'une des « coqueluches » des artistes américains.",
+                "Il incarne le grand genre, « le grand classique par excellence », et côtoie dans son siècle Manet et les modernistes."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Tout y est : détails anatomiques, puissance des lignes, jeu subtil du **clair-obscur** ; regardez comment la lumière sculpte les corps dans l'obscurité.",
+                "Observez les muscles tordus, les poses extrêmes et presque théâtrales, ainsi que la tête penchée et la mâchoire grande ouverte.",
+                "La scène plonge dans l'obscurité des Enfers, ce qui accentue le contraste entre les corps éclairés et le fond sombre."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Dante et Virgile descendent aux Enfers : on y découvre les damnés et une créature mi-chauve-souris, mi-hybride, planant au-dessus de la scène.",
+                "Le combat acharné entre deux âmes est un prétexte pour explorer la **musculature masculine** : Bouguereau utilise les scènes de Dante pour représenter des poses exacerbées.",
+                "La scène infernale devient une étude des postures violentes, plus qu'un récit littéraire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-16649",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Bouguereau peint cette Naissance de Vénus en 1879, seize ans après celle de Cabanel (1863), acquise par Napoléon III.",
+                "Il est professeur à l'académie Julian, fondée en 1869, et fait partie des figures tutélaires de l'académisme avec Cabanel et Baudry.",
+                "Son héritage italien se lit dans le traitement du paysage (Titien), et il rivalise ici avec Paul Baudry et ses personnages secondaires.",
+                "Le sujet mythologique s'éloigne des nus d'Ingres : nous sommes « entre l'idéal et le réel », qui fait son entrée dans la seconde moitié du siècle."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Vénus sort d'un coquillage ; regardez la façon dont les eaux et les airs la célèbrent, des vagues au ciel.",
+                "Bouguereau met l'accent sur les **personnages secondaires** qui entourent Vénus : observez leur rôle dans la composition d'ensemble.",
+                "La peinture doit être « totalement finie jusqu'à son modelé » : cherchez l'absence de touche visible, qui rend la chair lisse et irréelle."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Selon la mythologie, Vénus naît de l'eau et est célébrée par les éléments : la scène est une allégorie de la beauté idéale.",
+                "Cette Vénus est **séduisante et artificielle**, entre réel et illusionnisme, comme la Vénus de Cabanel, « simple mais complètement artificielle ».",
+                "Le nu mythologique, imposé par la tradition académique, offre une sensualité acceptable grâce à l'excuse du sujet antique."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-246",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peint en 1864, ce tableau montre que l'épopée napoléonienne reste un sujet populaire sous Napoléon III.",
+                "Meissonier est un peintre d'histoire spécialisé dans les scènes de bataille, qui offre ici une interprétation originale du sujet.",
+                "Le sujet évoque la désastreuse campagne de Russie de 1812, qui conduit à la fin de l'Empire en 1814-1815.",
+                "Le cours pose la question « Classicismes ? » : l'Académie imposait des thèmes classiques ou bibliques, mais Meissonier renouvelle le genre, comme Gérôme.",
+                "Napoléon III instrumentalise l'académisme pour diffuser l'image de la France lors des Expositions universelles de 1855 et 1867."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "C'est une peinture d'histoire de **dimension réduite**, loin du grand genre : l'épisode est choisi pour son humanité plus que pour sa grandeur.",
+                "Regardez les teintes brunes, le ciel chargé et la plaine boueuse, loin des fastes triomphaux habituels.",
+                "Observez les détails minutieux : attitudes, expressions, fatigue palpable, pour un réalisme « sobre, presque intime »."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Napoléon Ier, isolé et rongé par le doute, avance dans la neige et la boue, suivi de ses maréchaux et de ses grognards qui forment une seconde ligne.",
+                "Napoléon apparaît **vulnérable et humain**, loin de l'idéalisation glorieuse : pas de pathos ni de cadavres, mais l'inquiétude des troupes.",
+                "C'est la retraite après la bataille de Laon, avec l'état-major derrière l'empereur : Ney, Berthier, Flahaut, Drouot."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-1704",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Groupe en pierre d'Échaillon de 1869, commandé pour la façade de l'Opéra de Charles Garnier, conçu comme « œuvre d'art total ».",
+                "Garnier, tout juste rentré de Rome, a emporté le concours de 1860 ; Carpeaux est son « pendant en sculpture ».",
+                "Carpeaux, élève de Rude, rejoint la villa Médicis en 1856 et renoue avec le romantisme : « c'est dans la rue que nous devons appliquer notre art et non au Vatican ».",
+                "La Danse suscite un **scandale** à l'inauguration à cause de la nudité jugée trop réaliste ; on fait appel à un remplaçant, mais on laisse finalement l'œuvre en place.",
+                "L'original a été transféré à Orsay en 1964 pour le protéger de la pollution ; la façade porte une copie de Paul Belmondo."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Carpeaux se concentre, à la suite de Michel-Ange, sur les effets de **mouvement et de vitalité** : regardez la ronde qui tourbillonne autour du génie central.",
+                "Ses influences sont variées : le Saint Michel de Raphaël, les sourires choquants pour l'époque, et Rubens pour la peau « quasi palpitante » des bacchantes.",
+                "Ce syncrétisme de références donne un « dynamisme et une fougue uniques » ; observez les chairs vivantes plutôt que marmoréennes.",
+                "La sculpture gagne en autonomie par rapport à l'architecture : elle ne reste plus un simple décor de façade."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La danse n'est pas qu'allégorique : elle est un « véritable effet », une sculpture plus vivante et émotionnelle, dans le cadre des traditions.",
+                "Bouguereau traite aussi la danse pour l'hôtel particulier d'Anatole Bartholoni, rue de Verneuil, avec la même attention au mouvement."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "orsay_1865-1900_symbolisme",
+    "musee_id": "orsay",
+    "illustration": "orsay-1070",
+    "titre": "[Orsay] [Niveau médian] [1865-1900] Le symbolisme : de Burne-Jones aux visions",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 14 « De Burne-Jones à Klimt » (Léa Blanchard, 01/12/2025)",
+    "fil_conducteur": "Face à la modernité industrielle, ces artistes choisissent l'esthétisme et la spiritualité : des préraphaélites à Moreau et Puvis, puis aux symbolistes, qui explorent la femme fatale, le rêve et le regard.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "orsay-783",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Burne-Jones, élève de Rossetti, appartient au courant préraphaélite : un **aestheticism movement** actif de 1860 à 1900, qui promeut la beauté absolue, sans connotation religieuse, morale ou politique.",
+                "L'art pour l'art offre une échappatoire à la laideur et au matérialisme du monde industrialisé ; Gautier écrivait déjà « tout ce qui est utile est laid ».",
+                "Né en 1848 autour de trois étudiants, le groupe s'inspire des débuts de la Renaissance, avant la mort de Raphaël, et des guildes médiévales.",
+                "Burne-Jones puise dans la légende, la Bible et l'iconographie médiévale, comme dans ses cycles de Saint Georges ou de La Belle au bois dormant."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Peinture à l'huile sur toile, très verticale : 200 cm de haut pour 100 cm de large, soit un format deux fois plus haut que large.",
+                "Regardez les corps : leurs poses musclées évoquent les ignudi de la chapelle Sixtine et les esclaves de Michel-Ange du Louvre."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La **Fortune** est figurée comme une roue sur laquelle les hommes sont enchaînés, tantôt portés aux nues, tantôt rejetés au fond.",
+                "Le sujet, commencé en 1875 et achevé en 1883, extrait l'œuvre de sa contemporanéité : le tableau est médiévalisant et nourri de Michel-Ange."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-1070",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Moreau est un peintre de l'antiquité et de l'histoire sainte, dont les thèmes mêlent mythe et goût pour l'**ésotérisme**.",
+                "Il est emblématique du substrat culturel de la fin-de-siècle : juxtaposition d'obscénité et de sensualité, et goût pour les œuvres codées."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur bois de 204 cm de haut sur 115,5 cm de large, au format vertical très allongé.",
+                "Moreau privilégie des attitudes hiératiques, une composition rigide, des paysages vertigineux et des détails décoratifs.",
+                "Regardez la profusion d'éléments disparates : bélier, sphinge, griffons, divinités indoues Ganesh et Parvati, queue de colombe rappelant Noé et le déluge."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Pélias exige que **Jason** conquière la toison d'or avec les autres argonautes, dont Thésée et Héraclès, et il sera aidé par Médée.",
+                "Jason porte une kuné ; derrière lui, un caducée rappelle Asclépios, dont la fille est la déesse Iaso : un jeu de mot sur le nom du héros.",
+                "Médée tient un bouclier protecteur, porte des colchiques et un serpent rappelant Ève ; Jason devra semer les dents d'un dragon.",
+                "Il doit échapper aux oiseaux de l'île d'Arès, notamment un jaseur boréal, autre jeu de mot ; l'aigle du Caucase renvoie à une image prométhéenne."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-1091",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le tableau, de 1865 comme Jason, s'inspire des Métamorphoses d'Ovide.",
+                "Moreau privilégie les thèmes de l'antiquité et de l'histoire sainte, mêlés à un goût pour l'ésotérisme ; ses attitudes sont hiératiques.",
+                "Moreau y mêle les influences d'Ingres pour les figures expressives, de Delacroix pour la palette chatoyante et de Léonard pour le sfumato."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur bois de 154 cm de haut sur 99,5 cm de large, de format vertical.",
+                "Regardez la palette chatoyante et les figures expressives, puis les tortues, qui rappellent la lyre d'Orphée."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Eurydice descend aux enfers, et Orphée joue de son instrument pour charmer Cerbère et Hadès.",
+                "Moreau choisit pourtant un autre moment : les ménades jalouses découpent Orphée, et les muses le reconstituent pour en faire la constellation de la **Lyre**.",
+                "La figure féminine est-elle une ménade ou une muse ? La question reste ouverte ; la décollation est déjà un thème très populaire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-443",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Puvis de Chavannes illustre la veine de la **méditation**, de l'introspection et du rêve, au cœur du symbolisme et du refus du rationalisme.",
+                "Il reprend les œuvres antiques pour retrouver un éternel idyllique, avec la mer pour refuge.",
+                "Le même modèle est repris à trois reprises dans la composition."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 205,4 cm de haut sur 156 cm de large, de format quasi carré.",
+                "Les tonalités sont ternes, la palette un peu brune, les touches en aplat, le rendu mat, mais le dessin reste net.",
+                "Regardez les figures : elles semblent juxtaposées, sans communiquer entre elles, et la figure de face ne regarde pas le regardeur."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le sentiment dominant est méditatif, dans un monde sans contemporanéité.",
+                "Osbert reprendra cette thématique en 1908, mais avec un lien entre les figures et une gamme chromatique plus chatoyante."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-140626",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le sculpteur belge Khnopff travaille dans un moment particulièrement riche de la Belgique, en peinture comme en sculpture.",
+                "Khnopff peint aussi I lock my door upon myself (1891), d'après un poème de Christina Rossetti ; Hypnos apparaît dans Une aile bleue et dans un masque en plâtre de 1897.",
+                "Hypnos, fils de Nyx et frère de Thanatos, associé au pavot, inspire sa tête sculptée de 1897 : l'œuvre date de l'année suivante."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Marbre pigmenté, laiton et fil de cuivre ; l'œuvre mesure 45,5 cm de haut, 28 de large et 20 de profondeur.",
+                "L'esthétique est antique, avec une **polychromie** et une couronne métallique : regardez-la, auréole ou renvoi au modèle païen.",
+                "Les yeux sont clos, un motif récurrent chez Khnopff, comme dans Des caresses de 1896."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le titre évoque une inquiétude vis-à-vis de l'**avenir**.",
+                "Étrangeté et état de conscience intermédiaire servent à évoquer un personnage en pleine **vision**."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-20838",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Redon, dans la lignée des figures aux yeux clos, travaille la frontière entre rêve, sommeil et conscience, au cœur de l'introspection symboliste.",
+                "Jean Delville reprend Les yeux clos de Redon (1890) : ambiguïté de genre et incertitude face au sujet, entre rêve, mort ou sommeil.",
+                "Le thème vient de La Tempête : Caliban, esclave du duc de Milan, est l'enfant d'une sorcière."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 48,2 cm de haut sur 38,5 cm de large, de petit format vertical.",
+                "La palette chromatique est riche et vive ; regardez les **grattages** par endroits."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Caliban est un personnage difforme ; les personnages ailés évoquent peut-être Ariel.",
+                "Le nom de Caliban a donné lieu à des spéculations : Kélibia, ville de Tunisie, ou anagramme de « cannibale » chez Pigafetta et Montaigne.",
+                "Il pourrait aussi venir du mot rom « kaliban », la noirceur : sauvagerie, étrangeté, altérité, contraire de la raison."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-148888",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Les thèmes de la vision et du regard sont très féconds chez les symbolistes, en lien avec la **femme fatale**.",
+                "Von Stuck, dans sa Tête de Méduse de 1892, montre la Méduse prise au piège de son propre regard.",
+                "Les symbolistes puisent dans les sources mythologiques et bibliques pour exacerber des typologies féminines marquées, rapport au subconscient et aux pulsions.",
+                "Böcklin reprend ce thème en s'inspirant du Caravage."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Papier mâché peint, de 61 cm de diamètre : un objet circulaire, en forme de bouclier.",
+                "Regardez le visage de Méduse sur sa surface bombée, puis comparez-le avec la Méduse du Caravage de 1597-1598."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Persée, associé au bouclier d'Athéna, s'en sert pour affronter la **Méduse**.",
+                "Le Caravage, que Böcklin prend pour modèle, avait déjà peint une Méduse en 1597-1598 : ce thème traverse l'histoire de l'art."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-25573",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Klinger (1857-1920) reprend le thème du regard avec ce buste de 1893, dans la veine symboliste des figures de la vision.",
+                "Cette période est celle d'une Europe inquiète, où le rejet du rationalisme pousse les artistes vers l'introspection, le rêve et la spiritualité.",
+                "Cassandre est la princesse troyenne de l'Iliade d'Homère."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le buste est en bronze, avec des **yeux** en cornaline incrustée ; il mesure 58,5 cm de haut, 30 de large et 36,5 de profondeur.",
+                "Regardez les yeux incrustés d'une autre matière que le bronze : ils concentrent toute l'intensité du buste."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le buste exprime l'horreur de Cassandre contemplant l'avenir de Troie.",
+                "Von Stuck, dans sa Méduse de 1892, avait déjà montré une figure prise au piège de son propre regard : le regard est un thème central.",
+                "Le regard est celui de la **vision** : voir l'avenir, comme chez Khnopff, mais ici dans l'effroi."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "orsay_1879-1893_post-impressionnisme-nabis",
+    "musee_id": "orsay",
+    "illustration": "orsay-746",
+    "titre": "[Orsay] [Niveau supérieur] [1879-1893] Post-impressionnisme et Nabis",
+    "date_creation": "2026-11-05",
+    "cours_source": "Histoire générale de l'art 4 (XIXe siècle), cours 17 « Aux sources du XXe siècle » (Margaux Wymbs, 12/01/2026)",
+    "fil_conducteur": "Du Pont de Maincy de Cézanne aux Femmes au jardin de Bonnard, le post-impressionnisme (1885-1900) est une période plus qu'un courant : géométrie cézannienne, science néo-impressionniste, synthétisme de Pont-Aven puis décor nabi. Toutes ces recherches préparent le socle de la couleur subjective des avant-gardes du XXe siècle.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "orsay-797",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le tableau de **1879** marque le détachement de Cézanne de l'impressionnisme, après ses années auprès de Pissarro à Pontoise et à Auvers-sur-Oise, où sa palette s'était éclaircie.",
+                "Cézanne est avec Van Gogh l'une des deux individualités qui fondent la période post-impressionniste, sans l'avoir souhaité ; sa postérité sera immense chez les cubistes, dont Braque."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Ses paysages sont « immobiles, intemporels » : la **géométrie** et les formes priment sur la sensation fugitive.",
+                "Le côté très construit s'oppose aux touches rapides de Monet : Cézanne ne recherche pas l'effet de miroitement propre aux impressionnistes.",
+                "Regardez comment l'arche du pont, les arbres et les masses de feuillage sont traités en volumes simplifiés plutôt qu'en vibrations de lumière.",
+                "Plus tard, il écrira qu'il faut « traiter la nature par le cylindre, la sphère, le cône » : cette recherche de formes pures se prépare ici."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-746",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Van Gogh rejoint Arles pour y fonder une école d'artistes ; Gauguin l'y rejoint, mais ils se disputent, et c'est là qu'il se coupe l'oreille. La toile naît de son séjour à la **Maison jaune**.",
+                "Sa lettre à Théo, son frère et soutien financier et moral, précise l'intention : « la vue du tableau doit reposer la tête ou du moins l'imagination »."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La couleur est très claire, en tons vifs et francs, **sans ombre** ; la touche, longue, devient peu à peu plus hachée.",
+                "Héritage des estampes japonaises : les motifs sont cloisonnés par un **cerne**, et la perspective naît de la superposition des motifs plutôt que d'un tracé géométrique.",
+                "Regardez comment les aplats colorés prennent toute leur importance, au service d'une expressivité qui fait l'originalité de Van Gogh.",
+                "Le jeu des couleurs complémentaires donne vivacité et luminosité ; cette couleur subjective ouvre la voie aux fauves et à l'expressionnisme."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-542",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Seurat meurt en **1891**, l'année du Cirque, qui prolonge sa série d'attractions populaires de la vie moderne, avec parade et chahut.",
+                "Seurat, formé à la science (lectures de Charles Henry), refuse la touche filante des impressionnistes et lui préfère de petits points de couleurs complémentaires, fondés sur le contraste simultané de Chevreul.",
+                "Le cadre de la toile n'est pas de Seurat mais de son ami Paul Signac : regardez-le comme un prolongement de la recherche divisionniste."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "C'est une recherche **néo-impressionniste** par touche divisionniste : le mélange des tons se fait dans l'œil du spectateur, non sur la toile.",
+                "La scène est scindée en deux, avec le public d'un côté et la piste de l'autre ; regardez comment l'espace se partage.",
+                "La touche jaune de la **lumière électrique**, nouvelle à l'époque, renforce l'effet d'effervescence joyeuse.",
+                "Comme dans ses grandes toiles, la composition réfléchie, aux figures figées et aux contours dessinés, s'oppose à la scène prise sur le vif."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le développement du cirque est concomitant de la peinture : Seurat y montre un loisir populaire de la vie moderne, avec parade et chahut."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-3024",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Cross, proche de Seurat et Signac, peint L'Air du soir vers **1893** ; la toile a appartenu à Signac.",
+                "Signac y invite un jeune artiste, Matisse, qui réalise Luxe, Calme et Volupté, où l'on retrouve le personnage se séchant les cheveux : le **fauvisme** se base sur ces artistes.",
+                "La question qui hante les artistes est de retrouver une certaine harmonie face à l'accélération du positivisme."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La technique est néo-impressionniste : une touche divisionniste qui mise sur le contraste des couleurs complémentaires.",
+                "Regardez comment la scène, presque antique, associe modernité de la facture et classicisme de la composition, en quête d'harmonie face à l'accélération du positivisme."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau offre une **Arcadie**, presque une scène antique, dans une Méditerranée classique et éternelle ; on y retrouve le personnage qui se sèche les cheveux, repris ensuite par Matisse."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-203574",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Bernard et Gauguin développent le **synthétisme** à Pont-Aven : ils écartent l'ambition réaliste des impressionnistes pour la construction mentale subjective de l'œuvre.",
+                "Bernard, né à Lille, a étudié à l'Académie Cormon où il rencontre Lautrec ; influencé par Cézanne et les estampes japonaises, il rompt avec Gauguin en 1891, quand il se sent dépassé."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le tableau est un « **manifeste du synthétisme** » : cernes et aplats de couleur, sans recherche de réalisme.",
+                "Audace du cadrage et **perspective rabattue** : regardez comment le sol est unifié sur l'ensemble du fond.",
+                "La profondeur n'est perceptible que par le changement des dimensions des personnages."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le sujet breton représente, dans l'image collective de l'époque, une culture disparue du reste de la France : la « Bretagne primitive ».",
+                "C'est une défense de la peinture subjective, qui relève d'une dimension symboliste, éloignée de toute recherche du réalisme."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-291",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Gauguin, enfance au Pérou, ancien agent de change et peintre du dimanche, vit de son art à 35 ans ; il séjourne à Tahiti de **1891 à 1893** pour échapper à la civilisation.",
+                "Il y recherche le « primitif », vecteur de renouvellement artistique, et un goût du mystique qui influencera nabis, fauves et expressionnistes.",
+                "Il y réalise de nombreux tableaux, qu'il expose chez Durand-Ruel."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez le **pouvoir émotionnel de la couleur** : l'usage subjectif des formes et des couleurs rompt avec la règle de la vraisemblance, comme dans La Vision après le sermon.",
+                "Le premier plan montre deux femmes réelles, tandis que le second plan fait apparaître un motif maori."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau ne montre pas une scène réelle mais la recréation d'un **Tahiti rêvé**, écho de la recherche d'une Arcadie.",
+                "Cette recréation répond à la déception que lui cause la colonisation : procès de la rationalisation du monde et recherche d'un réenchantement, entre mythologie et coutumes ancestrales.",
+                "Un paysage luxuriant et une spiritualité dominent le quotidien des habitants : il y a du physique et du métaphysique chez Gauguin."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-8028",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Sérusier séjourne à Pont-Aven en **1888**, où il rencontre Gauguin ; le tableau est peint sous sa direction, et Gauguin lui enseigne l'usage des couleurs pures, notamment le rouge.",
+                "Sérusier, élève de l'académie Julian, proche de Maurice Denis et de la théosophie, garde le tableau inachevé comme preuve du discours d'un maître.",
+                "Montré aux Nabis, il devient pour eux un **talisman**."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez le motif rendu en couleurs choisies subjectivement, plutôt qu'en couleurs d'observation.",
+                "Regardez la structure : un chemin transversal et une rangée de hêtres organisent le paysage, dont la rivière et le moulin se devinent à peine.",
+                "Cette nouvelle dimension de la nature exprimée à partir de la subjectivité fonde l'esthétique du synthétisme, que Maurice Denis appelle néo-traditionalisme."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le paysage de Bois d'Amour réunit un bois, un chemin transversal, une rangée de hêtres, une rivière et un moulin, vus à travers la couleur pure."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "orsay-8022",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Bonnard, Nabi « moderne », débute au Salon en **1891** avec ces quatre panneaux ; Marthe est son modèle préféré.",
+                "La démarche décorative est influencée par William Morris et les Arts & Crafts, avec une rupture de la hiérarchie entre les arts : mobilier, paravent, papiers peints, tapisserie, céramique.",
+                "Les panneaux seront séparés : « c'est trop tableau pour un paravent ». Les Nabis décloisonnent les pratiques, de l'affiche (Bonnard, France-Champagne) à la Revue blanche dirigée par Fénéon."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La technique est la **détrempe à la colle sur toile**, qui produit un effet de planéité.",
+                "Formats verticaux à l'instar des **kakemonos** : Bonnard, surnommé « le Japonard », écho de la vogue japonisante des années 1890.",
+                "Regardez comment le cerne enserre des couleurs en aplat, avec perspectives rabattues et audaces de cadrage."
               ]
             }
           ]

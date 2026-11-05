@@ -174,7 +174,7 @@ les parcours (`musee_id`) plutôt que de coder "Louvre" en dur partout.
 |---|---|---|
 | Musée du Louvre | **Actif** | Fonctionne comme aujourd'hui : fiche JSON par œuvre (`collections.louvre.fr/ark:/.../<id>.json`) avec salle/aile/niveau fiables. Certaines œuvres (ex. arts graphiques) sont en réserve, non exposées — à vérifier à chaque fois (déjà rencontré avec Le Palefrenier de Baldung Grien). |
 | Musée d'Orsay | **Actif, à fiabiliser** | Base en ligne avec un filtre "œuvres actuellement exposées" — bon signe, mais la précision salle/niveau par œuvre reste à vérifier au cas par cas lors du premier cours qui s'y prêtera. |
-| Centre Pompidou | **Inactif — fermé jusqu'en 2030** | Fermé au public depuis le 22 septembre 2025 pour travaux (réouverture prévue en 2030). Enregistré dans le registre pour ne pas tout reconstruire plus tard, mais **aucun parcours ne doit y être généré tant qu'il est fermé** — Claude doit le signaler si un cours pointe vers des œuvres qui s'y trouvent. |
+| Centre Pompidou | **Actif** | Art moderne et contemporain (XXe siècle). Fermé pour travaux jusqu'en 2030 ; Justine a demandé d'ignorer les fermetures temporaires : on le traite comme les autres musées. Source de données et précision des salles à vérifier au premier cours concerné. |
 
 **Changements de modèle de données** :
 - `window.OEUVRES[i].musee_id` : référence vers une entrée de `MUSEES`.
