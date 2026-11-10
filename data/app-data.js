@@ -35,7 +35,7 @@ window.OEUVRES = [
     "salle": "Salle 700",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062570/0000800444_OG.JPG",
+    "image": "../images/parcours/pestiferes.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062570"
   },
   {
@@ -47,7 +47,7 @@ window.OEUVRES = [
     "salle": "Salle 702",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000064830/0000136183_OG.JPG",
+    "image": "../images/parcours/girodet_deluge.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064830"
   },
   {
@@ -71,7 +71,7 @@ window.OEUVRES = [
     "salle": "Salle 700",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065872/0001264365_OG.JPG",
+    "image": "../images/parcours/liberte.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065872"
   },
   {
@@ -95,7 +95,7 @@ window.OEUVRES = [
     "salle": "Salle 825",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062516/0000136358_OG.JPG",
+    "image": "../images/parcours/poussin_echo.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062516"
   },
   {
@@ -107,7 +107,7 @@ window.OEUVRES = [
     "salle": "Salle 825",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062438/0000344203_OG.JPG",
+    "image": "../images/parcours/poussin_sabines.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062438"
   },
   {
@@ -119,7 +119,7 @@ window.OEUVRES = [
     "salle": "Salle 825",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062528/0000136064_OG.JPG",
+    "image": "../images/parcours/poussin_bergers.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062528"
   },
   {
@@ -131,7 +131,7 @@ window.OEUVRES = [
     "salle": "Salle 825",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065384/0001096384_OG.JPG",
+    "image": "../images/parcours/poussin_autoportrait.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065384"
   },
   {
@@ -143,7 +143,7 @@ window.OEUVRES = [
     "salle": "Salle 825",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062521/0000136076_OG.JPG",
+    "image": "../images/parcours/poussin_saisons.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062521"
   },
   {
@@ -155,7 +155,7 @@ window.OEUVRES = [
     "salle": "Salle 826",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062436/0000136360_OG.JPG",
+    "image": "../images/parcours/poussin_eliezer.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062436"
   },
   {
@@ -167,7 +167,7 @@ window.OEUVRES = [
     "salle": "Salle 826",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000061024/0000134994_OG.JPG",
+    "image": "../images/parcours/lorrain_ulysse.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010061024"
   },
   {
@@ -237,7 +237,7 @@ window.OEUVRES = [
     "salle": "Salle 830",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000061972/0000137158_OG.JPG",
+    "image": "../images/parcours/valentin.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010061972"
   },
   {
@@ -271,7 +271,7 @@ window.OEUVRES = [
     "salle": "Salle 912",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066276/0000403278_OG.JPG",
+    "image": "../images/parcours/latour_tricheur.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066276"
   },
   {
@@ -283,7 +283,7 @@ window.OEUVRES = [
     "salle": "Salle 912",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000063817/0000208932_OG.JPG",
+    "image": "../images/parcours/latour_joseph.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010063817"
   },
   {
@@ -295,7 +295,7 @@ window.OEUVRES = [
     "salle": "Salle 912",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065571/0000684363_OG.JPG",
+    "image": "../images/parcours/lenain_tabagie.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065571"
   },
   {
@@ -307,7 +307,7 @@ window.OEUVRES = [
     "salle": "Salle 912",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066866/0000134998_OG.JPG",
+    "image": "../images/parcours/lenain_famille_paysans.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066866"
   },
   {
@@ -319,7 +319,7 @@ window.OEUVRES = [
     "salle": "Salle 911",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060683/0000391017_OG.JPG",
+    "image": "../images/parcours/hyre_laban.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060683"
   },
   {
@@ -331,7 +331,7 @@ window.OEUVRES = [
     "salle": "Salle 911",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060624/0000355318_OG.JPG",
+    "image": "../images/parcours/lesueur_clio.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060624"
   },
   {
@@ -353,7 +353,7 @@ window.OEUVRES = [
     "salle": "Salle 913",
     "aile": "Aile Sully",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062076/0000136464_OG.JPG",
+    "image": "../images/parcours/champaigne_cene.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062076"
   },
   {
@@ -377,7 +377,7 @@ window.OEUVRES = [
     "salle": "Salle 803",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000064946/0000142384_OG.JPG",
+    "image": "../images/parcours/pourbus_portrait.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064946"
   },
   {
@@ -389,7 +389,7 @@ window.OEUVRES = [
     "salle": "Salle 803",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060875/0000134611_OG.JPG",
+    "image": "../images/parcours/pourbus_cene.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060875"
   },
   {
@@ -413,7 +413,7 @@ window.OEUVRES = [
     "salle": "Salle 801",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060839/0000394491_OG.JPG",
+    "image": "../images/parcours/galerie_mdm.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060839"
   },
   {
@@ -449,7 +449,7 @@ window.OEUVRES = [
     "salle": "Salle 853",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062167/0001314706_OG.JPG",
+    "image": "../images/parcours/charles1.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062167"
   },
   {
@@ -461,7 +461,7 @@ window.OEUVRES = [
     "salle": "Salle 846",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000064339/0000868050_OG.JPG",
+    "image": "../images/parcours/hals_luth.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064339"
   },
   {
@@ -473,7 +473,7 @@ window.OEUVRES = [
     "salle": "Salle 846",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060266/0001221757_OG.JPG",
+    "image": "../images/parcours/hals_boh.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060266"
   },
   {
@@ -485,7 +485,7 @@ window.OEUVRES = [
     "salle": "Salle 837",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060805/0000356086_OG.JPG",
+    "image": "../images/parcours/coup_de_soleil.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060805"
   },
   {
@@ -497,7 +497,7 @@ window.OEUVRES = [
     "salle": "Salle 837",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000063553/0000134992_OG.JPG",
+    "image": "../images/parcours/buveuse.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010063553"
   },
   {
@@ -509,7 +509,7 @@ window.OEUVRES = [
     "salle": "Salle 837",
     "aile": "Aile Richelieu",
     "niveau": "Niveau 2",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000064918/0000134402_OG.JPG",
+    "image": "../images/parcours/dentelliere.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064918"
   },
   {
@@ -569,7 +569,7 @@ window.OEUVRES = [
     "salle": "Salle 702",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065426/0001319152_OG.JPG",
+    "image": "../images/parcours/sabines.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065426"
   },
   {
@@ -581,7 +581,7 @@ window.OEUVRES = [
     "salle": "Salle 700",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066486/0000772145_OG.JPG",
+    "image": "../images/parcours/eylau.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066486"
   },
   {
@@ -593,7 +593,7 @@ window.OEUVRES = [
     "salle": "Salle 700",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059198/0000772153_OG.JPG",
+    "image": "../images/parcours/officier.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059198"
   },
   {
@@ -605,7 +605,7 @@ window.OEUVRES = [
     "salle": "Salle 700",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059199/0000560597_OG.JPG",
+    "image": "../images/parcours/radeau.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059199"
   },
   {
@@ -629,7 +629,7 @@ window.OEUVRES = [
     "salle": "Salle 700",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065757/0001224148_OG.JPG",
+    "image": "../images/parcours/sardanapale.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065757"
   },
   {
@@ -665,7 +665,7 @@ window.OEUVRES = [
     "salle": "Salle 702",
     "aile": "Aile Denon",
     "niveau": "Niveau 1",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065748/0000134319_OG.JPG",
+    "image": "../images/parcours/homere.jpg",
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065748"
   },
   {
@@ -1227,20 +1227,2657 @@ window.OEUVRES = [
     "niveau": "Niveau médian",
     "salle": "Salle 72",
     "notice_url": "https://www.musee-orsay.fr/fr/oeuvres/femmes-au-jardin-femme-assise-au-chat-8022"
+  },
+  {
+    "id": "cl010062584",
+    "musee_id": "louvre",
+    "titre": "Les Bulles de savon",
+    "artiste": "Willem van Mieris",
+    "dates": "vers 1710-1720",
+    "salle": "Salle 839",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062584/0000601705_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062584"
+  },
+  {
+    "id": "cl010062008",
+    "musee_id": "louvre",
+    "titre": "Habitations de « Labradores qui plantent le sucre » près de la rivière Paraíba (Brésil)",
+    "artiste": "Frans Post",
+    "dates": "vers 1650-1655",
+    "salle": "Salle 838",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062008/0000136123_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062008"
+  },
+  {
+    "id": "cl010062020",
+    "musee_id": "louvre",
+    "titre": "Autoportrait au chevalet et à l'appuie-main de peintre",
+    "artiste": "Rembrandt (Rembrandt Harmensz. van Rijn)",
+    "dates": "1660",
+    "salle": "Salle 844",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/rembrandt_chevalet.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062020"
+  },
+  {
+    "id": "cl010060453",
+    "musee_id": "louvre",
+    "titre": "Bethsabée au bain tenant la lettre du roi David",
+    "artiste": "Rembrandt (Rembrandt Harmensz. van Rijn)",
+    "dates": "1654",
+    "salle": "Salle 844",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/bethsabee.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060453"
+  },
+  {
+    "id": "cl010059143",
+    "musee_id": "louvre",
+    "titre": "Le Roi boit ou Repas de famille le jour de la fête des Rois",
+    "artiste": "Jacob Jordaens",
+    "dates": "vers 1638-1640",
+    "salle": "Salle 848",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059143/0000387876_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059143"
+  },
+  {
+    "id": "cl010063537",
+    "musee_id": "louvre",
+    "titre": "Portrait d'une noble génoise",
+    "artiste": "Antoon van Dyck",
+    "dates": "vers 1626-1627",
+    "salle": "Salle 850",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/genoise.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010063537"
+  },
+  {
+    "id": "cl010060850",
+    "musee_id": "louvre",
+    "titre": "La Kermesse (Les Plaisirs de la campagne)",
+    "artiste": "Pierre Paul Rubens",
+    "dates": "vers 1635-1638",
+    "salle": "Salle 855",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/kermesse.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060850"
+  },
+  {
+    "id": "cl010060847",
+    "musee_id": "louvre",
+    "titre": "Hercule et Omphale : Hercule filant la laine auprès d'Omphale",
+    "artiste": "Pierre Paul Rubens",
+    "dates": "vers 1606-1607",
+    "salle": "Salle 802",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000060847/0000748319_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060847"
+  },
+  {
+    "id": "cl010065982",
+    "musee_id": "louvre",
+    "titre": "Les Ombres de Francesca da Rimini et de Paolo Malatesta apparaissent à Dante et à Virgile",
+    "artiste": "Ary Scheffer",
+    "dates": "1855",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/scheffer.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065982"
+  },
+  {
+    "id": "cl010062510",
+    "musee_id": "louvre",
+    "titre": "Le Christ sur la croix. La Madeleine et la Vierge sont à ses pieds",
+    "artiste": "Pierre-Paul Prud'hon",
+    "dates": "1822",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/prudhon_christ.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062510"
+  },
+  {
+    "id": "cl010062901",
+    "musee_id": "louvre",
+    "titre": "Bonaparte franchissant les Alpes",
+    "artiste": "Paul Delaroche",
+    "dates": "1848",
+    "salle": "Salle 701",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/delaroche_alpes.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062901"
+  },
+  {
+    "id": "cl010457022",
+    "musee_id": "louvre",
+    "titre": "L'Âme brisant les liens qui l'attachent à la terre",
+    "artiste": "Pierre-Paul Prud'hon",
+    "dates": "vers 1821-1823",
+    "salle": "Salle 700",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/prudhon_ame.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010457022"
+  },
+  {
+    "id": "cl010064491",
+    "musee_id": "louvre",
+    "titre": "La Justice et la Vengeance divine poursuivant le Crime",
+    "artiste": "Pierre-Paul Prud'hon",
+    "dates": "1808",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/prudhon_justice.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064491"
+  },
+  {
+    "id": "cl010066293",
+    "musee_id": "louvre",
+    "titre": "Roger délivrant Angélique",
+    "artiste": "Jean-Auguste-Dominique Ingres",
+    "dates": "1819",
+    "salle": "Salle 701",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/ingres_roger.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066293"
+  },
+  {
+    "id": "cl010065566",
+    "musee_id": "louvre",
+    "titre": "Une odalisque, dite La Grande Odalisque",
+    "artiste": "Jean-Auguste-Dominique Ingres",
+    "dates": "1814",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/odalisque.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065566"
+  },
+  {
+    "id": "cl010063624",
+    "musee_id": "louvre",
+    "titre": "Autoportrait",
+    "artiste": "Jacques-Louis David",
+    "dates": "1794",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/david_autoportrait.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010063624"
+  },
+  {
+    "id": "cl010065425",
+    "musee_id": "louvre",
+    "titre": "Léonidas aux Thermopyles",
+    "artiste": "Jacques-Louis David",
+    "dates": "1814",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/leonidas.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065425"
+  },
+  {
+    "id": "cl010065720",
+    "musee_id": "louvre",
+    "titre": "Le Sacre de Napoléon (Le Couronnement de l'empereur Napoléon Ier et de l'impératrice Joséphine dans la cathédrale Notre-Dame de Paris)",
+    "artiste": "Jacques-Louis David",
+    "dates": "1807",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/sacre.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065720"
+  },
+  {
+    "id": "cl010062239",
+    "musee_id": "louvre",
+    "titre": "Le Serment des Horaces, entre les mains de leur père",
+    "artiste": "Jacques-Louis David",
+    "dates": "1784",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/horaces.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062239"
+  },
+  {
+    "id": "cl010059773",
+    "musee_id": "louvre",
+    "titre": "Marat assassiné, le 13 juillet 1793",
+    "artiste": "Jacques-Louis David (atelier de)",
+    "dates": "1793-1794",
+    "salle": "Salle 702",
+    "aile": "Aile Denon",
+    "niveau": "Niveau 1",
+    "image": "../images/parcours/marat.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059773"
+  },
+  {
+    "id": "cl010062788",
+    "musee_id": "louvre",
+    "titre": "Angélique et Médor",
+    "artiste": "Toussaint Dubreuil (attribué à)",
+    "dates": "1575-1600",
+    "salle": "Salle 824",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/dubreuil.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062788"
+  },
+  {
+    "id": "cl010062443",
+    "musee_id": "louvre",
+    "titre": "Paysage avec Orphée et Eurydice",
+    "artiste": "Nicolas Poussin",
+    "dates": "vers 1648",
+    "salle": "Salle 825",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062443/0000340369_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062443"
+  },
+  {
+    "id": "cl010061018",
+    "musee_id": "louvre",
+    "titre": "Le Débarquement de Cléopâtre à Tarse",
+    "artiste": "Claude Gellée, dit Le Lorrain",
+    "dates": "vers 1642-1643",
+    "salle": "Salle 826",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lorrain_cleopatre.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010061018"
+  },
+  {
+    "id": "cl010062002",
+    "musee_id": "louvre",
+    "titre": "La Présentation au Temple",
+    "artiste": "Simon Vouet",
+    "dates": "1641",
+    "salle": "Salle 828",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/vouet_presentation.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062002"
+  },
+  {
+    "id": "cl010060522",
+    "musee_id": "louvre",
+    "titre": "Portrait du cardinal de Richelieu",
+    "artiste": "Philippe de Champaigne",
+    "dates": "vers 1635-1640",
+    "salle": "Salle 828",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/champaigne_richelieu.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060522"
+  },
+  {
+    "id": "cl010066263",
+    "musee_id": "louvre",
+    "titre": "La Diseuse de bonne aventure",
+    "artiste": "Nicolas Régnier",
+    "dates": "vers 1626-1630",
+    "salle": "Salle 829",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/regnier.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066263"
+  },
+  {
+    "id": "cl010066185",
+    "musee_id": "louvre",
+    "titre": "Le Jeune Chanteur",
+    "artiste": "Claude Vignon",
+    "dates": "vers 1622-1623",
+    "salle": "Salle 829",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/vignon.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066185"
+  },
+  {
+    "id": "cl010061288",
+    "musee_id": "louvre",
+    "titre": "Portrait de jeune homme (dit Autoportrait)",
+    "artiste": "Simon Vouet",
+    "dates": "vers 1616-1618",
+    "salle": "Salle 829",
+    "aile": "Aile Richelieu",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/vouet_autoportrait.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010061288"
+  },
+  {
+    "id": "cl010061650",
+    "musee_id": "louvre",
+    "titre": "La Prédication de saint Paul à Éphèse",
+    "artiste": "Eustache Le Sueur",
+    "dates": "1649",
+    "salle": "Salle 908",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lesueur_paul.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010061650"
+  },
+  {
+    "id": "cl010060647",
+    "musee_id": "louvre",
+    "titre": "Melpomène, Érato et Polymnie",
+    "artiste": "Eustache Le Sueur",
+    "dates": "1652-1655",
+    "salle": "Salle 911",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lesueur_melpomene.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060647"
+  },
+  {
+    "id": "cl010060622",
+    "musee_id": "louvre",
+    "titre": "Calliope",
+    "artiste": "Eustache Le Sueur",
+    "dates": "1652-1655",
+    "salle": "Salle 911",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lesueur_calliope.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060622"
+  },
+  {
+    "id": "cl010065541",
+    "musee_id": "louvre",
+    "titre": "Le Dessert de gaufrettes",
+    "artiste": "Lubin Baugin",
+    "dates": "vers 1631",
+    "salle": "Salle 911",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/baugin.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065541"
+  },
+  {
+    "id": "cl010062422",
+    "musee_id": "louvre",
+    "titre": "L'Assomption de la Vierge",
+    "artiste": "Nicolas Poussin",
+    "dates": "vers 1649-1650",
+    "salle": "Salle 911",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/poussin_assomption.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010062422"
+  },
+  {
+    "id": "cl010065555",
+    "musee_id": "louvre",
+    "titre": "L'Adoration des bergers",
+    "artiste": "Georges de La Tour",
+    "dates": "vers 1644",
+    "salle": "Salle 912",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065555/0000397527_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065555"
+  },
+  {
+    "id": "cl010059485",
+    "musee_id": "louvre",
+    "titre": "La Famille heureuse (Retour du baptême)",
+    "artiste": "Louis Le Nain",
+    "dates": "1642",
+    "salle": "Salle 912",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lenain_famille_heureuse.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010059485"
+  },
+  {
+    "id": "cl010060618",
+    "musee_id": "louvre",
+    "titre": "La Forge",
+    "artiste": "Louis Le Nain",
+    "dates": "vers 1640",
+    "salle": "Salle 912",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lenain_forge.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060618"
+  },
+  {
+    "id": "cl010066434",
+    "musee_id": "louvre",
+    "titre": "La Charrette",
+    "artiste": "Louis Le Nain",
+    "dates": "1641",
+    "salle": "Salle 912",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000066434/0000387667_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066434"
+  },
+  {
+    "id": "cl010064707",
+    "musee_id": "louvre",
+    "titre": "Allégorie de la Victoire",
+    "artiste": "Louis Le Nain (attribué à)",
+    "dates": "vers 1635",
+    "salle": "Salle 912",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000064707/0000392367_OG.JPG",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064707"
+  },
+  {
+    "id": "cl010066957",
+    "musee_id": "louvre",
+    "titre": "Ex-voto de 1662 : la mère Catherine-Agnès Arnauld et la sœur Catherine de Sainte-Suzanne",
+    "artiste": "Philippe de Champaigne",
+    "dates": "1662",
+    "salle": "Salle 913",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/champaigne_exvoto.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010066957"
+  },
+  {
+    "id": "cl010064799",
+    "musee_id": "louvre",
+    "titre": "Portrait d'homme",
+    "artiste": "Philippe de Champaigne",
+    "dates": "1650",
+    "salle": "Salle 913",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/champaigne_homme.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064799"
+  },
+  {
+    "id": "cl010064800",
+    "musee_id": "louvre",
+    "titre": "Portrait de deux hommes",
+    "artiste": "Philippe de Champaigne (attribué à)",
+    "dates": "1656",
+    "salle": "Salle 913",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/champaigne_deux_hommes.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064800"
+  },
+  {
+    "id": "cl010060519",
+    "musee_id": "louvre",
+    "titre": "Le Christ mort couché sur son linceul",
+    "artiste": "Philippe de Champaigne",
+    "dates": "vers 1650-1654",
+    "salle": "Salle 913",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/champaigne_christ_mort.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060519"
+  },
+  {
+    "id": "cl010060585",
+    "musee_id": "louvre",
+    "titre": "Entrée d'Alexandre dans Babylone (Le Triomphe d'Alexandre)",
+    "artiste": "Charles Le Brun",
+    "dates": "vers 1664-1665",
+    "salle": "Salle 914",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lebrun_alexandre.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060585"
+  },
+  {
+    "id": "cl010060587",
+    "musee_id": "louvre",
+    "titre": "La Bataille d'Arbèles",
+    "artiste": "Charles Le Brun",
+    "dates": "vers 1668-1669",
+    "salle": "Salle 914",
+    "aile": "Aile Sully",
+    "niveau": "Niveau 2",
+    "image": "../images/parcours/lebrun_arbeles.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010060587"
+  },
+  {
+    "id": "cl010064319",
+    "musee_id": "louvre",
+    "titre": "Portrait de Robert Arnauld d'Andilly",
+    "artiste": "Philippe de Champaigne",
+    "dates": "1667",
+    "salle": null,
+    "aile": null,
+    "niveau": null,
+    "image": "../images/parcours/champaigne_arnauld.jpg",
+    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010064319",
+    "emplacement_note": "Actuellement en dépôt au musée Carnavalet (non exposé au Louvre)"
   }
 ];
 
 window.PARCOURS = [
   {
-    "id": "denon_1804-1830_romantisme-contre-neoclassicisme",
+    "musee_id": "louvre",
+    "date_creation": "2026-11-10",
+    "duree_estimee": "1h-1h15",
+    "id": "richelieu_1575-1664_peinture-francaise-fontainebleau-poussin",
+    "illustration": "cl010062528",
+    "titre": "[Louvre] [Aile Richelieu] [1575-1664] Peinture française du XVIIe : de Fontainebleau à Poussin",
+    "cours_source": "Parcours personnel : peinture française, aile Richelieu (1/3)",
+    "fil_conducteur": "De la seconde école de Fontainebleau à l'école française voulue par Louis XIII : Poussin et son atticisme, le paysage historique de Claude Lorrain, puis Vouet, Champaigne, Régnier, Vignon et Valentin de Boulogne.",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010062788",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ouverture du parcours : l'art français a longtemps été **éclipsé par l'art italien** jusqu'au XVIe siècle.",
+                "À Fontainebleau, la salle de bal est décorée par le Primatice ; la **première école de Fontainebleau**, œuvre d'Italiens, influence les artistes français.",
+                "La **seconde école de Fontainebleau**, dont relève Dubreuil, déploie le style **maniériste**.",
+                "À la mort d'Henri IV (1610), **Marie de Médicis**, régente, veut un art plus moderne, novateur, en rupture avec cette seconde école : elle fait venir Pourbus et Rubens.",
+                "**Louis XIII** (1617) pense autrement que sa mère : il refuse de recruter des étrangers et veut promouvoir une **école française** de peinture, avec Simon Vouet, Philippe de Champaigne et Nicolas Poussin.",
+                "**Louis XIV** (vers 1650) achève cette ambition : peintres, sculpteurs, architectes, paysagistes, ébénistes, orfèvres et tapissiers imposent le **style versaillais** à l'Europe, qui le copie ; Le Sueur, La Hyre et Le Brun s'inscrivent dans cet élan.",
+                "Ce premier tableau sert de point de départ : il montre ce dont les artistes français vont s'émanciper."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le **maniérisme** se reconnaît à trois traits : des compositions peu lisibles, des corps aux formes redéfinies par le peintre, des corps en position instable, mal commode, intenable dans la réalité.",
+                "À observer : les poses des figures et la difficulté à lire la scène d'un seul regard ; gardez-les en tête pour les comparer à la rigueur de Poussin."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Angélique et Médor : couple tiré de la littérature chevaleresque, illustré par Toussaint Dubreuil."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062438",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin (1594-1665), né en Normandie mais installé en Italie, pose la question de la **nationalité de l'artiste** ; il fait pourtant carrière grâce à des mécènes français.",
+                "Il reçoit ses commandes avec peu de contraintes : il est l'un des rares peintres à ne pas se voir imposer un programme trop détaillé.",
+                "Il inspirera l'**atticisme parisien**.",
+                "Poussin applique sa rigueur à un sujet de chaos : comment composer de façon parfaitement ordonnée une scène de violence pure ?",
+                "La première version, vers 1635 (New York), donne une impression de chaos, en **frise**, dominée par Romulus ; celle du Louvre, vers 1637-1638, est beaucoup plus structurée.",
+                "Ces principes, triangles emboîtés et accordéon, seront repris par les peintres français, de l'atticisme parisien à Le Brun."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Poussin cherche à **organiser le chaos** par une structure extrêmement rigoureuse.",
+                "L'architecture empêche le regard de se perdre dans le lointain : la scène est fermée, il faut regarder devant. Ses fortes **verticales**, à l'arrière-plan, structurent la composition.",
+                "Les quatre enlèvements sont structurés en **accordéon** (ou W) : allers-retours entre premier et second plan, qui se font écho en duos homme/femme.",
+                "Le groupe de l'arrière-plan avec le cheval est le même, vu de face à gauche et de dos à droite.",
+                "Gamme restreinte aux trois **couleurs primaires** pour la stabilité ; le **bleu** domine."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Tiré de Tite-Live et de Plutarque : Romulus fait enlever les femmes des Sabins, peuple voisin, pour peupler Rome."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062443",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin, installé à Rome, développe ici le **paysage historisé**, genre où le paysage porte la narration.",
+                "Le tableau s'inscrit dans la période de maturité du peintre, où il unit récit antique, nature et réflexion morale."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le **paysage historisé** : chaque élément contribue à la narration.",
+                "Premier repère, les **éléments rouges** attirent d'abord le regard vers un personnage ; on hésite entre Apollon et Orphée.",
+                "Les femmes voisines sont fascinées, comme happées : c'est donc **Orphée**, car quand il chante, la nature s'arrête. Cette partie du tableau est celle du calme et de la volupté.",
+                "Le **personnage debout** fait la rupture entre les deux parties.",
+                "De l'autre côté, un personnage féminin est attiré par l'arrivée du mal : un **serpent** va mordre Eurydice. Cette partie représente la destruction, le travail de l'homme.",
+                "À observer : le contraste entre la partie paisible et celle de l'inquiétude, séparées par la figure debout."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Orphée, poète dont le chant arrête la nature, perd Eurydice, mordue par un serpent : récit tiré des Métamorphoses d'Ovide."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062521",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Cette étape ouvre les **quatre saisons**, peintes en 1660-1664 pour le duc de Richelieu : véritable **testament artistique** de Poussin, qui y affirme l'importance du **paysage historique**.",
+                "Le cycle entremêle quatre saisons, quatre moments du jour, quatre âges de la vie et quatre récits de l'Ancien Testament.",
+                "Un dialogue s'y installe entre fertilité et stérilité, destruction et naissance : dans la lignée de la pensée **néo-stoïcienne** de Poussin.",
+                "Le cycle va de la création à la destruction : le Printemps (Paradis terrestre), l'Été (Ruth et Booz), l'Automne (la grappe de la Terre promise), l'Hiver (le Déluge).",
+                "Cette réflexion sur le paysage mène à Claude Lorrain, pour qui la lumière structure tout."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Les quatre tableaux suivent une **composition identique** : végétation formant de fortes verticales, figures principales au centre, **triangles emboîtés** entre premier plan et arrière-plan.",
+                "Les **couleurs primaires** garantissent l'équilibre et la stabilité.",
+                "Poussin déjoue les attentes : ni neige ni feuilles mortes.",
+                "Il reprend la **ligne serpentine** et les triangles du Dominiquin, élève des Carrache.",
+                "À observer : habituellement, ses figures sont parfaitement cernées, comme des bas-reliefs peints. Ici, la touche est **tremblée**, avec des empâtements, non voulus : une maladie lui fait trembler la main à la fin de sa vie.",
+                "Le **serpent**, le Mal, ouvre le cycle avec Adam et Ève dans Le Printemps et le ferme dans Le Déluge."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le Printemps ou **Le Paradis terrestre** : Adam et Ève dans le jardin d'Éden, avant la faute, avec l'apparition de Dieu.",
+                "Ève montre le fruit défendu à Adam ; la scène a lieu le matin, tout est lumière divine avant le péché.",
+                "Les trois autres saisons : L'Été ou Ruth et Booz, L'Automne ou La Grappe de raisin rapportée de la Terre promise, L'Hiver ou Le Déluge."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065384",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin, qui vit à Rome, se représente en **1650** pour son ami et mécène Paul Fréart de Chantelou.",
+                "Composition à forte teneur **métaphorique et allégorique** : c'est grâce à la constante amitié de Chantelou que Poussin peut vivre de sa peinture.",
+                "C'est le dernier de ses rares autoportraits et le plus intéressant.",
+                "Ce tableau de réflexion sur la peinture prépare les Quatre Saisons, où il défend sa vision du paysage."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le buste, tout en noir (**austérité**), s'inscrit dans un **triangle**.",
+                "Les tableaux empilés derrière lui, le chambranle et les moulures de la porte forment un réseau de **horizontales et de verticales** : cette vue d'atelier n'a rien d'accidentel.",
+                "Fond neutre, couleurs sales, pour mettre en valeur les trois **couleurs primaires** des tableaux."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Trois niveaux de lecture. Discours **explicite** : au premier plan, le revers d'une toile porte, en italien, une dédicace, l'effigie de Poussin faite à Rome en 1650.",
+                "Discours **implicite**, allégorique : une jeune femme au diadème orné d'un œil, allégorie de la peinture, est étreinte par deux mains, celles du mécène Chantelou.",
+                "Discours **symbolique**, par les objets : la main sur le carnet de croquis porte une bague au diamant en pointe, symbole de **constance**.",
+                "Sens : la constance de l'amitié de Chantelou permet à Poussin de vivre de son métier de peintre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062528",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin s'éloigne de l'influence vénitienne (Écho et Narcisse) pour un style qui lui ressemble : extrêmement rigoureux, structuré, organisé.",
+                "Tableau important d'un point de vue pédagogique : il marque cette rupture.",
+                "Influence **néo-platonicienne** du milieu romain de Poussin : le sujet a longtemps été difficile à comprendre.",
+                "Comparez avec la première version, vers 1629 (Chatsworth), où les bergers se précipitaient vers le cénotaphe ; la composition du Louvre est plus rigoureuse."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La végétation obstrue l'arrière-plan et concentre le regard sur le **premier plan**.",
+                "Le cénotaphe, disposé en biais, dynamise la scène.",
+                "Les bergers suivent une **symétrie inversée** : un assis et un debout au premier plan, et de même à l'arrière-plan.",
+                "La femme crée un **élan vertical** par les plis de son vêtement et le tronc qui prolonge sa silhouette ; elle fait repoussoir et conduit le regard vers les doigts du berger qui désignent le texte.",
+                "**Stabilité** apportée par la couleur : gamme restreinte aux trois couleurs primaires ensemble, avec un dernier reste vénitien dans le costume de l'homme de gauche."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des bergers se penchent sur un tombeau dans un paysage élégiaque : « Et in Arcadia ego ».",
+                "**Arcadie** : lieu primitif et idyllique, peuplé de bergers vivant en harmonie avec la nature.",
+                "Lecture néo-platonicienne : « Moi aussi, je réside en Arcadie » ; ce n'est pas le mort, mais **la mort** qui parle. Où qu'on soit, on reste soumis aux lois de l'existence."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062516",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin est encore jeune, installé à Rome ; l'**influence du Titien** et de la peinture vénitienne est nette.",
+                "Point de départ du parcours : Poussin va chercher une rigueur de plus en plus affirmée, héritée des **Carrache** par son maître le Dominiquin ; il est aussi marqué par les peintres flamands venus à Paris à la demande de Marie de Médicis (Pourbus).",
+                "À observer : la tunique de Narcisse, aux **aplats de couleur** superposés, signe de jeunesse et d'influence vénitienne."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Deux récits complexes sont résumés avec une parfaite lisibilité.",
+                "Au premier plan, le corps de Narcisse dessine une **horizontale** ; l'arbre central, une **verticale**.",
+                "Les **diagonales** viennent du Cupidon, avec flamme et flèche, et des branches.",
+                "Aplats de couleur de la tunique : héritage du Titien, que Poussin cite dans d'autres toiles de cette période."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Deux récits des **Métamorphoses** d'Ovide, imbriqués l'un dans l'autre.",
+                "À l'arrière-plan, **Écho**, nymphe qui parle si fort que Zeus l'utilise pour masquer ses ébats avec des mortelles. Héra, découvrant la ruse, la punit : elle ne pourra plus que répéter le dernier mot de son interlocuteur. Amoureuse de Narcisse, elle ne peut le lui avouer.",
+                "Au premier plan, **Narcisse** : Némésis, déesse de la vengeance, entend les plaintes de ses prétendants et le punit de son insensibilité ; il tombe amoureux de son reflet, dépérit et meurt au bord de l'eau.",
+                "Écho, à force de le contempler, devient rocher."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062436",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin le peint (1648) pour son ami le banquier **Jean Pointel**, pour se distraire et reposer son esprit : il puise dans la Genèse.",
+                "Ce n'est pas une commande très contrainte, à la différence de séries faites pour d'autres amis comme Chantelou.",
+                "La **ligne serpentine** vient du Dominiquin et des Carrache ; autre étape vers Claude Lorrain, qui reprend la structure par la lumière."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Tableau **fermé sur les côtés** par des éléments architecturaux, à gauche et à droite, qui dirigent le regard vers le centre ; l'ouverture sur le **ciel bleu** aère la composition.",
+                "Au centre, les protagonistes principaux.",
+                "Les jeunes femmes sont disposées **en frise**, comme les bas-reliefs antiques ; ligne serpentine, pas d'isocéphalie : le regard évolue naturellement dans la composition, aidé des cruches, jamais au même niveau.",
+                "À observer : la jeune femme à la cruche sur la tête, qui regarde le spectateur, cite Raphaël (L'Incendie du Borgo).",
+                "La chorégraphie des bras renvoie au groupe antique des **Niobides**."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Abraham veut marier son fils Isaac à une jeune femme de son pays d'origine et envoie son serviteur **Éliézer** choisir l'épouse.",
+                "Éliézer demande l'aide de Dieu : la première jeune femme qui lui proposera à boire au puits sera l'épouse d'Isaac.",
+                "Poussin choisit le moment clé : Éliézer offre un anneau d'or à **Rébecca**, qui accepte en posant la main sur sa poitrine, entourée de jeunes femmes qui puisent l'eau."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010061018",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Claude Gellée, dit le **Lorrain**, autre peintre qui séjourne à Rome et se forme à la tradition du **paysage historique** ; il connaît Poussin mais va plus loin que lui.",
+                "Il influencera William Turner.",
+                "Pour lui, le sujet n'est pas important : à peine lisible sans le titre. L'essentiel est la **lumière** et la façon dont elle modèle le paysage."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Les éléments d'architecture forment les **coulisses d'un théâtre** : verticales fortes conduisant vers le point de fuite.",
+                "Le **point de fuite** est le soleil : on ne peut pas regarder le soleil de face sans être ébloui, et pourtant Claude y parvient.",
+                "La lumière structure toute la composition : grandes lignes droites au centre et **obliques** des barques.",
+                "À observer : le soleil de face sur l'eau, et comment les barques guident l'œil vers lui."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le Débarquement de Cléopâtre à Tarse : la reine arrive par la mer, mais l'épisode passe au second plan derrière la lumière."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010061024",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Claude Gellée, dit le Lorrain, autre Français installé à Rome, connaît Poussin ; héritier des Carrache et du paysage **historique**, il va plus loin que lui.",
+                "Pour Claude, le sujet n'est pas l'essentiel ; l'important est la **lumière**, qui module et structure le paysage.",
+                "Il va ici plus loin que dans le tableau précédent : le soleil, plein face sur l'eau, est cette fois **caché** par un bateau, et la lumière contourne la coque.",
+                "Le Port avec l'embarquement de la reine de Saba (1648, National Gallery) montrait déjà le soleil au centre.",
+                "Ce travail inspirera Turner (Le Dernier Voyage du Téméraire).",
+                "Comme Poussin avec la ligne serpentine et le triangle, Claude reprend la structure de l'académie des Carrache, mais c'est la lumière qui assure la construction.",
+                "Ces deux héritiers des Carrache ne cesseront d'essaimer, de Reynolds, David et Ingres à Cézanne, Picasso et Turner."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Mêmes éléments que dans l'œuvre précédente : architecture en **coulisses de théâtre** et verticalité forte, qui conduisent le regard vers le point de fuite.",
+                "La lumière structure et assure les lignes directrices : deux obliques arrivent au **point de fuite**.",
+                "Complexité supplémentaire : l'**ombre** de la coque crée l'axe central menant à la perspective."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau, daté de 1644, montre Ulysse remettant Chryséis à son père."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062002",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Simon Vouet** (1590-1649), prince de l'Académie de Saint-Luc à Rome en 1624, est rappelé par Louis XIII en 1627 pour fonder une **école française** de peinture, en rupture avec la seconde école de Fontainebleau.",
+                "Il abandonne alors le caravagisme pour une **manière claire** : couleurs lumineuses, « acides » (pigments mêlés de beaucoup de blanc).",
+                "Tableau commandé par **Richelieu**, vers 1640-1641 : Vouet est à la fois peintre du cardinal et du roi.",
+                "Son grand atelier forme Le Brun, Le Sueur et La Hyre ; lui-même sera pourtant tenu à l'écart de l'Académie de 1648."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Les figures s'inscrivent dans un **triangle** ; les anges, qui matérialisent la présence divine au-dessus de l'Enfant, forment un second triangle qui complique la composition.",
+                "Des **repoussoirs** de trois quarts dos, de part et d'autre, ramènent le regard vers le centre.",
+                "Palette très étendue ; l'architecture du fond stabilise, mais reste peu lisible : temple circulaire, arc de triomphe et autre bâtiment s'enchevêtrent et l'œil s'y perd.",
+                "Ses élèves, dont Le Brun, lui reprochaient une anatomie et une perspective peu solides : il recomposait ses perspectives à partir d'éléments d'estampes, comme un puzzle."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Épisode de l'Évangile de Luc : Marie et Joseph présentent l'Enfant Jésus au Temple, où le vieillard Siméon le reçoit."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060522",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Philippe de Champaigne** (1602-1674), né à Bruxelles et formé comme paysagiste et portraitiste, s'installe à Paris en 1621 ; il tient tête à Vouet et devient le portraitiste préféré et officiel de **Richelieu**.",
+                "Louis XIII voulait des artistes français pour une **école française** ; Richelieu, bras droit du roi, utilise la peinture comme symbole de pouvoir, ce qui prépare le **style versaillais**.",
+                "Le cardinal avait une telle confiance dans le réalisme de Champaigne qu'un triple portrait fut peint pour que le sculpteur Mochi, puis Le Bernin, en tirent un buste.",
+                "Ce portrait est daté vers 1637."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Un homme d'Église est d'ordinaire représenté **assis**, un homme de pouvoir temporel **debout** : en choisissant la pose debout, Richelieu montre qu'il est d'abord un homme d'État.",
+                "Dans la version du Louvre du portrait debout, Champaigne **épure** : plus de paysage, un simple rideau en fond, cadrage resserré, moins de plis, chapeau tenu plus naturellement.",
+                "Le geste de la main qui soulève la chape signale le pouvoir ; dans la version plus ancienne, les nombreux plis cassés créaient du mouvement."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Portrait officiel du cardinal-ministre, fondateur de l'Académie française et grand protecteur des artistes."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066263",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Nicolas Régnier** (vers 1588-1667), d'origine flamande, est l'un des **caravagesques** français de Rome, avec Valentin de Boulogne, Vouet, Vignon et Tournier.",
+                "Les caravagesques reprennent les règles du Caravage, popularisées par Manfredi : fond neutre, cadrage resserré à mi-corps, lumière venue de biais, costumes de fantaisie.",
+                "Ils aiment aussi se **réapproprier** des compositions : la diseuse de bonne aventure vient du Caravage, où elle dérobe un anneau au jeune homme."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Fond sombre, cadrage resserré, lumière dirigée sur les visages."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Régnier reprend l'idée du **voleur volé** de Manfredi : on occupe le jeune aristocrate pendant qu'on lui fait les poches.",
+                "Le voleur, qui vole la voleuse, regarde le spectateur droit dans les yeux, comme pour le mettre au défi de le dénoncer."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066185",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Claude Vignon** (1593-1670) commence sa carrière en Italie, puis revient en France ; son style se détache alors du **caravagisme**.",
+                "Ce Jeune Chanteur est typique de son caravagisme : cadrage à mi-corps, fond neutre, lumière de biais, costume de fantaisie (chapeau à plumes, fraise, manche rayée).",
+                "Le thème du **concert** est très courant chez les caravagesques ; Vignon le décline avec une touche épaisse d'aplats superposés, sans dessin sous-jacent, qui crée le mouvement des plis du vêtement."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un jeune garçon chante, mais il est seul : la figure isolée dans un cadrage resserré dégage une impression de **mélancolie**."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010061288",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Simon Vouet** (1590-1649) mène une carrière brillante à Rome, où il est élu prince de l'Académie de Saint-Luc (1624), puis revient à Paris en 1627 à l'appel de Louis XIII et change de manière.",
+                "À Rome, ses portraits relèvent du **caravagisme** : fond neutre, cadrage resserré autour de la figure, lumière venue d'en haut à gauche et partant de biais (comme dans le portrait de Giovanni Doria).",
+                "À Paris, il adopte une **manière claire**, aux couleurs lumineuses.",
+                "Le titre (« dit Autoportrait ») signale une identification traditionnelle, à prendre avec prudence."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Portrait de jeune homme, traditionnellement identifié comme autoportrait du peintre : à observer, la pose, le regard et l'affirmation du statut de peintre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010061972",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Valentin de Boulogne (1591-1632) arrive à Rome en 1611 et y reste jusqu'à sa mort ; il fréquente Simon Vouet et d'autres Français caravagesques, comme Vignon, Régnier et Tournier.",
+                "Avec Régnier, Vignon et Vouet, il complète le groupe de Français marqués par le Caravage, qui clôt cette partie du parcours.",
+                "Le tableau reprend l'iconographie du Caravage, selon des règles popularisées par Manfredi : thème du concert, manches rayées, chapeaux à plumes posés trop en arrière de façon à dessiner un cercle.",
+                "Nicolas Tournier, élève de Valentin, reprendra la stèle et le buveur de dos.",
+                "Le bas-relief, qui représente les noces de Pélée et de Thétis, est une référence à l'**Antique** que le Caravage détestait."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Cadrage resserré, fond neutre, lumière en biais et violents contrastes d'ombre et de lumière, comme chez le Caravage.",
+                "Composition très rigoureuse : le dessus de la stèle trace une horizontale, son arête une verticale qui coupe en deux le garçon vu de dos.",
+                "Elle repose sur un système d'échos : l'homme qui verse à boire à gauche répond au garçon qui boit à la bouteille, et les deux musiciens sont en position inversée."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Sept personnages, buveurs, chanteurs et musiciens, sont réunis autour d'un bas-relief antique.",
+                "Le tableau est silencieux : les personnages ne se regardent pas, chacun est concentré sur son activité ; le petit garçon, seul à pouvoir nous regarder, a le regard perdu.",
+                "Comparez avec le Concert de Honthorst, où l'on communique et où l'on entend presque le bruit : le Louvre décrit une atmosphère de gravité et de mystère."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "musee_id": "louvre",
+    "date_creation": "2026-11-10",
+    "duree_estimee": "1h",
+    "id": "sully_1640-1655_atticisme-la-tour-le-nain",
+    "illustration": "cl010066276",
+    "titre": "[Louvre] [Aile Sully] [1640-1655] Atticisme, La Tour et les Le Nain",
+    "cours_source": "Parcours personnel : peinture française, côté Sully (2/3)",
+    "fil_conducteur": "L'atticisme parisien de Le Sueur, La Hyre et Poussin (salle 911), puis les nocturnes de La Tour et les scènes paysannes des Le Nain (salle 912).",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010061650",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Eustache Le Sueur** (1616-1655) est l'un des peintres de l'**atticisme parisien** : terme forgé au XXe siècle, par référence à la pureté de la langue attique, pour désigner vers 1649-1650 un style épuré, nourri de Poussin, de Raphaël et de la palette de Vouet.",
+                "Il est membre fondateur de l'Académie de 1648 ; cette toile (1649) est peinte pour la corporation des orfèvres de Paris."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Construction très stricte, inspirée de Raphaël (la Mort d'Ananias) : deux triangles de figures surmontent une **pyramide** dont la base est le jeune garçon agenouillé et les livres.",
+                "Geste de désignation fort ; escalier et figures au premier plan pour **étager les plans**.",
+                "Fond obturé par l'architecture (le temple de Diane), comme chez Poussin, ce qui stabilise la composition.",
+                "Les couleurs vives viennent de Vouet : une tunique bleue aux reflets roses, irréaliste mais lumineuse."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Saint Paul prêche à Éphèse devant une foule et les païens renoncent à leurs livres de magie, qu'ils brûlent."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060624",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ce panneau vient du **cabinet des Muses** de l’hôtel Lambert, sur l’île Saint-Louis, que Le Sueur décore entre 1652 et 1655 pour Nicolas Lambert.",
+                "Le programme est profondément féminin, car le cabinet se trouvait dans l’appartement de l’épouse de Nicolas Lambert.",
+                "C’est l’exemple le plus abouti et le plus révélateur de l’art de Le Sueur.",
+                "La composition vient de Poussin ; la palette rappelle Vouet."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Un bosquet ferme un côté et ses troncs verticaux stabilisent le groupe ; une partie ouverte donne sur une perspective qui aère la scène.",
+                "Montagnes et figures forment des triangles, mais un **ovale** tracé par les bras, de la tête de Clio à la ceinture de Thalie, puis au masque, à la flûte, et de nouveau à Clio, fait circuler l’œil.",
+                "Le rose côtoie le bleu : c’est la « manière claire » de Vouet."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Au plafond du cabinet, Phaéton demande à Apollon, dieu des neuf Muses, de conduire son char.",
+                "Clio, Euterpe et Thalie sont filles de Zeus et de Mnémosyne, déesse de la mémoire.",
+                "À gauche, Clio, muse de l’histoire, se reconnaît à la trompette de la renommée et au livre ; Euterpe, muse de la poésie lyrique, à sa flûte ; Thalie, muse de la comédie, assise à leurs pieds, au masque.",
+                "Les visages sont d’une grande retenue : même le masque censé sourire reste neutre, comme chez les Le Nain."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060647",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Panneau du **cabinet des Muses** de l'hôtel Lambert, que Le Sueur décore entre 1652 et 1655 pour Nicolas Lambert, héritier de son frère Jean-Baptiste.",
+                "L'hôtel (île Saint-Louis, 1639-1644) est dû à Le Vau, avec Le Brun et Le Nôtre : une première collaboration à trois qui annonce Vaux-le-Vicomte, puis Versailles.",
+                "Le programme est **féminin**, car le cabinet se trouve dans l'appartement de l'épouse de Nicolas Lambert ; au plafond, Phaéton demande à Apollon, dieu des neuf Muses, de conduire son char."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Marque de l'**atticisme** : grande retenue des visages, y compris dans l'expression de la tragédie, palette claire héritée de Vouet.",
+                "Dans la série, des arbres verticaux ferment la composition d'un côté tandis que l'autre s'ouvre sur une perspective ; les figures s'inscrivent dans un triangle, assoupli par des courbes qui font circuler le regard (ces principes sont hérités de Poussin)."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Trois Muses réunies : Melpomène (tragédie), Érato (poésie amoureuse) et Polymnie (chant sacré, éloquence).",
+                "Comme Clio, Euterpe et Thalie, elles sont filles de Zeus et de Mnémosyne et relèvent du cortège d'Apollon."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060622",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Autre panneau du **cabinet des Muses** de l'hôtel Lambert (1652-1655) : Calliope y figure seule, comme Uranie et Terpsichore, tandis que d'autres Muses sont réunies en groupes.",
+                "Décor à programme **féminin** : le cabinet se trouve dans l'appartement de l'épouse de Nicolas Lambert, qui a commandé le décor à Le Sueur et à François Perier ; Le Brun décore la galerie d'Hercule (1650-1660).",
+                "**Atticisme parisien** : retenue des visages, composition d'une grande clarté, palette lumineuse de Vouet, paysages hérités de Poussin."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Calliope, muse de la poésie épique et de l'éloquence, la première des neuf Muses, filles de Zeus et de Mnémosyne.",
+                "Au plafond du cabinet, Phaéton demande à Apollon, dieu des Muses, de conduire son char."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060683",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Atticisme parisien** : terme forgé au XXe siècle par Bernard Dorival et Jacques Thuillier pour une famille de peintres qui, vers 1649-1650, épurent le style français, comme les rhéteurs grecs épuraient leur langue.",
+                "La construction est typique de La Hyre et héritée de Poussin.",
+                "Cette science du paysage et ce goût d’ordre se prolongent dans le cabinet des Muses de Le Sueur."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Des triangles imbriqués, l’un à l’arrière-plan, l’autre au premier plan, structurent la scène.",
+                "Une **ligne serpentine** que l’œil suit de la gauche au premier plan jusqu’à droite, vers les moutons qui s’enfoncent ; les verticales du temple structurent et stabilisent la composition.",
+                "Les figures, groupées en triangle, sont disposées en courbes et contre-courbes.",
+                "Couleurs de l’atticisme : des associations improbables, comme un vert près d’un marron et d’un violet.",
+                "Les mêmes rouges et bleus se répètent au premier plan et au loin, de plus en plus pâles (rouge devenu rose puis blanc), ce qui crée la profondeur par un phénomène optique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le sujet, simple, vient de la Genèse : Jacob quitte son beau-père Laban avec ses femmes et son troupeau ; Laban le poursuit car ses idoles ont disparu.",
+                "Laban soupçonne Jacob, mais c’est en réalité Rachel, sa fille, qui les a dérobées et qui est assise dessus.",
+                "Le vrai sujet est d’abord le **paysage**, un paysage de fantaisie plus européen que proche-oriental."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065541",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Attribué à **Lubin Baugin**, installé à Paris dès 1624, à Saint-Germain-des-Prés : lieu protégé où des artistes flamands pouvaient exercer, mais seulement en **natures mortes**, pour ne pas concurrencer les peintres français.",
+                "Baugin s'inspire de leurs œuvres ; il devient académicien en 1651, puis est démis en 1655 faute d'avoir assuré ses cours.",
+                "Sobriété héritée des natures mortes flamandes et néerlandaises (à rapprocher d'Osias Beert) : fruits ou mets sur fond quasi neutre, appui dépouillé."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toute la virtuosité repose sur le **module du cercle** : cercles de la table, de l'assiette, des gaufrettes roulées, du verre, que viennent rompre des détails (pied du verre, col évasé de la bouteille, assiette en équilibre instable).",
+                "Surfaces variées : lisse de l'assiette, quadrillage des gaufrettes, boules du verre, osier de la bouteille.",
+                "La table en parallélépipède et le fond neutre et noir donnent une épure des formes ; les trois couleurs primaires (rouge du vin, bleu de la table, jaune de l'osier) renforcent la sobriété."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Dessert de gaufrettes : gaufrettes, verre de vin et bouteille disposés avec rigueur, où chaque élément paraît à sa place."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062422",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Nicolas Poussin** (1594-1665), né en Normandie, fait toute sa carrière à Rome (1624-1665, hors deux ans en France, 1640-1642) grâce à des mécènes français ; il peint ce qui lui plaît, rare liberté à l'époque.",
+                "Élève du Dominiquin et d'Annibal Carrache, d'abord marqué par la peinture vénitienne du XVIe siècle, il s'en émancipe vers un style **extrêmement rigoureux**, où tout est pensé, structuré, organisé.",
+                "Absent de l'Académie de 1648 mais omniprésent : ses tableaux y sont sans cesse cités et commentés ; il est la référence de l'**atticisme parisien** (La Hyre, Le Sueur) et des « **poussinistes** », partisans de la ligne.",
+                "Ses figures sont nettement cernées, presque des bas-reliefs peints ; il aime surprendre le spectateur."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "L'Assomption de la Vierge : la Vierge est élevée au ciel après sa mort."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065555",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Georges de La Tour** (1593-1652), né à Lunéville dans le duché de Lorraine, tombe dans l'oubli : guerre avec la France (1631), invasion par les troupes de Richelieu (1633), peste, incendie de Lunéville en 1638 où brûle son atelier.",
+                "Ses tableaux ressurgissent sans nom d'auteur ; il est redécouvert en 1934 par l'exposition des « peintres de la réalité ». Quand une composition fonctionne, il la décline en plusieurs **versions**.",
+                "Son caravagisme se lit dans le fond neutre, le cadrage resserré et la source lumineuse de biais.",
+                "Comme dans le Saint Joseph charpentier, la foi est montrée avec une grande **économie de moyens**, à l'opposé de la peinture de la Contre-Réforme et de ses nuées d'anges : une lumière simple, une scène silencieuse."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des bergers adorent l'Enfant Jésus nouveau-né, en présence de Marie et de Joseph ; la scène est dépouillée, recueillie, sans geste théâtral."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010063817",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Georges de La Tour (1593-1652), longtemps oublié, est redécouvert en 1934 par l’exposition des « peintres de la réalité » ; il se tourne ici vers la foi.",
+                "Représentation de la foi à l’**économie de moyens**, à l’opposé de la grande peinture de la Contre-Réforme et de ses nuées d’anges.",
+                "Après ce silence sacré vient un silence profane, celui des frères Le Nain, qui peignent eux aussi des figures qui ne font presque rien."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toute la scène est nimbée d’obscurité, mais la lumière dessine des formes géométriques très claires qui stabilisent la composition.",
+                "La verticale du bras de Joseph est reprise par sa jambe avancée ; la jambe referme un côté, le dos de l’enfant ferme l’autre.",
+                "Un axe vertical est formé par le foret et la bougie.",
+                "La solive, placée perpendiculairement, creuse la perspective et donne un repère au sol alors que le fond est noyé dans la pénombre.",
+                "Des outils et des copeaux animent discrètement le premier plan."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Joseph, dans son atelier de charpentier, perce une solive posée au sol, tandis qu’un enfant assis près de lui l’éclaire avec une bougie qu’il tient entre ses mains.",
+                "Une simple bougie n’éclairerait jamais autant : c’est le visage de l’enfant, le **Christ**, qui illumine la scène et tire l’humanité des ténèbres.",
+                "D’où l’inversion des attentes : « c’est l’enfant qui protège le père »."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066276",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le thème des tricheurs aux cartes a été popularisé par le Caravage ; il compte parmi les preuves de l’**influence caravagesque** sur Georges de La Tour.",
+                "Georges de La Tour décline volontiers un tableau qui fonctionne en plusieurs versions ; celle-ci, avec l’as de carreau, a pour pendant le Tricheur à l’as de trèfle du Kimbell Art Museum.",
+                "La version du Kimbell est plus aboutie : les aiguillettes, rubans qui rattachent la manche, y sont nouées (dénouées au Louvre), et la dupe est plus isolée, séparée du groupe par un espace plus creusé.",
+                "Cette géométrie silencieuse, sans geste théâtral, ouvre le parcours du silence et de l’ordre ; le Saint Joseph charpentier la pousse vers la gravité religieuse."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Fond neutre, cadrage resserré à mi-corps et lumière venue de biais caractérisent l’héritage caravagesque.",
+                "Les costumes de fantaisie, dont les manches rayées, guident le regard.",
+                "Les aiguillettes nouées de la version du Kimbell créent des lignes verticales stabilisantes qui divisent la scène en deux.",
+                "Observez les couleurs : une tonalité neutre rompue par un vert, et un jaune décliné vers l’orangé.",
+                "La Tour travaille encore un « module » géométrique : têtes, ruban et chapeaux à plumes se répondent en **cercles et ovales**, tandis que la table, un parallélépipède, rompt avec ces rondeurs."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le dupé, à droite, ne voit pas ce qui se passe, alors que nous, au premier plan, voyons la tricherie.",
+                "Les trois autres personnages sont complices : la servante donne des indices à sa maîtresse."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059485",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Les frères **Le Nain** (Antoine, Louis, Mathieu), nés entre 1600 et 1610, ne signent que de leur nom de famille ; ils ont dû peindre à quatre ou six mains : la distinction des mains reste difficile (attribution à vérifier).",
+                "Ils sont membres fondateurs de l'Académie de 1648, ce qui contredit l'idée d'artistes dénonçant la misère paysanne : leurs tableaux sont destinés à de riches collectionneurs, et le « **genre bas** » répond à un choix économique.",
+                "Dans leurs intérieurs de famille, comme la Famille de paysans dans un intérieur (vers 1642), jugée leur chef-d'œuvre et peut-être peinte à trois, les personnages ne font rien, se regardent peu entre eux, et certains fixent le spectateur."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Composition en deux parties : environ les trois quarts pour le groupe autour de la table, et sur le côté des enfants près du feu, de dos ou de profil perdu, qui se dérobent au regard.",
+                "Étagement des plans et quasi-isocéphalie ; trois adultes et trois enfants autour de la table.",
+                "Gamme restreinte de bruns et de beiges, avec le bleu d'une jupe et le rouge du verre de vin en contrepoids."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une famille réunie dans un intérieur : figures calmes, groupées.",
+                "Des détails démentent l'image de la misère : un verre rempli de vin, trop coûteux et fragile pour un intérieur paysan, ou un chien de manchon, animal de luxe."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060618",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Tableau des frères **Le Nain**, pour une clientèle de collectionneurs ; leurs mains sont difficiles à distinguer et la main exacte reste à préciser.",
+                "Ils se tournent vers le « **genre bas** » parce que l'atelier de Vouet draine les commandes d'histoire à Paris ; ce genre existe dans toute l'Europe (Bruegel, Carrache, Callot, Murillo)."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Entrée dans la composition par deux **obliques** : l'enfant et l'homme à gauche, puis l'homme de droite en repoussoir.",
+                "L'enclume crée une distance avec les protagonistes, qui nous regardent pourtant dans les yeux, comme si l'on interrompait leur conversation.",
+                "Gamme monochrome de bruns et de beiges avec un rouge assourdi ; de pâles touches de bleu à l'endroit du feu donnent une **lumière froide**, caractéristique des Le Nain.",
+                "Touche épaisse, à peine suggérée à grands coups de pinceau pour le feu et la hotte, en contraste avec les visages bien définis."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un maréchal-ferrant dans sa forge, avec d'autres personnages ; une scène de métier traitée sans anecdote, dans un silence mystérieux."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066434",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Tableau des frères **Le Nain** : la signature porte seulement le nom de famille, d'où l'incertitude sur la main (Louis est généralement avancé).",
+                "Antoine et Louis meurent de la peste en 1648 ; Mathieu cesse de peindre jusqu'à sa mort en 1677.",
+                "Leurs scènes paysannes, destinées à de riches collectionneurs, ne dénoncent pas la misère de la France ; elles relèvent d'un choix **économique** vers le « genre bas ».",
+                "Retenue caractéristique : visages peu expressifs, personnages qui ne font rien et ne communiquent pas, silence presque immobile."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des paysans et leur charrette sur un chemin de campagne ; la scène est calme et sans action marquée."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064707",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Œuvre atypique des frères **Le Nain**, hors de leur répertoire paysan : à leur arrivée à Paris, ils commencent par la **peinture d'histoire**, comme le montre cette Allégorie de la victoire.",
+                "Mais l'atelier de Simon Vouet, omniprésent, draine les commandes ; ils changent alors de stratégie et se tournent vers le « **genre bas** ».",
+                "Ils fondent l'Académie royale de 1648 ; l'attribution à l'un des trois frères (Mathieu étant le plus souvent cité) reste à vérifier."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une allégorie de la Victoire, personnification classique du triomphe, loin des scènes paysannes silencieuses qui font la réputation des Le Nain."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065571",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Daté de 1643, ce tableau est caractéristique des débuts des frères Le Nain et montre l’influence des scènes caravagesques nocturnes, avec un clair-obscur marqué.",
+                "On peut le rapprocher de la Réunion de buveurs de Nicolas Tournier (Le Mans) et il évoque les **tabagies** flamandes et néerlandaises, comme Les Fumeurs de Brouwer.",
+                "Mais les Le Nain restent « à part » du caravagisme.",
+                "Les trois frères ne signent pas de prénom ; l’attribution des mains, Louis ou Antoine pour celle-ci, reste une énigme.",
+                "Cette retenue, ce silence, relie La Tabagie à la Famille de paysans."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Les figures sont alignées en **quasi-isocéphalie** derrière une table qui structure la composition, avec une alternance de poses : un homme de face, un homme de dos.",
+                "Deux figures repoussoirs nous font entrer dans le tableau par des obliques.",
+                "La composition se divise en deux : trois quarts pour le groupe attablé, le reste pour une figure en retrait près du feu, qui tourne le dos au spectateur et se dérobe, ce qui ajoute une atmosphère mystérieuse."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Les visages sont peu expressifs, d’une grande retenue ; certaines figures nous regardent, ce qui est rare au XVIIe siècle et rend l’œuvre déroutante.",
+                "Les personnages ne communiquent pas entre eux : autour d’une table mais sans partie de cartes comme chez La Tour, ils « ne font rien », sans aucune activité."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066866",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Considéré comme le chef-d’œuvre des frères Le Nain, sans doute peint à trois, tant la composition est aboutie.",
+                "Ces tableaux ne dénoncent pas la misère paysanne : ils sont destinés à de riches collectionneurs.",
+                "Les frères se sont tournés vers le « **genre bas** » pour des raisons économiques, face à l’atelier de Vouet qui accaparait les commandes d’histoire.",
+                "Des détails ne sont pas réalistes : un verre en verre rempli de vin coûte trop cher pour un paysan, et le petit chien est un chien de manchon, animal inutile pour une famille pauvre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le thème emblématique de la famille de paysans autour d’une table est divisé en deux : trois quarts pour le groupe attablé, et sur le côté des enfants près du feu.",
+                "Ces enfants tournent le dos ou se montrent de profil perdu, se dérobant au regard du spectateur.",
+                "Les têtes sont presque à la même hauteur (quasi-isocéphalie), mais l’**étagement des plans**, avec la femme avancée, l’enfant derrière, la fillette plus loin, crée une dynamique.",
+                "La gamme est monochromatique et restreinte, des bruns et des beiges, avec le bleu de la jupe de la jeune femme et, en contrepoids, le rouge du verre de vin."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Autour de la table, trois adultes et trois enfants : un équilibre des générations.",
+                "Comme dans La Tabagie, les personnages ne font rien, n’interagissent pas, et les adultes nous regardent droit dans les yeux."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "musee_id": "louvre",
+    "date_creation": "2026-11-10",
+    "duree_estimee": "45-60 min",
+    "id": "sully_1650-1670_champaigne-le-brun",
+    "illustration": "cl010062076",
+    "titre": "[Louvre] [Aile Sully] [1650-1670] Champaigne et Le Brun",
+    "cours_source": "Parcours personnel : peinture française, côté Sully (3/3)",
+    "fil_conducteur": "Philippe de Champaigne (Cène, ex-voto, portraits, Christ mort) puis Charles Le Brun et le style de Louis XIV.",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010062076",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Cette Cène de 1651-1652 est appelée « petite » pour la distinguer de la grande Cène de Champaigne.",
+                "Elle doit beaucoup à Frans Pourbus, peintre flamand venu à Paris à la demande de Marie de Médicis, dont la Sainte Cène est au Louvre.",
+                "Ordre, retenue et couleurs contenues : la même leçon que l’atticisme parisien de La Hyre et de Le Sueur, sous une forme plus austère."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Composition très rigoureuse : les apôtres, presque à la même hauteur (quasi-isocéphalie), forment une ligne horizontale qui assoit la composition.",
+                "Un réseau de lignes horizontales et verticales la stabilise : corde de la tenture noire, nez du Christ, pli central de son vêtement, assiette, pli de la table, gros orteil.",
+                "Les plis de la tenture, de la nappe et le sol de carreaux répondent à cet ordre : « rien n’est dû au hasard ».",
+                "Pour éviter une frontalité austère, deux figures **repoussoirs**, comme des parenthèses, forment une boucle et nous font entrer droit sur le Christ.",
+                "Le disciple de dos à droite, son coude, son doigt, puis le bras de l’homme en bleu nous conduisent vers le Christ.",
+                "La gamme chromatique est très resserrée : vert, rouge, jaune répétés, avec seulement le violet du Christ comme rupture qui souligne sa présence."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "À gauche, Judas se reconnaît à sa bourse et à son vêtement jaune, couleur de la trahison.",
+                "Son bras pointé vers nous est relayé par un disciple en vert."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066957",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Philippe de Champaigne**, né à Bruxelles et installé à Paris, devient le portraitiste attitré de Port-Royal, mouvement **janséniste** dont l'austérité marque son art.",
+                "Peint en 1662, « au soir de sa vie » : œuvre très personnelle, non une commande, ce qui est rare ; elle résume son goût pour le portrait et pour l'art sacré.",
+                "Sa fille, sœur Catherine de Sainte-Suzanne, paralysée, est guérie miraculeusement le 7 janvier 1662, alors que Champaigne vient de perdre sa femme et son fils. L'ex-voto est un remerciement à Dieu, avec un long texte latin en fond."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Au lieu de montrer la guérison (la religieuse marchant dans l'église), il choisit l'instant de **basculement** : sœur Catherine est encore alitée, mais un rai de lumière divine tombe sur ses jambes et sur les mains en prière de la mère Angélique Arnauld.",
+                "La présence divine n'est pas matérialisée par des anges, mais par ce simple rai lumineux.",
+                "Deux triangles rectangles, l'un pour la mère Angélique, l'autre pour sœur Catherine, qui en forme l'hypoténuse.",
+                "Seule une partie de la cellule est montrée (chaise et croix tronquées) : « montrer moins pour en faire plus »."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Sœur Catherine, malade, veillée par la mère supérieure de Port-Royal : un tableau de dévotion d'une grande sobriété."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064799",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Philippe de Champaigne** est un très grand portraitiste, aux portraits **intimistes** : il fait ressortir les mouvements de l'âme et l'intériorité plus que la psychologie.",
+                "Les messieurs de **Port-Royal**, mouvement janséniste, refusaient d'être représentés, y voyant orgueil et vanité ; Champaigne, seul jugé capable de rendre la complexité de leur position à travers les traits du visage, devient leur portraitiste attitré.",
+                "Son Portrait d'homme de 1650, conservé au Louvre (ancien intitulé « Robert Arnauld d'Andilly »), est signé et daté : il illustre cet art ; l'identité du modèle de cette œuvre-ci reste à vérifier."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Fond neutre, costume noir : un portrait très **austère**, dont Champaigne casse la sévérité par un parapet en trompe-l'œil, hérité des peintres flamands (Van der Weyden, Memling).",
+                "Le mouvement naît de contradictions : le buste bascule d'un côté, la tête se tourne de l'autre ; les yeux regardent à gauche alors que la main désigne à droite ; les plis du vêtement forment des chevrons."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Portrait d'un homme sans attributs spectaculaires, saisi avec une psychologie sobre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064319",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Philippe de Champaigne** (1602-1674) réalise ce portrait en 1667. **Robert Arnauld d'Andilly** est un courtisan, conseiller du roi, et joue un rôle important dans le mouvement **janséniste** : sa sœur est mère supérieure de Port-Royal (la mère Angélique Arnauld, que Champaigne montre dans son Ex-voto de 1662).",
+                "Les messieurs de Port-Royal ne voulaient pas être représentés, y voyant orgueil et vanité ; Champaigne devient leur portraitiste attitré, seul capable de restituer la complexité de leur position à travers leur visage.",
+                "On disait de lui qu'il avait « la fougue du jeune lion » malgré son grand âge."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toute l'**austérité** du jansénisme : fond neutre, costume sombre, vue à mi-corps au cadrage resserré (plus modeste qu'un portrait en pied).",
+                "Contradictions qui animent le portrait : le buste et la tête ne vont pas dans le même sens, et le bras contredit le regard.",
+                "La main très serrée autour de son brevet royal souligne l'homme de pouvoir et fait sentir sa **vigueur** politique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Portrait d'un conseiller du roi proche de Port-Royal, présenté avec sobriété."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064800",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Philippe de Champaigne** (1602-1674), formé à Bruxelles, peint des portraits d'une grande sobriété : fond neutre, costume noir, cadrage resserré, qui concentrent le regard sur le visage.",
+                "Il est le portraitiste attitré des messieurs de **Port-Royal**, janséniste : pour eux, se faire portraiturer relevait de l'orgueil, et il fallait toute la diplomatie du peintre pour y parvenir.",
+                "Son art rejoint l'ordre et la retenue de l'**atticisme parisien** ; l'identité des modèles et la date de ce double portrait sont à vérifier."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Deux figures réunies dans un même cadre, devant un fond neutre, avec des vêtements sombres.",
+                "Dans ses portraits, le mouvement vient de petites contradictions (tête et buste, geste et regard) et de plis obliques en chevron."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Deux hommes en buste, saisis dans un moment de calme et de gravité."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060519",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Œuvre de **Philippe de Champaigne**, proche de Port-Royal, mouvement **janséniste** dont l'austérité marque sa dernière période.",
+                "Son goût pour des compositions très sobres vient de sa culture d'origine **flamande** ; la présence divine y est suggérée plutôt que mise en scène : ni nuée d'anges ni effet théâtral.",
+                "Principe de l'artiste : « montrer moins pour en faire plus » ; sa Vanité (vers 1645-1650) rappelle, avec crâne, sablier et tulipe, que la mort est déjà en nous."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le corps, allongé en frise sur le linceul blanc, structure le tableau en une horizontale forte ; le fond est sombre et nu.",
+                "Rien n'est dû au hasard chez Champaigne : dans sa Petite Cène, plis du fond noir, nappe et carrelage forment un réseau de lignes orthogonales qui stabilise la composition."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le Christ mort est étendu sur son linceul, présenté dans un silence méditatif, sans larmes ni personnages secondaires."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060585",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Charles Le Brun** (1619-1690), élève de Vouet, chef de file des fondateurs de l'Académie en 1648, devient en 1663 chancelier à vie et premier peintre du roi, directeur des Gobelins et grand ordonnateur de Versailles.",
+                "La Famille de Darius aux pieds d'Alexandre (1660) inaugure l'identification de Louis XIV, qui vient de prendre le pouvoir, au héros antique ; elle fait écho à l'Alexandre de Racine (1665). Suit un cycle de quatre toiles d'Alexandre vers 1665, aux dimensions démesurées.",
+                "Le roi abandonnera ensuite Alexandre pour Apollon, puis le soleil.",
+                "Ces toiles, trop grandes pour Versailles, seront converties en **tapisseries**."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Entrée d'Alexandre dans Babylone (4,5 m sur 7) : rigueur héritée de **Poussin**, avec étagement des plans et trois frises, dont celle d'Alexandre et des garçons sur l'éléphant.",
+                "Vue sur les jardins suspendus à l'arrière-plan ; l'architecture crée des verticales qui stabilisent."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Alexandre entre en triomphateur à Babylone, accueilli par la foule, sur un char, dans un cortège grandiose.",
+                "Peinture allégorique du roi à travers le héros antique, non un compte rendu réaliste (à la différence de Van der Meulen)."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060587",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Toile du cycle d'Alexandre peint vers 1665 par **Charles Le Brun** pour Louis XIV : le conquérant antique sert de miroir au roi, qui vient de prendre le pouvoir personnel.",
+                "Plus de 12 m de large ; trop grandes pour Versailles, ces toiles seront converties en tapisseries aux **Gobelins**, dont Le Brun est directeur.",
+                "Référence italienne : la Bataille d'Arbèles de Pierre de Cortone (vers 1640), qui oppose vainqueur et vaincu autour d'un triangle."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Tumulte et confusion de la narration, que Le Brun **ordonne** comme Poussin dans l'Enlèvement des Sabines : disposition en accordéon, obliques et triangles imbriqués qui avancent vers le premier plan puis s'éloignent.",
+                "Ensemble dans la pénombre, avec trois points lumineux : Alexandre, Darius et l'homme effrayé qui s'enfuit, reliés en triangle.",
+                "Dominante de bruns et de rouges, relevée par le jaune et le bleu d'Alexandre, de Darius et du fuyard ; forte **expressivité** des figures, thème des conférences de Le Brun."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La bataille d'Arbèles (331 av. J.-C.), où Alexandre bat le roi perse Darius."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "richelieu_1606-1720_ecole-du-nord",
+    "musee_id": "louvre",
+    "illustration": "cl010064918",
+    "titre": "[Louvre] [Aile Richelieu] [1606-1720] L'école du Nord : de Vermeer à Rubens",
+    "date_creation": "2026-11-10",
+    "cours_source": "Parcours personnel : l'école du Nord, aile Richelieu (salles 836 à 855)",
+    "fil_conducteur": "Des Provinces-Unies aux Flandres : scènes de genre et symbolique chez Vermeer, De Hooch et Mieris, paysage de Ruisdael, Rembrandt et Hals, puis Rubens, Van Dyck et Jordaens, jusqu'à Marie de Médicis et Pourbus.",
+    "duree_estimee": "1h30",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010064918",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Vermeer (1632-1675) est un peintre de **genre** : aux Pays-Bas, il n'y a pas de hiérarchie des genres comme en France, où la peinture d'histoire domine.",
+                "Le motif de la dentellière est récurrent dans la scène de genre néerlandaise : elle symbolise l'avant-dernière étape de la vie d'une femme, après les enfants et avant la mort.",
+                "Vermeer était proche de Leeuwenhoek, l'inventeur du microscope : cette technologie optique (peut-être la chambre noire) a pu l'aider.",
+                "Van Gogh admirait beaucoup ce tableau et en a parlé dans ses lettres."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Petit format et **cadrage extrêmement serré** : le spectateur plonge dans la scène.",
+                "Regardez les éléments repoussoirs flous au premier plan (fils, métier, nécessaire de couture) : ils imitent le focus de l'œil humain et poussent le regard vers la figure.",
+                "À l'arrière-plan, des « couleurs sales » font ressortir les couleurs primaires du premier plan, donc la figure.",
+                "La lumière est très claire, à la différence de Rembrandt : école de Delft contre école d'Amsterdam/Hollande."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Exaltation de la **vertu** : une femme qui travaille, c'est un intérieur bien tenu, comme un pays clos bien gouverné.",
+                "La concentration de la jeune femme est l'image de l'ordre domestique et moral."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010063553",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peintre baroque du Siècle d'or, De Hooch (1629-1684) pratique la **scène de genre**.",
+                "Le contexte calviniste interdit presque la représentation du Christ et des saints : pour montrer la voie d'une vie juste, ou ses dérives, on se tourne vers la scène de genre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "L'**enchâssement des perspectives** joue avec la lumière à travers plusieurs pièces et accentue la profondeur, technique typique de la peinture néerlandaise.",
+                "Regardez l'alignement de lignes verticales et horizontales : la chaise, les portes et le meuble de la dernière pièce."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une jeune femme de **« petite vertu »**, dont les indices se déchiffrent un à un :",
+                "elle boit du vin, considéré comme « français », alors que les femmes respectables buvaient de la bière (l'eau n'était pas potable) ;",
+                "elle est seule avec deux hommes, ce qui est « louche », d'autant que la femme plus âgée n'intervient pas ;",
+                "sa jupe rouge est voyante, alors que les femmes respectables portaient des couleurs sobres ;",
+                "le chien, symbole de fidélité conjugale, est endormi ;",
+                "à l'arrière-plan, la statue de Mercure, messager de Jupiter, est associée à la séduction ;",
+                "à droite, un tableau représente le Christ et la femme adultère."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060805",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le paysage hollandais vise à montrer que le territoire néerlandais est un lieu où il fait bon vivre.",
+                "Le **moulin** est un symbole nationaliste forgé par les peintres néerlandais : métaphore du travail de l'homme qui s'approprie la nature et tire la richesse de son territoire.",
+                "Daté des années 1660 ou 1670, le tableau est acquis pour Louis XVI en 1784.",
+                "Ces paysages sont souvent recomposés : image modifiée, mais belle, des Pays-Bas, fierté d'une nation."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le **ciel** occupe les deux tiers de la composition, ce qui donne une impression de quiétude et de perspective infinie.",
+                "Cherchez le ciel immense, le moulin, puis l'effet de lumière qui a donné son titre au tableau.",
+                "Les petites figures, dont des baigneurs, sont parfois attribuées à d'autres mains que celle de Ruisdael."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062584",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Les Bulles de savon (1663) est une **vanité**, un memento mori : crânes, sabliers, bougies consumées, livres ou bulles de savon rappellent la précarité de l'existence et la futilité des richesses et du savoir.",
+                "La bulle de savon renvoie à un adage d'Érasme : l'homme est aussi fragile qu'une bulle. Elle se trouvait déjà dans l'estampe Quis evadet ? de Goltzius (1594, « qui lui échappera ? ») et dans la Vanité de Jacob de Gheyn II (1603), au-dessus du crâne.",
+                "Elle oppose l'**apparence** et l'être : la bulle n'a pas de réalité propre. Pour la pensée chrétienne, l'homme est une créature qui n'a pas son être en lui-même.",
+                "Mieris s'écarte de l'iconographie funeste : l'enfant qui souffle des bulles évoque une **enfance** aussi fragile qu'une bulle, et qui passe vite.",
+                "Ce motif fera florès : Chardin (1733-1734), puis Manet s'en inspireront."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un jeune garçon fait des bulles de savon, avec un bouquet de fleurs : la scène est légère, mais le message reste celui de la brièveté de la vie.",
+                "Observez la bulle fragile et la figure qui la souffle."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062008",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Au début du capitalisme, la Hollande possède beaucoup de colonies.",
+                "Le paysage montre le **Brésil**, colonie alors très prospère.",
+                "Aux Pays-Bas, le paysage cherche à montrer un territoire où il fait bon vivre ; ici, l'image de la prospérité s'étend jusqu'aux colonies.",
+                "À rapprocher d'un tableau de Rembrandt représentant le fils d'un détenteur de colonie : la richesse coloniale nourrit aussi la commande.",
+                "Regardez la prospérité du Brésil telle que la Hollande veut la voir."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062020",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Rembrandt (1606-1679), peintre des Pays-Bas du Nord, explore les émotions humaines et maîtrise la lumière.",
+                "Il produit énormément, mais connaîtra beaucoup de drames personnels.",
+                "L'autoportrait est un moyen pratique et économique d'étudier à l'infini les expressions humaines.",
+                "Le **fond neutre** renvoie au portrait de Castiglione de Raphaël : Rembrandt s'inspire de Raphaël et de Titien, que l'on appelle par leur prénom, d'où sa signature au prénom seul."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez le traité du **clair-obscur**.",
+                "La couleur est traitée par enduits dilués, sauf la chaîne en or, traitée par empâtements."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La **chaîne en or** est un objet associé aux philosophes : elle pose la question de la place de l'artiste, alors membre de corporations et sans véritable statut ; on ne commence à lui en donner un qu'après la Renaissance.",
+                "Rembrandt se représente d'abord en noble ; à 54 ans, il se montre en peintre, en train de peindre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060453",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le **mythe** : le roi David voit Bethsabée se baigner et demande à avoir accès à elle.",
+                "Elle vient de recevoir la lettre du roi David qui lui ordonne de le rejoindre.",
+                "**Rembrandt** (1606-1669) n'est pas allé en Italie, mais il est très influencé par le **caravagisme néerlandais** (Honthorst) : d'où sa maîtrise des effets de lumière.",
+                "Ce qui le fascine, ce sont les **émotions humaines**, toujours rendues avec une grande douceur ; il multiplie les autoportraits pour travailler les expressions.",
+                "Il se réapproprie des sources variées (Renaissance, caravagesques, peintres italiens) pour en faire une œuvre très personnelle."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Bethsabée est d'ordinaire représentée en séductrice ; ici, pas du tout : elle apparaît comme une **victime** qui connaît son sort, ce qui renouvelle le sujet par l'émotion et l'intériorité.",
+                "Regardez son attitude et la lettre qu'elle tient : tout le drame est dans ce qu'elle sait déjà."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060266",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Frans Hals est un maître du portrait, de l'expressivité et de la spontanéité ; il innove dans le genre des **tronies**.",
+                "Le **tronié** est une étude de visage, souvent d'un inconnu, qui sert d'exercice pour travailler l'expressivité ou la lumière.",
+                "Il travaille la lumière, le mouvement et la composition asymétrique.",
+                "L'influence des **caravagesques d'Utrecht** se lit dans le cadrage à mi-corps, le fond neutre, l'éclairage latéral, le vêtement à rayures et le thème du musicien.",
+                "Mais Hals désaxe sa figure, ce qui lui donne une approche propre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez la touche très épaisse des cheveux, qui donne un effet de mouvement.",
+                "Cette manière inspirera les impressionnistes et des peintres comme Fragonard."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La Bohémienne est un portrait d'expression plus que d'identité, étude de visage où la figure est désaxée."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064339",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Frans Hals est un maître du portrait, de l'expressivité et de la spontanéité ; il innove dans le genre des **tronies**.",
+                "Le **tronié** est une étude de visage, souvent d'un inconnu, qui sert d'exercice pour travailler l'expressivité ou la lumière.",
+                "Il travaille la lumière, le mouvement et la composition asymétrique.",
+                "L'influence des **caravagesques d'Utrecht** se lit dans le cadrage à mi-corps, le fond neutre, l'éclairage latéral, le vêtement à rayures et le thème du musicien.",
+                "Mais Hals désaxe sa figure, ce qui lui donne une approche propre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La figure est désaxée : le corps et la tête ne regardent pas dans la même direction, ce qui crée du mouvement.",
+                "Regardez la touche très épaisse des cheveux, qui donne un effet de mouvement.",
+                "Cette manière inspirera les impressionnistes et des peintres de son époque, comme Fragonard."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un musicien en buste est un thème typique des tronies : l'important est l'expression plutôt que la ressemblance."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059143",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Jacob Jordaens** (1593-1678), purement flamand, n'est jamais allé en Italie ; élève comme Rubens d'Adam van Noort, qui est aussi son beau-père, il est assistant de Rubens.",
+                "Il aime le **mouvement** de Rubens et l'exagère ; il en reprend le goût pour ne laisser aucun espace libre entre les figures.",
+                "Dans Le Roi boit, thème de l'Épiphanie (6 janvier), célébrée en famille dans les Flandres : celui qui trouve la fève du gâteau devient roi, désigne les postes de sa cour (échanson, valet, médecin), et tous crient « le roi boit ». Jordaens a peint plusieurs variantes de ce sujet.",
+                "Contexte vers 1640-1645 : Anvers, étranglée par le blocus de l'Escaut, perd la moitié de sa population ; la censure espagnole étouffe la culture flamande et le français remplace peu à peu le flamand."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Une fête bruyante, sous le regard du roi ivre ; figures très expressives, véritables « trognes », goût assumé pour la fête et le prosaïsme (la mère qui nettoie son bambin rappelle le manneken-pis, l'homme qui vomit évoque la Kermesse de Rubens)."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le roi est le portrait de son beau-père : l'**allégorie du mauvais gouvernement**, qui se fourvoie dans des dépenses inutiles et des mœurs dissolues.",
+                "Jordaens s'y est représenté en bas à gauche, en médecin de petite taille : il joue ainsi le fou du roi.",
+                "L'inscription en flamand : « Où le rire est libre, il fait bon être invité ». Sous couvert d'ivresse, c'est une provocation et un message **politique**, affirmant le droit à la culture flamande.",
+                "Cherchez l'humour à la manière du manneken-pis, de la même période : un rire flamand volontiers grivois."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010063537",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Van Dyck** est assistant de Rubens à 19 ans, collaborateur et non élève. Il arrive à Gênes en 1621 ; grâce aux recommandations de Rubens, il accède à l'aristocratie génoise et se fait connaître par ses **portraits d'aristocrates**.",
+                "Il reprend les codes du grand portrait génois élaborés par Rubens, notamment dans la marquise Brigida Spinola-Doria : une femme représentée **debout**, pose réservée aux hommes de pouvoir (comme Richelieu debout et non assis).",
+                "À Gênes, la constitution de la république assure aux femmes une indépendance civique et financière : « un paradis pour les femmes »."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Arrière-plan en deux parties : d'un côté colonnes et architecture, qui donnent un élan vertical, monumentalisent la dame et lui donnent de la présence ; de l'autre, ouverture sur un paysage qui aère la composition.",
+                "La chaise forme une diagonale qui recentre le regard ; des draperies assouplissent la colonnade.",
+                "Gamme chromatique restreinte héritée de Rubens : rouge, bleu, jaune, couleurs primaires ; grands aplats de rouge, touches superposées dans le paysage et la broderie, comme chez Rubens et Titien."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le but est de représenter la dame comme une **femme de pouvoir**, supérieure socialement au spectateur.",
+                "Astuce à repérer : le buste est disproportionné par rapport aux jambes et la jupe est artificiellement longue, pour donner un corps allongé et de la superbe."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062167",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Van Dyck, le plus jeune assistant de Rubens à dix-neuf ans, s'installe à Londres en 1632 : il ne parvient pas à faire carrière à Anvers, où l'atelier énorme de Rubens draine toutes les commandes.",
+                "Il épouse une jeune aristocrate anglaise, entre dans ce milieu et multiplie les portraits d'aristocrates anglais (plus de quatre cents au total).",
+                "Il devient le grand portraitiste de Charles Ier et crée un modèle de portrait qui se répandra : il influencera Rigaud pour Louis XIV, puis le portrait anglais jusqu'au XIXe siècle, de Gainsborough à Reynolds.",
+                "Van Dyck cite **Titien**, que Charles Ier admirait comme lui : il s'était fait remarquer du roi par un pastiche d'un tableau du Titien appartenant au souverain.",
+                "Le coude avancé, effet de trompe-l'œil qui étage les plans, vient du Portrait de Gerolamo Barbarigo ; la jambe levée du cheval, de l'Adoration des mages."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La composition est **bipartite** : une partie fermée à droite, où l'arbre remplace les colonnes comme chez Rubens, et une partie ouverte à gauche sur un paysage.",
+                "Dans le lointain, un petit bateau rappelle la puissance maritime du Royaume-Uni.",
+                "Seul le monarque se détache sur le fond de la perspective : valets et cheval ont le bosquet derrière eux, ce qui isole la figure du roi.",
+                "Seul le roi nous regarde ; le cheval incline la tête comme en révérence, les valets détournent le regard."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "On attendait un souverain à cheval, dans une bataille ou dans un grand palais ; ici, il est en plein air et à pied.",
+                "Van Dyck le peint entre le gentleman farmer, gentilhomme campagnard, et le monarque : de manière décontractée, avec une pose pleine de morgue aristocratique."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060850",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Rubens (1577-1640), flamand des Pays-Bas du Sud, séjourne en Italie : influencé par Titien, il adopte le style vénitien (superposition de touches colorées contre le dessin) ; d'où l'opposition entre Rubénistes et Poussinistes.",
+                "Il quitte la vie politique et son grand atelier d'Anvers, et rentre chez lui, à la campagne.",
+                "Ayant échoué à obtenir un gouvernement qui représente les Pays-Bas du Sud, il renoue avec l'**âme flamande** et exalte cette culture combattue par les Espagnols.",
+                "C'est une huile sur bois, alors qu'on avait abandonné ce support parce que la matière bougeait trop ; il a pourtant fait l'âge d'or de la peinture flamande de la Renaissance."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez la disposition en **deux triangles** : une diagonale du bas gauche vers le haut droit sépare les figures à gauche de la nature morte à droite.",
+                "Leur ligne commune longe le paysage, avec un angle droit à gauche et un autre à droite.",
+                "Cela dynamise la scène : les protagonistes dérivent de la gauche vers la droite et du bas vers l'horizon du fond à droite, où s'ouvre un paysage flamand."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un tableau sur les jouissances campagnardes, avec un humour un peu grivois hérité de Bruegel et combattu par les Espagnols.",
+                "À repérer : le chien qui boit dans le baquet d'eau sale, un homme qui culbute une femme, des vieillards qui se disputent une chope de bière, un homme tombé d'ivresse, un autre qui vomit."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060847",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Hercule, au terme des douze travaux, doit se laver de ses péchés (le meurtre de ses enfants) et reste à la merci d'Omphale.",
+                "**Rubens**, installé à Anvers, ouvre en 1620 un grand atelier, qui comptera plus de cent élèves et assistants : il conçoit entièrement la composition, la répartition des couleurs, des figures et des masses, et fournit un dessin que ses collaborateurs exécutent avant qu'il ne retouche.",
+                "Ses **collaborateurs spécialisés** : Brueghel pour les fleurs, Snyders pour les animaux (les aigles), Van Dyck comme assistant principal, et Jordaens. Les historiens de l'art réattribuent aujourd'hui ces parts (« Rubens et Snyders »).",
+                "Admirateur du Titien, il est le « cartographe de la couleur » : des couches colorées superposées plutôt qu'un dessin cerné, ce qui l'oppose aux poussinistes."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un mythe de soumission : un héros viril obéit aux caprices d'une femme, en guise d'expiation de son crime.",
+                "Omphale tourne en dérision sa virilité : il est incapable de tisser la laine.",
+                "Observez qu'Omphale est surélevée, ce qui exprime l'ascendance du féminin sur le héros."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060839",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Commande de Marie de Médicis après la mort d'Henri IV, pour le palais du Luxembourg : **vingt-quatre tableaux** retraçant les moments importants de sa vie.",
+                "Elle a demandé à Rubens de tout faire lui-même, et il y a mis quatre ans.",
+                "La commande est délicate : son fils Louis XIII fera un coup d'État pour récupérer le pouvoir.",
+                "Ce panneau, de 3,94 m sur 7,27 m, est le cœur du cycle, son **épicentre** : il énonce la bonne gouvernance de la reine."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Rubens excelle dans la **liaison organique des formes** : aucun espace libre entre les figures.",
+                "Le panneau se divise en deux triangles, dont le plus grand contient Marie ; toutes les lignes convergent vers elle.",
+                "Seule la reine adopte une attitude de repli, mains sur la poitrine, tête baissée : signe d'acceptation."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Rubens accompagne toujours la reine de **figures tutélaires allégoriques**, jamais seule.",
+                "À gauche, l'apothéose d'Henri IV : le roi rejoint les dieux, soulevé par Jupiter (aigle) et Saturne (faucille).",
+                "En bas, le serpent percé de flèches est **Ravaillac**, l'assassin.",
+                "Repérez Hercule à son manteau et à la peau de lion, et Hermès.",
+                "À droite, Marie endeuillée, en noir : la France, aux fleurs de lys, lui donne le pouvoir en lui remettant l'orbe.",
+                "On lui conseille d'accepter la régence ; Minerve est à ses côtés, la Providence lui remet un gouvernail, et une déesse tenant une palme veille à ce qu'elle soit juste.",
+                "Autres panneaux à rappeler : la Naissance de Marie, tenue par la ville de Florence, avec le fleuve Arno en bas ; l'Arrivée de la reine à Marseille, célèbre pour les gouttes d'eau sur la peau des figures du bas ; le Couronnement, où la reine triomphante tient une Victoire dans la main droite."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064946",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Pourbus est appelé en France par Marie de Médicis, qui ne veut plus du style maniériste, jugé obsolète : elle fait donc appel à des artistes flamands, comme lui ou Rubens.",
+                "Il arrive à Paris quand Marie devient régente, Louis XIII étant enfant, après l'assassinat d'Henri IV en 1610 : c'est le moment du portrait.",
+                "Marie s'y représente en **femme de pouvoir**, apte à diriger la France au nom de son fils."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Tout construit un **écrin** dont la reine est la perle.",
+                "À l'arrière-plan, niche, pilastres, colonnes, baldaquin, marbre et grille forment un réseau de lignes droites, verticales et horizontales.",
+                "En rupture, le corps de la reine se définit par des **courbes et des ovales** : tête, fraise, couronne, bras, silhouette entière jusqu'à la traîne.",
+                "Perles du collier, des bracelets et du pourpoint, manches à crevés, répètent ces rondeurs.",
+                "L'arrière-plan est dominé par le rouge (tentures, draperie), avec du noir et du blanc ; il contraste avec la robe noire semée de fleurs de lys, qui met la reine en valeur."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060875",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peintre flamand de la rigueur, Pourbus fascinera Nicolas Poussin par sa construction, à l'opposé du maniérisme.",
+                "Œuvre peinte pour le maître d'hôtel de Saint-Gilles : le dernier repas du Christ."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Composition classique et très rigoureuse : **isocéphalie** stricte, toutes les têtes presque au même niveau.",
+                "Les verticales : bords de la tenture noire et fil central, qui tient la tenture ; le pli passe au milieu du Christ, se confond avec le pli de son vêtement, sépare le pain du vin et mène à son gros orteil, divisant le tableau en deux parties égales.",
+                "Les horizontales : tenture, table, plis de la nappe, bancs, carrelage, grille. Le tout forme une grille de lignes qui structure l'ensemble.",
+                "Le noir et blanc de l'arrière-plan, très sobre, met en valeur les tenues des disciples : rouge, jaune, bleu gris.",
+                "Seule note singulière, le violet du Christ l'identifie fortement.",
+                "Chaque visage est individualisé comme un portrait, très expressif : au Nord, on parle de **troniés**, visages expressifs mais non grimaçants."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le jaune est la couleur de la traîtrise, celle de Judas, dont la bourse, prix de sa trahison, est visible au premier plan, dans son dos, pour le spectateur."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "denon_1784-1855_peintures-francaises",
     "musee_id": "louvre",
     "illustration": "cl010065872",
-    "titre": "[Louvre] [Aile Denon] [1804-1830] Romantisme contre néoclassicisme",
-    "date_creation": "2026-09-24",
-    "cours_source": "Introduction générale — Anne-Sophie Godot, École du Louvre, 1er septembre 2025",
-    "fil_conducteur": "La naissance du romantisme français face au néoclassicisme (1804-1830), de Gros à Delacroix, avec la Vénus de Milo comme écho antique à cette tension entre référence et rupture.",
-    "duree_estimee": "45-60 min",
+    "titre": "[Louvre] [Aile Denon] [1784-1855] Peintures françaises : de David au romantisme",
+    "date_creation": "2026-11-10",
+    "cours_source": "Parcours personnel : peintures françaises, aile Denon",
+    "fil_conducteur": "Le renouvellement de la peinture d'histoire entre néoclassicisme et romantisme : Géricault, Delacroix, Gros, Prud'hon et Ingres, puis les grandes toiles de David.",
+    "duree_estimee": "1h30",
     "etapes": [
+      {
+        "oeuvre_id": "cl010065982",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ary Scheffer (1795-1858) est un peintre d'histoire de la génération romantique ; l'œuvre ouvre ce parcours de peintures françaises.",
+                "Chez les romantiques, **Dante**, Shakespeare et Byron remplacent Ossian, goût de la génération précédente : la littérature justifie l'entrée du **sublime** et du drame dans la peinture d'histoire.",
+                "Delacroix, avec la *Barque de Dante* (1822), avait déjà élevé un thème littéraire aux dimensions du **grand genre** ; les poètes damnés y symbolisent les artistes touchés par le « mal du siècle ».",
+                "Paolo et Francesca fait partie des sujets de la peinture dite **troubadour**, dans la lignée d'Ingres."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Les ombres de Francesca da Rimini et de Paolo, amants damnés du chant V de l'*Enfer*, apparaissent à Dante et à Virgile.",
+                "Le tableau annonce les enjeux des œuvres suivantes : littérature, sentiment et drame au cœur de la peinture d'histoire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065872",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peinte à l'automne 1830 et exposée au Salon de 1831, elle commémore les **Trois Glorieuses** de juillet 1830.",
+                "Paradoxe : Delacroix, déjà installé comme artiste (« trop âgé » pour être un jeune insurgé), montre la Révolution « d'une autre manière » que ses prédécesseurs, par une allégorie intemporelle plutôt qu'un épisode daté et localisé.",
+                "L'image est devenue LA représentation de la Révolution dans l'imaginaire collectif, « trop rarement associée » à son contexte, le début de la monarchie de Juillet, plutôt qu'à 1789.",
+                "Sa persistance se voit dans la reprise par Martin Argyroglo pour son œuvre Nation, en une de L'Obs le 14 janvier 2015.",
+                "Une œuvre née d'un moment politique précis peut se détacher de son contexte et devenir une **image collective** réactivée à chaque crise, comme le sera la Vénus de Milo."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une femme du peuple coiffée du **bonnet phrygien**, incarnation de la Liberté, mène un groupe hétéroclite par-dessus une barricade.",
+                "Elle tient le drapeau tricolore dans une main et un fusil à baïonnette dans l'autre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065757",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Présenté au **Salon de 1827**, ouvert en 1827 et fermé en 1828, dit « romantique » : plus de 40 % des tableaux relèvent de la nouvelle peinture, devenue officielle.",
+                "Le sujet est tiré de *Sardanapalus* de Lord Byron (1821-1822, traduit en France) : un roi assyrien assiégé qui préfère se suicider plutôt que capituler.",
+                "Gros le qualifie de « massacre numéro deux » après Scio : il ne comprend pas la nouvelle génération.",
+                "Delacroix ne trouve pas d'acheteur : il garde la toile dix-huit ans dans ses ateliers ; le Louvre l'acquiert en 1921."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 392 x 496 cm. Delacroix mélange peinture d'histoire, scène de genre et peinture baroque.",
+                "Regardez la **diagonale rouge** du drap qui coule : elle structure la scène, avec une frise en mouvement, le cheval et la femme violentée.",
+                "Le bas de la toile fonctionne en frise, avec un cadrage moderne ; la tête d'éléphant et les objets situent la scène en Orient, selon la passion de Delacroix pour les décors.",
+                "Le roi, au sommet, est lumineux dans son vêtement sur le drap rouge, à l'inverse du chaos des corps."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Sardanapale ordonne la mort de son harem et de sa maîtresse Myrrha avant de périr sur le bûcher ; une femme se pend au-dessus.",
+                "Le roi incarne la « noble simplicité, calme grandeur » de David : suicide, mais tout va bien, il reste calme tandis que femmes et soldats sont violentés.",
+                "Le romantisme ne fait pas table rase mais une **subversion** : une critique de la peinture d'histoire par l'histoire elle-même, rendue lisible au spectateur.",
+                "Dans la partie inférieure, le groupe des esclaves s'entre-tue avant d'aller sur le bûcher."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062510",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Pierre-Paul Prud'hon (1758-1823) peint ce *Christ en croix* en 1822, à la fin de sa carrière, sous la Restauration.",
+                "Dans ce parcours, il introduit un peintre à part, à côté de David et des romantiques : un thème religieux en peinture d'histoire."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le Christ est représenté sur la croix, sujet de peinture d'histoire religieuse.",
+                "Il se lit avec les deux autres Prud'hon du parcours, l'*Âme brisant les liens* et la *Justice et la Vengeance divine*."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059199",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Exposé au Salon de 1819 sous le titre de **Scène de naufrage**, pour pouvoir entrer au Salon : Géricault ne critique pas ouvertement la Restauration. Le tableau dénonce le système politique qui a rendu possible cette hécatombe, sans attaque antimonarchiste ou libérale : la peinture d'histoire fait un **constat**.",
+                "En juillet 1816, la frégate royale la Méduse, en route pour coloniser le Sénégal, s'échoue au large du cap Blanc. Un vaste radeau est construit avec les mâts : 150 hommes s'y entassent pendant dix jours, 20 sont emportés par la mer, les autres s'entretuent, avec cannibalisme.",
+                "Deux survivants racontent l'histoire : Louis XVIII ne peut la nier. Géricault s'en empare pour susciter l'émotion, sous l'esthétique du **sublime**, « l'horreur délicieuse ».",
+                "Il se documente auprès des survivants et d'infirmiers de l'hôpital Beaujon, voisins de son atelier, qui lui fournissent cadavres et membres.",
+                "En 1819, le tableau ne laisse pas indifférent : attrait ou répulsion. Présenté en Angleterre, il y est très bien reçu ; Géricault s'y intéresse aux vaincus et aux oubliés (paralysés, vieillards pauvres).",
+                "La lithographie et la gravure assurent une diffusion bien plus large, essentielle au romantisme."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **491 x 716 cm** : une lecture inspirée de David, avec frise antique, lisibilité et composition en trois parties, mais organisée en **pyramide** vers le haut, pour une survie qui ne mène pas à la gloire.",
+                "Géricault a vu en Italie, en 1816, les sculptures de Michel-Ange : corps contorsionnés, **beauté dans la violence**. Les cadavres au premier plan rappellent l'étude de l'antique et du nu académique.",
+                "Regardez au fond, à l'horizon, l'**Argus** minuscule qui va sauver les naufragés : horreur, mais « délicieuse ».",
+                "Les dessins préparatoires (*Mutinerie*, *Scène de cannibalisme*) sont beaucoup plus peuplés.",
+                "Comparez avec Friedrich, au même moment : *La Mer de glace* (1823-1824) montre la ruine et les débris de bois, mais l'homme a disparu, puisque le spectateur est sur le radeau. Deux visions opposées, toutes deux de la peinture d'histoire."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau montre la **lutte pour la survie**, de la mort au premier plan à l'espoir lointain.",
+                "Regardez le personnage pensif au voile rouge : il incarne le doute et le désarroi, déjà vus chez Gros : que s'est-il passé, l'a-t-il tué ? Violence, passion.",
+                "Un personnage pourrait être un portrait de Delacroix, ami de Géricault.",
+                "Ses « fragments » s'intéressent à l'homme dans ses **accidents**, pas à une vertu ni à un concept idéal : il observe aussi l'Angleterre et les scènes de genre de David Wilkie."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059198",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Première œuvre de Géricault, exposée au Salon de 1812 avec une bonne critique. Il se forme en copiant au Louvre, mais ne s'entend pas du tout avec Vivant Denon, qui le met à la porte : le rebelle.",
+                "Il tente de **réformer la peinture d'histoire** à la suite de David et de ses élèves, en s'intéressant au revers de la Grande Armée : il est le peintre de la **défaite**, des vaincus, des mourants. L'anti-héros est son favori.",
+                "Il s'inspire d'Antoine-Jean Gros mais se tient aux antipodes de la propagande napoléonienne.",
+                "Pour Henri Zerner, le chasseur « n'appartient à aucune catégorie de peinture » : subjectivité du portrait, anonymat, spontanéité de la scène de genre et **format imposant du portrait équestre**.",
+                "En France règne la **hiérarchie des genres** ; Géricault la subvertit en brouillant les genres de l'académie. Les peintres romantiques ne se disent pas romantiques : ils veulent être classiques, maîtres parmi les maîtres, et attaquent tous les genres pour faire un tableau d'histoire."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Format monumental, près de 3,5 m de haut. Le romantisme, c'est le **mouvement** de la scène suggéré par la touche : pas de fini néoclassique, une touche rapide.",
+                "Regardez le paysage sombre, dangereux, presque apocalyptique, avec le feu : on ne sait pas ce qui s'y passe.",
+                "L'anatomie du cheval peut être critiquée, mais les proportions sont en fait très bien calibrées."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Géricault représente son ami Alexandre Dieudonné, chasseur de la Garde impériale, homme de rang à la carrière lente sous la Révolution et l'Empire : non l'idéal, mais face à ses **accidents**. Il est sur son cheval en plein combat : « tombera, tombera pas ».",
+                "Ce n'est pas la victoire mais la chute du sol : un portrait équestre d'anonyme, élevé au rang d'héros, et surtout une lutte désespérée pour la survie.",
+                "Regardez son regard perdu, tandis qu'il tient les brides : les **fragments** d'individu, de violence et de souffrance sont le vrai sujet. Le drame personnel remplace l'héroïsme traditionnel et met en avant le déclin de la bravoure."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062570",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Immense toile (plus de cinq mètres de haut), exposée au Salon de 1804. Commande de l'État pour **réhabiliter la campagne d'Égypte** dans l'opinion publique.",
+                "Gros, élève de David dont il reprendra l'atelier, devient la tête de l'entreprise qui transforme la peinture monumentale en **propagande officielle**. Après la Révolution, Vivant Denon organise le Salon et impose le retour à la grande peinture d'histoire : Gros l'emporte, avec une scène d'histoire contemporaine sans référence antique, très bien reçue.",
+                "La campagne : Bonaparte, en Syrie, combat l'Empire ottoman et prend Jaffa en 1799. C'est un échec : environ 2 000 morts turcs, les survivants se réfugient dans la citadelle, visible au fond sous un drapeau français.",
+                "La peste frappe environ 1 500 soldats français sur 13 000 ; Bonaparte est accusé de les avoir sacrifiés. Des survivants en parlent aux Anglais, qui diffusent l'affaire. Bonaparte ne peut pas nier : il revient sur l'importance de la campagne d'Égypte et de la diffusion de l'empire en Orient, et s'approprie l'opinion.",
+                "Gros se suicide en 1835, ne parvenant pas à s'accommoder de la nouvelle peinture d'histoire romantique."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "**Bonaparte au centre**, dans une frise antique ; son geste vient de l'*Apollon du Belvédère*, avec un effet christique, celui du Christ soignant les malades.",
+                "**Orientalisme** : de la campagne d'Égypte (1799) à la colonisation de l'Algérie, tout est nouveau, lumière, costumes, civilisation. L'Orient entre comme sujet de la peinture d'histoire.",
+                "Regardez les mourants et les cadavres : on est accueilli par la mort. À droite, un médecin mourant, un autre soigne un malade : un hôpital de fortune construit par l'armée française.",
+                "Le personnage en proie au doute, à gauche, peut venir de l'iconographie d'Ugolin chez Dante, qui s'offre à ses enfants enfermés avec lui à Pise. Le sang n'est pas représenté, mais les corps n'en sont pas moins cruels. On retrouvera ce personnage du doute dans le *Radeau de la Méduse*."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Gros traite un épisode peu glorieux de l'Empire mais en fait un **grand tableau d'histoire** : le méchant n'est pas Bonaparte, qui n'y pouvait rien, c'est la **peste**.",
+                "Ces hommes sont morts pour l'effort de guerre et pour la patrie. Le thème, repris par Géricault et Delacroix, servira à montrer les horreurs de la guerre.",
+                "Propagande, effets du sublime, morts : tout vise à favoriser le sentiment."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066486",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Dernier grand tableau de bataille de l'Empire par Gros, exécuté en 1808. **Commande de l'État**, passée par Vivant Denon, à l'issue d'un concours : Gros l'emporte en montrant les désastres et les souffrances de la vie humaine, 9 000 morts français à Eylau, par environ -20 °C.",
+                "La presse s'empare du sujet malgré la censure, comme pour les Pestiférés : le 64e bulletin de la Grande Armée (février 1807) parle d'un « spectacle horrible » que « le devoir rendait nécessaire ».",
+                "Un sacrifice collectif à la gloire d'un homme exceptionnel : l'empereur, comme César et Alexandre avant lui. Le **sujet moderne** prend le pas sur l'histoire antique, valorise l'effort de guerre, dans un format monumental.",
+                "Gros se suicide en 1835, ne s'accommodant pas de la peinture romantique."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **521 x 734 cm**. Napoléon est au centre, tel une statue équestre sur son cheval lumineux, dans un geste à la fois christique et absolutiste.",
+                "Regardez le paysage de neige, très loin de l'Orient, les morts, les blessés, sans doute amputés ou en train de l'être.",
+                "Au centre, un soldat implore et remercie le chef d'être parmi eux ; un autre, en danger, allongé, est peut-être piétiné. Murat figure parmi les généraux.",
+                "À l'arrière-plan, l'armée française et la ville d'Eylau dans le chaos et les fumées : un paysage brossé, pourtant loin de la subjectivité romantique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Napoléon vient sur le champ de bataille, mais « il n'y pouvait rien » : il est déjà trop tard, ces hommes sont morts pour la patrie et le devoir.",
+                "Chez David, c'est l'**unité d'action** ; ici, c'est le **fragment romantique** : on représente l'individu dans ses souffrances plus que l'*exemplum virtutis*, la valeur morale. Cette vision nouvelle de la peinture d'histoire sera admirée par Géricault et Delacroix."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062901",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Paul Delaroche, vers 1848, revient sur un épisode de 1800, le passage du Grand-Saint-Bernard par Bonaparte : un thème qui prolonge la **geste napoléonienne** des tableaux de Gros, bien après la propagande de l'Empire.",
+                "Delaroche est le peintre du **juste milieu**, nom donné au régime de Louis-Philippe : il mêle **drame et retenue** dans l'expression des émotions et devient le portraitiste du roi.",
+                "Il **humanise la peinture d'histoire** : plutôt que l'Antiquité ou la grande rhétorique, il choisit des épisodes historiques à fort potentiel émotionnel (*Mort d'Élisabeth*, 1827 ; *Supplice de Jane Grey*, 1833), avec une scène très lisible et un réalisme assez inédit.",
+                "Ces compositions, bien accueillies du public, séduisent aussi les institutions ; Delaroche forme de nombreux élèves, dont Gérôme."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Bonaparte franchit les Alpes : la traversée du col est un grand sujet d'histoire contemporaine.",
+                "Dans ce parcours, il propose une autre image de Napoléon, après celles de Gros et en regard du *Sacre* de David."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010457022",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Pierre-Paul Prud'hon peint en 1821 cette allégorie, vers la fin de sa carrière : l'œuvre se rattache à une peinture plus sensible et plus rêveuse que celle de David.",
+                "Dans le parcours, elle prend place avant les œuvres d'Ingres."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "L'âme, figure féminine, brise les liens qui l'attachent à la terre : **allégorie** du détachement du monde matériel.",
+                "Un sujet moral et spirituel, loin des scènes d'histoire militaire des tableaux voisins."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064491",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Prud'hon a conçu cette toile à partir de 1804 ; elle s'inscrit dans les années de l'Empire.",
+                "Elle appartient à la veine allégorique de l'artiste."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La Justice et la Vengeance divine poursuivent le **Crime** : une allégorie morale en peinture d'histoire.",
+                "Placé après le *Christ en croix* et l'*Âme*, il complète l'ensemble des trois Prud'hon du parcours."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066293",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ingres expose ce tableau en 1819. Élève de David, « le plus classique » de ses élèves, il devient le champion de la **ligne** contre la couleur de Delacroix : cette opposition se rejoue depuis David.",
+                "Le sujet vient de la littérature, du *Roland furieux* (*Orlando furioso*) de l'Arioste : un thème de chevalerie et de merveilleux, plus romantique que les sujets antiques de David.",
+                "Ingres enseigne à l'École des beaux-arts de 1830 à 1851 et forme une grande partie des artistes de la première moitié du siècle. L'**ingrisme** repose sur l'imitation de la nature et du beau, la connaissance des maîtres du passé et la **soumission de la couleur au dessin** ; il deviendra tardivement synonyme d'**académisme**.",
+                "Ses nus, comme la *Baigneuse Valpinçon*, servent de référence à ses disciples, tel Flandrin."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Roger, monté sur l'hippogriffe, délivre Angélique, enchaînée à un rocher et menacée par un monstre marin.",
+                "Angélique est entièrement nue : corps **idéalisé**, teint clair, pose à la fois pudique et exposée. Exemple type du dessin et de l'idéal féminin d'Ingres, par la **ligne** précise et élégante."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065566",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "La *Grande Odalisque* date de 1814 ; Ingres la peint pour Caroline Murat, reine de Naples, sœur de Napoléon.",
+                "Elle illustre le goût de l'**Orient** imaginé, dans l'atelier d'un peintre de formation davidienne : l'orientalisme n'est pas réservé aux romantiques. Depuis la campagne d'Égypte jusqu'à la colonisation de l'Algérie, l'Orient s'impose comme nouveau sujet.",
+                "Au Salon de 1819, ses proportions allongées sont critiquées.",
+                "En 1855, l'Exposition universelle présente Ingres (dont l'*Odalisque*) face à Courbet, qui expose à part : deux générations, deux mondes qui s'affrontent.",
+                "Les baigneuses d'Ingres, depuis la *Vénus*, et les odalisques de Delacroix forment deux versions du thème, avant que Courbet l'attaque de front."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une femme nue, de dos, allongée sur un divan, tourne la tête vers le spectateur.",
+                "Le dos allongé et les contours précis et lisses reflètent le primat de la **ligne** défendu par Ingres, à l'opposé de la couleur de Delacroix : combat qui vient de David et traverse le romantisme."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065748",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ingres a fait une grande carrière en Italie, avec deux maîtres, **Raphaël** et Masaccio ; la composition s'inspire du Parnasse de Raphaël.",
+                "Commandée pour un plafond du musée Charles X, au Louvre, l'œuvre est exposée au Salon de 1827 ; Baudelaire la juge « un beau tableau qui plafonne mal ».",
+                "Le Salon de 1827 oppose les deux écoles, ou plutôt la critique les fait s'affronter : une quarantaine d'individus d'Ingres face au Sardanapale de Delacroix.",
+                "Hugo, dans la préface de *Cromwell*, distingue trois âges de la poésie : l'ode, l'épopée, le drame ; en 1827, on étudie le drame."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de 386 x 512 cm. Le dessin est présent, avec l'importance de la forme : on dit que chez Delacroix il y a du dessin et chez Ingres de la couleur.",
+                "Regardez Homère assis devant un temple, couronné par la **Victoire**, et l'Iliade et l'Odyssée à ses pieds.",
+                "Repérez Virgile à la collerette blanche tenant la main d'Apelle en bleu, Eschyle au rouleau ouvert, Dante en rouge à gauche, Shakespeare et Poussin en bas.",
+                "À droite, Pindare avec son instrument, Phidias, Périclès, Platon, le roi Alexandre au casque doré, et Molière en bas."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Tous les artistes antiques et modernes descendent d'Homère, ici divinisé : ils lui doivent tout.",
+                "Ces personnages n'ont pas posé : Ingres s'est inspiré de portraits existants."
+              ]
+            }
+          ]
+        }
+      },
       {
         "oeuvre_id": "cl010064830",
         "note": {
@@ -1249,16 +3886,15 @@ window.PARCOURS = [
               "titre": "Contexte",
               "points": [
                 "Toile peinte entre 1800 et 1825, présentée aux Salons de 1806 et de 1814.",
-                "Girodet, élève de David comme Gros, illustre à lui seul la **porosité des frontières stylistiques** du début du XIXe siècle : héritage néoclassique et sensibilité romantique naissante se mêlent.",
-                "Selon le cours, « les choses et définitions des styles sont complexes ».",
-                "Cette hésitation, cet entre-deux, en fait un point de départ pertinent : elle montre le romantisme se dégageant, encore retenu, du modèle néoclassique dominant, avant les œuvres pleinement romantiques."
+                "Girodet, élève de David comme Gros, illustre à lui seul la **porosité des frontières stylistiques** du début du XIXe siècle : héritage néoclassique et sensibilité romantique naissante se mêlent. Les définitions des styles sont complexes.",
+                "Cette hésitation, cet entre-deux, montre le romantisme se dégageant, encore retenu, du modèle néoclassique dominant."
               ]
             },
             {
               "titre": "Composition",
               "points": [
                 "Toile de plus de quatre mètres de haut, sous un ciel d'orage zébré d'éclairs, dans un paysage rocheux balayé par la crue.",
-                "Selon le cours, c'est « une véritable œuvre romantique » : personnages dans des teintes sombres, couleurs **juxtaposées** plutôt que fondues, mouvement général porteur d'une tension dramatique.",
+                "Une véritable œuvre romantique : personnages dans des teintes sombres, couleurs **juxtaposées** plutôt que fondues, mouvement général porteur d'une tension dramatique.",
                 "À observer : le personnage central garde les caractères du **néoclassicisme**, avec une pose maîtrisée, une anatomie idéalisée et un calme presque sculptural au milieu du chaos."
               ]
             },
@@ -1272,30 +3908,230 @@ window.PARCOURS = [
         }
       },
       {
+        "oeuvre_id": "cl010063624",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Jacques-Louis David (1748-1825) est mal parti : ambitieux et doué, il échoue quatre fois au concours de l'Académie royale pour le prix de Rome, et tente de se tuer.",
+                "Il l'obtient enfin en **1774**, avec *Érasistrate découvrant la cause de la maladie d'Antiochus*.",
+                "L'*Autoportrait* date de 1794 ; il ouvre la section consacrée à David, après les œuvres de ses élèves, Gros, Girodet et Ingres."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "David se représente lui-même, en pleine période révolutionnaire.",
+                "Un portrait peint en 1794, après les grands tableaux de la Révolution."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065425",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "David peint *Léonidas aux Thermopyles* sur de longues années ; l'œuvre est achevée en 1814, à la fin de l'Empire.",
+                "Elle appartient à la suite des grands sujets antiques de David, après les *Sabines* (1799) : l'héroïsme et le sacrifice pour la patrie, des valeurs qui parlent aux contemporains de la Révolution et de l'Empire.",
+                "David reste fidèle au **beau idéal** de Winckelmann : **noble simplicité et calme grandeur**, passions contenues. Sa carrière traverse cinq régimes politiques sans rupture de style."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "David compose volontiers en **frise** de type antique, lisible, qui donne une **unité d'action**.",
+                "Comme dans les *Sabines*, David vise un « grec pur » : guerriers nus, aux formes lisses comme des marbres, plutôt que musculeux. La critique juge cette nudité incohérente sur un champ de bataille ; pour lui, elle dit l'héroïsme."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Léonidas, roi de Sparte, et ses guerriers se préparent à défendre le défilé des Thermopyles contre les Perses.",
+                "Un épisode d'**exemplum virtutis** : la valeur morale du sacrifice, au cœur de la peinture d'histoire de David."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065720",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le *Sacre de Napoléon*, exposé au Salon de 1808, représente la cérémonie de 1804 à Notre-Dame.",
+                "C'est la grande commande impériale de David, premier peintre de l'Empereur : un tableau de **propagande**, d'histoire contemporaine, de très grandes dimensions. Pour la propagande napoléonienne, l'essentiel est de **toucher l'opinion publique**.",
+                "Dominique Vivant Denon, directeur du musée central, impose alors le retour à la grande peinture d'histoire, par concours ; les élèves de David (Gros) produisent des sujets d'histoire contemporaine qui remplacent l'histoire antique.",
+                "Le sacre du 2 décembre 1804 marque aussi le **style Empire** : l'empereur affiche apparat et grandeur dans les résidences impériales et les arts décoratifs.",
+                "Le tableau reste une référence : par la taille, Courbet l'a revendiquée pour l'*Enterrement à Ornans* ; Gérôme l'a prise pour mesure de sa *Réception des ambassadeurs du Siam* sous Napoléon III (plus de 80 portraits)."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Napoléon couronne l'impératrice Joséphine, sous les yeux du pape et d'une assemblée de dignitaires.",
+                "L'histoire contemporaine prend la place de l'histoire antique dans la grande peinture."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065426",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Ce n'est pas une commande : David peint dans son atelier du Louvre et décide d'exposer. Il fait payer l'entrée pendant cinq ans, pour environ **50 000 visiteurs**.",
+                "En 1799, il prône la **réconciliation des Français** entre révolutionnaires et contre-révolutionnaires, après le traumatisme de la Terreur. Il sert la propagande napoléonienne en touchant l'opinion publique.",
+                "David avait installé un miroir pour que le spectateur soit placé au centre de la scène.",
+                "La ligne contre la couleur sera un combat, « l'histoire sans fin » qui revient avec les romantiques entre Ingres et Delacroix."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile gigantesque de **385 x 522 cm** : une frise académique sans effet de profondeur, héritée de la sculpture.",
+                "Le paysage occupe un tiers de la composition : la colline du Capitole à Rome, dans un style simple et pur.",
+                "Regardez les guerriers nus, au corps lisse comme du marbre : la critique jugeait cela incohérent, David y voit héroïsme et forme épurée."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau montre non l'enlèvement des Sabines, comme chez Poussin, mais **l'épisode d'après** : les Sabins tentent de reprendre leurs filles aux Romains.",
+                "Au centre, **Hersilie** interrompt le combat entre son mari Romulus, au bouclier orné d'une louve, et son père Tatius, roi des Sabins.",
+                "Pour la première fois, David met les femmes au premier plan et au centre de l'épisode historique, avec une iconographie de la charité.",
+                "Regardez la femme en rouge, bras levés, bouche ouverte : incarnation de la **Terreur** contenue devant l'innocence et la paix d'Hersilie."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062239",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le *Serment des Horaces* date de **1784** (exposé au Salon de 1785) : c'est l'œuvre qui fonde le **néoclassicisme** de David, bien avant la Révolution. Au même Salon figure l'*Autoportrait avec deux élèves* d'Adélaïde Labille-Guiard.",
+                "David applique l'idée d'un art fondé sur le **beau idéal** : **noble simplicité et calme grandeur**, théorisés par Winckelmann vers 1760 ; émotions et passions sont contenues.",
+                "Dans le parcours, il remonte aux origines de la carrière de David, après son *Sacre* et ses *Sabines*."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Une scène lue comme une **frise** de type antique, sans effet de profondeur, avec une composition en trois parties : la lisibilité assure l'**unité d'action**.",
+                "Le spectateur regarde la scène sans en être acteur, très loin de la subjectivité des peintres allemands."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Trois frères, les Horaces, jurent à leur père de défendre Rome, tandis que les femmes de la famille s'effondrent à droite.",
+                "Un sujet d'**exemplum virtutis** : l'héroïsme et les valeurs positives, devoir envers la patrie contre les liens du sang, thème central de la peinture d'histoire de David."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059773",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "*Marat assassiné* (1793) est un tableau d'histoire contemporaine : David y représente l'ami et le député assassiné par Charlotte Corday.",
+                "Il s'agit d'une représentation **dramatique et idéalisée** : David glorifie le **martyr révolutionnaire**. Marat entre au Panthéon, puis en sort vite : le culte des grands hommes naît sous la Révolution.",
+                "Le tableau a laissé des traces : Delacroix, dans la *Grèce sur les ruines de Missolonghi*, place un bras de cadavre qui est peut-être un clin d'œil à ce tableau ; en 1860, Baudry reprend la scène (même décor, mêmes meubles, autre angle) en hommage à David, mais s'intéresse à **Charlotte Corday** plutôt qu'au martyr.",
+                "Œuvre de la période révolutionnaire, elle clôt le parcours."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Marat est mort dans sa baignoire, une lettre à la main, la plume encore à portée.",
+                "Le tableau fait du mort un martyr de la cause révolutionnaire plutôt qu'un simple fait divers."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "denon_1804-1830_romantisme-contre-neoclassicisme",
+    "musee_id": "louvre",
+    "illustration": "cl010065872",
+    "titre": "[Louvre] [Aile Denon] [1804-1830] Romantisme contre néoclassicisme",
+    "date_creation": "2026-09-24",
+    "cours_source": "Introduction générale — Anne-Sophie Godot, École du Louvre, 1er septembre 2025",
+    "fil_conducteur": "La naissance du romantisme français face au néoclassicisme (1804-1830), de Gros à Delacroix, avec la Vénus de Milo comme écho antique à cette tension entre référence et rupture.",
+    "duree_estimee": "45-60 min",
+    "etapes": [
+      {
+        "oeuvre_id": "cl010065872",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peinte à l'automne 1830 et exposée au Salon de 1831, elle commémore les **Trois Glorieuses** de juillet 1830.",
+                "Paradoxe : Delacroix, déjà installé comme artiste (« trop âgé » pour être un jeune insurgé), montre la Révolution « d'une autre manière » que ses prédécesseurs, par une allégorie intemporelle plutôt qu'un épisode daté et localisé.",
+                "L'image est devenue LA représentation de la Révolution dans l'imaginaire collectif, « trop rarement associée » à son contexte, le début de la monarchie de Juillet, plutôt qu'à 1789.",
+                "Sa persistance se voit dans la reprise par Martin Argyroglo pour son œuvre Nation, en une de L'Obs le 14 janvier 2015.",
+                "Une œuvre née d'un moment politique précis peut se détacher de son contexte et devenir une **image collective** réactivée à chaque crise, comme le sera la Vénus de Milo."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une femme du peuple coiffée du **bonnet phrygien**, incarnation de la Liberté, mène un groupe hétéroclite par-dessus une barricade.",
+                "Elle tient le drapeau tricolore dans une main et un fusil à baïonnette dans l'autre."
+              ]
+            }
+          ]
+        }
+      },
+      {
         "oeuvre_id": "cl010062570",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Immense toile (plus de cinq mètres de haut) peinte en 1804, l'année du Sacre de Napoléon.",
-                "Gros est l'élève de David qui reprend son atelier quand celui-ci part en Belgique ; il poursuit la « geste napoléonienne » en peinture, un art directement au service du pouvoir.",
-                "Peintre académique et **peintre d'histoire** de formation, il glisse ici vers une tonalité romantique et orientale.",
-                "Le tableau illustre l'idée que règne, politique et style artistique avancent ensemble (« cf. David sous 5 régimes différents ») : le pouvoir consulaire puis impérial se construit une image dans un langage pictural en transition entre deux esthétiques."
+                "Immense toile (plus de cinq mètres de haut), exposée au Salon de 1804. Commande de l'État pour **réhabiliter la campagne d'Égypte** dans l'opinion publique.",
+                "Gros, élève de David dont il reprendra l'atelier, devient la tête de l'entreprise qui transforme la peinture monumentale en **propagande officielle**. Après la Révolution, Vivant Denon organise le Salon et impose le retour à la grande peinture d'histoire : Gros l'emporte, avec une scène d'histoire contemporaine sans référence antique, très bien reçue.",
+                "La campagne : Bonaparte, en Syrie, combat l'Empire ottoman et prend Jaffa en 1799. C'est un échec : environ 2 000 morts turcs, les survivants se réfugient dans la citadelle, visible au fond sous un drapeau français.",
+                "La peste frappe environ 1 500 soldats français sur 13 000 ; Bonaparte est accusé de les avoir sacrifiés. Des survivants en parlent aux Anglais, qui diffusent l'affaire. Bonaparte ne peut pas nier : il revient sur l'importance de la campagne d'Égypte et de la diffusion de l'empire en Orient, et s'approprie l'opinion.",
+                "Gros se suicide en 1835, ne parvenant pas à s'accommoder de la nouvelle peinture d'histoire romantique."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Les couleurs, l'architecture de la cour de mosquée et le « bruissement romantique » de certaines figures annoncent déjà **Delacroix**.",
-                "À observer : la **frise à l'antique** à l'arrière-plan rappelle que Gros reste redevable du vocabulaire néoclassique de son maître."
+                "**Bonaparte au centre**, dans une frise antique ; son geste vient de l'*Apollon du Belvédère*, avec un effet christique, celui du Christ soignant les malades.",
+                "**Orientalisme** : de la campagne d'Égypte (1799) à la colonisation de l'Algérie, tout est nouveau, lumière, costumes, civilisation. L'Orient entre comme sujet de la peinture d'histoire.",
+                "Regardez les mourants et les cadavres : on est accueilli par la mort. À droite, un médecin mourant, un autre soigne un malade : un hôpital de fortune construit par l'armée française.",
+                "Le personnage en proie au doute, à gauche, peut venir de l'iconographie d'Ugolin chez Dante, qui s'offre à ses enfants enfermés avec lui à Pise. Le sang n'est pas représenté, mais les corps n'en sont pas moins cruels. On retrouvera ce personnage du doute dans le *Radeau de la Méduse*."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Bonaparte, encore Premier consul, visite l'hôpital militaire de Jaffa pendant la campagne de Syrie.",
-                "Il touche de la main la tumeur pestilentielle d'un malade, tandis qu'un médecin tente de l'en empêcher et qu'un officier se bouche le nez."
+                "Gros traite un épisode peu glorieux de l'Empire mais en fait un **grand tableau d'histoire** : le méchant n'est pas Bonaparte, qui n'y pouvait rien, c'est la **peste**.",
+                "Ces hommes sont morts pour l'effort de guerre et pour la patrie. Le thème, repris par Géricault et Delacroix, servira à montrer les horreurs de la guerre.",
+                "Propagande, effets du sublime, morts : tout vise à favoriser le sentiment."
               ]
             }
           ]
@@ -1325,24 +4161,29 @@ window.PARCOURS = [
         }
       },
       {
-        "oeuvre_id": "cl010065872",
+        "oeuvre_id": "cl010064830",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Peinte à l'automne 1830 et exposée au Salon de 1831, elle commémore les **Trois Glorieuses** de juillet 1830.",
-                "Paradoxe selon le cours : Delacroix, déjà installé comme artiste (« trop âgé » pour être un jeune insurgé), montre la Révolution « d'une autre manière » que ses prédécesseurs, par une allégorie intemporelle plutôt qu'un épisode daté et localisé.",
-                "L'image est devenue LA représentation de la Révolution dans l'imaginaire collectif, « trop rarement associée » à son contexte, le début de la monarchie de Juillet, plutôt qu'à 1789.",
-                "Sa persistance se voit dans la reprise par Martin Argyroglo pour son œuvre Nation, en une de L'Obs le 14 janvier 2015.",
-                "Une œuvre née d'un moment politique précis peut se détacher de son contexte et devenir une **image collective** réactivée à chaque crise, comme le sera la Vénus de Milo."
+                "Toile peinte entre 1800 et 1825, présentée aux Salons de 1806 et de 1814.",
+                "Girodet, élève de David comme Gros, illustre à lui seul la **porosité des frontières stylistiques** du début du XIXe siècle : héritage néoclassique et sensibilité romantique naissante se mêlent. Les définitions des styles sont complexes.",
+                "Cette hésitation, cet entre-deux, montre le romantisme se dégageant, encore retenu, du modèle néoclassique dominant."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toile de plus de quatre mètres de haut, sous un ciel d'orage zébré d'éclairs, dans un paysage rocheux balayé par la crue.",
+                "Une véritable œuvre romantique : personnages dans des teintes sombres, couleurs **juxtaposées** plutôt que fondues, mouvement général porteur d'une tension dramatique.",
+                "À observer : le personnage central garde les caractères du **néoclassicisme**, avec une pose maîtrisée, une anatomie idéalisée et un calme presque sculptural au milieu du chaos."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Une femme du peuple coiffée du **bonnet phrygien**, incarnation de la Liberté, mène un groupe hétéroclite par-dessus une barricade.",
-                "Elle tient le drapeau tricolore dans une main et un fusil à baïonnette dans l'autre."
+                "Des personnages agrippés à un arbre face à la crue : une scène de déluge."
               ]
             }
           ]
@@ -1379,130 +4220,34 @@ window.PARCOURS = [
     "duree_estimee": "45-60 min",
     "etapes": [
       {
-        "oeuvre_id": "cl010062516",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Poussin, encore jeune et installé à Rome, est sous l'influence de **Venise** : le cours y voit la preuve qu'il part du Titien avant de s'en émanciper.",
-                "Point de départ du parcours : Poussin va chercher une rigueur de plus en plus affirmée, héritée de l'académie des **Carrache** par son maître le Dominiquin."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Deux récits complexes sont résumés avec une parfaite lisibilité : le corps allongé de Narcisse dessine une **horizontale**, l'arbre une **verticale** centrale, qui donnent la stabilité.",
-                "Le mouvement vient d'un système d'**obliques** de part et d'autre de l'arbre : branches, position de la nymphe, flamme et flèche de Cupidon.",
-                "À observer : la tunique de Narcisse, dont les **aplats de couleur** superposés viennent directement du Titien.",
-                "Ces aplats rappellent la Bacchanale du Titien, que Poussin cite dans d'autres toiles de cette période."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Le tableau juxtapose deux récits des **Métamorphoses** d'Ovide.",
-                "À l'arrière-plan, la nymphe Écho, condamnée par Héra à ne répéter que les derniers mots entendus, aime Narcisse sans pouvoir le lui dire.",
-                "Au premier plan, Narcisse, puni par Némésis pour avoir repoussé ses prétendantes, s'éprend de son reflet dans l'eau et dépérit.",
-                "Écho, à force de le contempler, devient rocher, d'où l'écho des falaises.",
-                "Un petit Cupidon au centre porte une flamme."
-              ]
-            }
-          ]
-        }
-      },
-      {
         "oeuvre_id": "cl010062438",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Poussin applique sa rigueur à un sujet de chaos. Le cours pose la question : comment composer de façon parfaitement ordonnée une scène de violence pure, donc la réalité inverse ?",
-                "La première version, vers 1635 (New York), donne une impression de chaos, en **frise**, dominée par Romulus.",
-                "La version du Louvre, vers 1637-1638, est beaucoup plus structurée que celle de New York.",
-                "Ces principes, triangles emboîtés et accordéon, seront repris par les peintres français, de l'atticisme parisien à Le Brun ; on les retrouve, plus apaisés, dans Les Bergers d'Arcadie."
+                "Poussin (1594-1665), né en Normandie mais installé en Italie, pose la question de la **nationalité de l'artiste** ; il fait pourtant carrière grâce à des mécènes français.",
+                "Il reçoit ses commandes avec peu de contraintes : il est l'un des rares peintres à ne pas se voir imposer un programme trop détaillé.",
+                "Il inspirera l'**atticisme parisien**.",
+                "Poussin applique sa rigueur à un sujet de chaos : comment composer de façon parfaitement ordonnée une scène de violence pure ?",
+                "La première version, vers 1635 (New York), donne une impression de chaos, en **frise**, dominée par Romulus ; celle du Louvre, vers 1637-1638, est beaucoup plus structurée.",
+                "Ces principes, triangles emboîtés et accordéon, seront repris par les peintres français, de l'atticisme parisien à Le Brun."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Des architectures à l'arrière-plan bouchent la perspective et ramènent le regard sur le premier plan, avec un seul **point de fuite** pour que la scène ne soit pas oppressante.",
-                "Les verticales fortes des architectures stabilisent l'ensemble de la scène.",
-                "L'apparent désordre des enlèvements suit une disposition en **W** ou en **accordéon** : le regard va de Romulus au couple du premier plan, repart en oblique vers l'arrière-plan, revient, et ainsi de suite.",
-                "Les groupes se répondent : couples en fuite, femmes portées par des hommes, cavalier vu de face puis de dos.",
-                "Poussin se limite aux trois **couleurs primaires**, bleu, jaune et rouge : une gamme restreinte assure la stabilité, alors que trop de couleurs donnent une impression de mouvement. Le bleu domine."
+                "Poussin cherche à **organiser le chaos** par une structure extrêmement rigoureuse.",
+                "L'architecture empêche le regard de se perdre dans le lointain : la scène est fermée, il faut regarder devant. Ses fortes **verticales**, à l'arrière-plan, structurent la composition.",
+                "Les quatre enlèvements sont structurés en **accordéon** (ou W) : allers-retours entre premier et second plan, qui se font écho en duos homme/femme.",
+                "Le groupe de l'arrière-plan avec le cheval est le même, vu de face à gauche et de dos à droite.",
+                "Gamme restreinte aux trois **couleurs primaires** pour la stabilité ; le **bleu** domine."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Tiré de Tite-Live et de Plutarque, le tableau raconte comment Romulus, pour peupler Rome, fait enlever les femmes des Sabins, un peuple ennemi."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010062528",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Le cours juge ce tableau important d'un point de vue pédagogique : Poussin y passe de l'influence vénitienne à un style qui lui est propre.",
-                "La pensée **néo-platonicienne** du milieu romain de Poussin est si exigeante qu'on a mis du temps à comprendre le sujet.",
-                "Comparez avec la première version, vers 1629 (Chatsworth), où les bergers se précipitaient vers le cénotaphe."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "La végétation ferme l'arrière-plan et oblige à se concentrer sur le premier plan ; le tombeau placé de biais crée la perspective.",
-                "Les groupes s'ordonnent en **symétries inversées** : un homme debout à gauche, une femme debout à droite, un berger agenouillé de chaque côté.",
-                "La femme fait **repoussoir** et notre regard est conduit aux doigts du berger qui désignent le texte.",
-                "Poussin n'utilise que les trois **couleurs primaires**, bleu, rouge et jaune, pour la stabilité, avec un dernier reste vénitien dans le costume de l'homme de gauche.",
-                "Cette lisibilité cherchée se retrouve, plus personnelle, dans son autoportrait."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Des bergers se penchent sur un tombeau dans un paysage élégiaque, où se lit l'inscription « Et in Arcadia ego », « Moi aussi j'ai vécu en Arcadie ».",
-                "L'**Arcadie**, royaume fictif de félicité absolue, était d'abord comprise comme le regret d'un paradis perdu par le défunt.",
-                "Le cours précise qu'en réalité c'est la mort elle-même qui dit résider en Arcadie : où qu'on vive, on reste soumis aux lois de l'existence."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010065384",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Poussin, qui vit à Rome, se représente en 1650 pour son ami et mécène Paul Fréart de Chantelou.",
-                "Le cours distingue cet autoportrait des autres : il porte tout un discours **allégorique**.",
-                "Ce tableau de réflexion sur la peinture prépare les Quatre Saisons, où il défend sa vision du paysage."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Le buste, tout en noir, s'inscrit dans un **triangle**.",
-                "Derrière lui, des tableaux empilés contre un mur et le chambranle de la porte forment un réseau de verticales et d'horizontales qui structure la composition ; cette vue d'atelier n'a rien d'accidentel.",
-                "Le fond gris et brun, couleurs neutres, met en valeur les trois **couleurs primaires**, rouge, jaune et bleu, apparaissant sur les tableaux."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Au premier plan, le revers d'une toile porte, en italien, une dédicace : l'effigie de Poussin faite à Rome en 1650.",
-                "Dans l'un des tableaux, une jeune femme au diadème orné d'un œil, allégorie de la peinture savante, est étreinte par deux mains, sans doute celles du mécène : grâce à l'amitié de Chantelou, la peinture de Poussin vit.",
-                "Niveau symbolique : la main appuyée sur un carnet de croquis porte une bague au diamant en pointe, pyramide, symbole de **constance**.",
-                "Cela fait trois références à sa gratitude : explicite, allégorique, symbolique."
+                "Tiré de Tite-Live et de Plutarque : Romulus fait enlever les femmes des Sabins, peuple voisin, pour peupler Rome."
               ]
             }
           ]
@@ -1515,28 +4260,130 @@ window.PARCOURS = [
             {
               "titre": "Contexte",
               "points": [
-                "Le Printemps appartient aux quatre saisons de Poussin, peintes entre 1660 et 1664 pour le duc de Richelieu, entreprise majeure de la fin de sa vie et véritable **testament**.",
-                "Le cours y voit un plaidoyer : le paysage n'étant pas un genre noble dans la hiérarchie des genres, Poussin défend qu'il a toute son importance.",
-                "Chaque saison renvoie à un récit de l'Ancien Testament, à un moment du jour et à un âge de la vie, dans la lignée **néo-stoïcienne**.",
+                "Cette étape ouvre les **quatre saisons**, peintes en 1660-1664 pour le duc de Richelieu : véritable **testament artistique** de Poussin, qui y affirme l'importance du **paysage historique**.",
+                "Le cycle entremêle quatre saisons, quatre moments du jour, quatre âges de la vie et quatre récits de l'Ancien Testament.",
+                "Un dialogue s'y installe entre fertilité et stérilité, destruction et naissance : dans la lignée de la pensée **néo-stoïcienne** de Poussin.",
+                "Le cycle va de la création à la destruction : le Printemps (Paradis terrestre), l'Été (Ruth et Booz), l'Automne (la grappe de la Terre promise), l'Hiver (le Déluge).",
                 "Cette réflexion sur le paysage mène à Claude Lorrain, pour qui la lumière structure tout."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Les quatre tableaux ont la même composition : végétation formant de fortes verticales, figures principales au centre, **triangles emboîtés** du premier plan à l'arrière-plan comme dans L'Enlèvement des Sabines.",
-                "Comme dans Les Sabines, les **couleurs primaires** assurent l'équilibre.",
-                "Poussin y reprend la **ligne serpentine** et les triangles du Dominiquin, élève des Carrache.",
-                "Poussin aime aussi surprendre : ni feuilles mortes en automne, ni neige en hiver.",
-                "La touche est plus tremblée, due à la maladie qui lui fait trembler la main, non à un choix."
+                "Les quatre tableaux suivent une **composition identique** : végétation formant de fortes verticales, figures principales au centre, **triangles emboîtés** entre premier plan et arrière-plan.",
+                "Les **couleurs primaires** garantissent l'équilibre et la stabilité.",
+                "Poussin déjoue les attentes : ni neige ni feuilles mortes.",
+                "Il reprend la **ligne serpentine** et les triangles du Dominiquin, élève des Carrache.",
+                "À observer : habituellement, ses figures sont parfaitement cernées, comme des bas-reliefs peints. Ici, la touche est **tremblée**, avec des empâtements, non voulus : une maladie lui fait trembler la main à la fin de sa vie.",
+                "Le **serpent**, le Mal, ouvre le cycle avec Adam et Ève dans Le Printemps et le ferme dans Le Déluge."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Le paysage est ici le **paradis terrestre** : Adam et Ève dans le jardin d'Éden, avant leur faute, avec Dieu qui apparaît.",
-                "Ève montre le fruit défendu à Adam ; la scène se passe le matin et tout est lumière divine avant le péché, la lumière devenant lointaine après.",
-                "Un dialogue s'instaure entre fertilité et stérilité, destruction et naissance."
+                "Le Printemps ou **Le Paradis terrestre** : Adam et Ève dans le jardin d'Éden, avant la faute, avec l'apparition de Dieu.",
+                "Ève montre le fruit défendu à Adam ; la scène a lieu le matin, tout est lumière divine avant le péché.",
+                "Les trois autres saisons : L'Été ou Ruth et Booz, L'Automne ou La Grappe de raisin rapportée de la Terre promise, L'Hiver ou Le Déluge."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065384",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin, qui vit à Rome, se représente en **1650** pour son ami et mécène Paul Fréart de Chantelou.",
+                "Composition à forte teneur **métaphorique et allégorique** : c'est grâce à la constante amitié de Chantelou que Poussin peut vivre de sa peinture.",
+                "C'est le dernier de ses rares autoportraits et le plus intéressant.",
+                "Ce tableau de réflexion sur la peinture prépare les Quatre Saisons, où il défend sa vision du paysage."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Le buste, tout en noir (**austérité**), s'inscrit dans un **triangle**.",
+                "Les tableaux empilés derrière lui, le chambranle et les moulures de la porte forment un réseau de **horizontales et de verticales** : cette vue d'atelier n'a rien d'accidentel.",
+                "Fond neutre, couleurs sales, pour mettre en valeur les trois **couleurs primaires** des tableaux."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Trois niveaux de lecture. Discours **explicite** : au premier plan, le revers d'une toile porte, en italien, une dédicace, l'effigie de Poussin faite à Rome en 1650.",
+                "Discours **implicite**, allégorique : une jeune femme au diadème orné d'un œil, allégorie de la peinture, est étreinte par deux mains, celles du mécène Chantelou.",
+                "Discours **symbolique**, par les objets : la main sur le carnet de croquis porte une bague au diamant en pointe, symbole de **constance**.",
+                "Sens : la constance de l'amitié de Chantelou permet à Poussin de vivre de son métier de peintre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062528",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin s'éloigne de l'influence vénitienne (Écho et Narcisse) pour un style qui lui ressemble : extrêmement rigoureux, structuré, organisé.",
+                "Tableau important d'un point de vue pédagogique : il marque cette rupture.",
+                "Influence **néo-platonicienne** du milieu romain de Poussin : le sujet a longtemps été difficile à comprendre.",
+                "Comparez avec la première version, vers 1629 (Chatsworth), où les bergers se précipitaient vers le cénotaphe ; la composition du Louvre est plus rigoureuse."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La végétation obstrue l'arrière-plan et concentre le regard sur le **premier plan**.",
+                "Le cénotaphe, disposé en biais, dynamise la scène.",
+                "Les bergers suivent une **symétrie inversée** : un assis et un debout au premier plan, et de même à l'arrière-plan.",
+                "La femme crée un **élan vertical** par les plis de son vêtement et le tronc qui prolonge sa silhouette ; elle fait repoussoir et conduit le regard vers les doigts du berger qui désignent le texte.",
+                "**Stabilité** apportée par la couleur : gamme restreinte aux trois couleurs primaires ensemble, avec un dernier reste vénitien dans le costume de l'homme de gauche."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des bergers se penchent sur un tombeau dans un paysage élégiaque : « Et in Arcadia ego ».",
+                "**Arcadie** : lieu primitif et idyllique, peuplé de bergers vivant en harmonie avec la nature.",
+                "Lecture néo-platonicienne : « Moi aussi, je réside en Arcadie » ; ce n'est pas le mort, mais **la mort** qui parle. Où qu'on soit, on reste soumis aux lois de l'existence."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062516",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Poussin est encore jeune, installé à Rome ; l'**influence du Titien** et de la peinture vénitienne est nette.",
+                "Point de départ du parcours : Poussin va chercher une rigueur de plus en plus affirmée, héritée des **Carrache** par son maître le Dominiquin ; il est aussi marqué par les peintres flamands venus à Paris à la demande de Marie de Médicis (Pourbus).",
+                "À observer : la tunique de Narcisse, aux **aplats de couleur** superposés, signe de jeunesse et d'influence vénitienne."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Deux récits complexes sont résumés avec une parfaite lisibilité.",
+                "Au premier plan, le corps de Narcisse dessine une **horizontale** ; l'arbre central, une **verticale**.",
+                "Les **diagonales** viennent du Cupidon, avec flamme et flèche, et des branches.",
+                "Aplats de couleur de la tunique : héritage du Titien, que Poussin cite dans d'autres toiles de cette période."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Deux récits des **Métamorphoses** d'Ovide, imbriqués l'un dans l'autre.",
+                "À l'arrière-plan, **Écho**, nymphe qui parle si fort que Zeus l'utilise pour masquer ses ébats avec des mortelles. Héra, découvrant la ruse, la punit : elle ne pourra plus que répéter le dernier mot de son interlocuteur. Amoureuse de Narcisse, elle ne peut le lui avouer.",
+                "Au premier plan, **Narcisse** : Némésis, déesse de la vengeance, entend les plaintes de ses prétendants et le punit de son insensibilité ; il tombe amoureux de son reflet, dépérit et meurt au bord de l'eau.",
+                "Écho, à force de le contempler, devient rocher."
               ]
             }
           ]
@@ -1549,16 +4396,17 @@ window.PARCOURS = [
             {
               "titre": "Contexte",
               "points": [
-                "Poussin peint ce tableau en 1648 pour son ami le banquier Jean Pointel, à la différence de la série des Sacrements faite pour un autre ami, Chantelou : le cours dit qu'il le peint pour reposer son esprit.",
-                "Cette **ligne serpentine**, Poussin la tient du Dominiquin et des Carrache, autre étape vers Claude Lorrain, qui reprend la structure par la lumière."
+                "Poussin le peint (1648) pour son ami le banquier **Jean Pointel**, pour se distraire et reposer son esprit : il puise dans la Genèse.",
+                "Ce n'est pas une commande très contrainte, à la différence de séries faites pour d'autres amis comme Chantelou.",
+                "La **ligne serpentine** vient du Dominiquin et des Carrache ; autre étape vers Claude Lorrain, qui reprend la structure par la lumière."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Composition très structurée : des architectures ferment l'arrière-plan à gauche et à droite, comme des **coulisses de théâtre**, et ouvrent une perspective au centre ; le couple est isolé par un ovale.",
-                "Les jeunes femmes, en frise comme les bas-reliefs antiques, forment une ligne serpentine, ondulation chorégraphiée des corps et des bras, qui guide le regard.",
-                "Les cruches, tantôt en haut, tantôt en bas, jamais au même niveau, font circuler le regard.",
+                "Tableau **fermé sur les côtés** par des éléments architecturaux, à gauche et à droite, qui dirigent le regard vers le centre ; l'ouverture sur le **ciel bleu** aère la composition.",
+                "Au centre, les protagonistes principaux.",
+                "Les jeunes femmes sont disposées **en frise**, comme les bas-reliefs antiques ; ligne serpentine, pas d'isocéphalie : le regard évolue naturellement dans la composition, aidé des cruches, jamais au même niveau.",
                 "À observer : la jeune femme à la cruche sur la tête, qui regarde le spectateur, cite Raphaël (L'Incendie du Borgo).",
                 "La chorégraphie des bras renvoie au groupe antique des **Niobides**."
               ]
@@ -1566,9 +4414,9 @@ window.PARCOURS = [
             {
               "titre": "Sujet",
               "points": [
-                "Le sujet vient de la **Genèse** : Abraham envoie son serviteur Éliézer chercher une épouse pour son fils Isaac, et Dieu désigne celle qui proposera la première à boire au puits.",
-                "Poussin choisit le moment clé : au centre, Éliézer offre un anneau d'or à Rébecca, qui accepte en posant la main sur sa poitrine.",
-                "Autour d'eux, des jeunes femmes viennent puiser l'eau."
+                "Abraham veut marier son fils Isaac à une jeune femme de son pays d'origine et envoie son serviteur **Éliézer** choisir l'épouse.",
+                "Éliézer demande l'aide de Dieu : la première jeune femme qui lui proposera à boire au puits sera l'épouse d'Isaac.",
+                "Poussin choisit le moment clé : Éliézer offre un anneau d'or à **Rébecca**, qui accepte en posant la main sur sa poitrine, entourée de jeunes femmes qui puisent l'eau."
               ]
             }
           ]
@@ -1581,9 +4429,10 @@ window.PARCOURS = [
             {
               "titre": "Contexte",
               "points": [
-                "Claude Gellée, dit le Lorrain, autre Français installé à Rome, connaît Poussin ; héritier des Carrache et de la tradition du paysage **historique** ou héroïque, il va plus loin que lui.",
-                "Pour Claude, le sujet n'est pas l'essentiel, au point qu'on ne le devine pas sans lire le titre ; l'important est la **lumière**, qui module et structure le paysage.",
-                "Le cours rapproche cette étude de lumière du Port avec l'embarquement de la reine de Saba (1648, National Gallery), où le soleil est déjà au centre ; ici il va encore plus loin.",
+                "Claude Gellée, dit le Lorrain, autre Français installé à Rome, connaît Poussin ; héritier des Carrache et du paysage **historique**, il va plus loin que lui.",
+                "Pour Claude, le sujet n'est pas l'essentiel ; l'important est la **lumière**, qui module et structure le paysage.",
+                "Il va ici plus loin que dans le tableau précédent : le soleil, plein face sur l'eau, est cette fois **caché** par un bateau, et la lumière contourne la coque.",
+                "Le Port avec l'embarquement de la reine de Saba (1648, National Gallery) montrait déjà le soleil au centre.",
                 "Ce travail inspirera Turner (Le Dernier Voyage du Téméraire).",
                 "Comme Poussin avec la ligne serpentine et le triangle, Claude reprend la structure de l'académie des Carrache, mais c'est la lumière qui assure la construction.",
                 "Ces deux héritiers des Carrache ne cesseront d'essaimer, de Reynolds, David et Ingres à Cézanne, Picasso et Turner."
@@ -1592,9 +4441,9 @@ window.PARCOURS = [
             {
               "titre": "Composition",
               "points": [
-                "Dans un port, des éléments d'architecture forment comme des **coulisses de théâtre** : verticales fortes qui conduisent le regard vers le point de fuite, où se trouve le soleil.",
-                "Claude réussit à placer le soleil de face sans éblouir, et le cache même derrière un bateau : la lumière contourne la coque.",
-                "L'ombre de la coque crée l'axe central menant à la perspective, tandis que la lumière dessine les deux lignes obliques qui arrivent au **point de fuite**."
+                "Mêmes éléments que dans l'œuvre précédente : architecture en **coulisses de théâtre** et verticalité forte, qui conduisent le regard vers le point de fuite.",
+                "La lumière structure et assure les lignes directrices : deux obliques arrivent au **point de fuite**.",
+                "Complexité supplémentaire : l'**ombre** de la coque crée l'axe central menant à la perspective."
               ]
             },
             {
@@ -1781,6 +4630,7 @@ window.PARCOURS = [
               "titre": "Contexte",
               "points": [
                 "Valentin de Boulogne (1591-1632) arrive à Rome en 1611 et y reste jusqu'à sa mort ; il fréquente Simon Vouet et d'autres Français caravagesques, comme Vignon, Régnier et Tournier.",
+                "Avec Régnier, Vignon et Vouet, il complète le groupe de Français marqués par le Caravage, qui clôt cette partie du parcours.",
                 "Le tableau reprend l'iconographie du Caravage, selon des règles popularisées par Manfredi : thème du concert, manches rayées, chapeaux à plumes posés trop en arrière de façon à dessiner un cercle.",
                 "Nicolas Tournier, élève de Valentin, reprendra la stèle et le buveur de dos.",
                 "Le bas-relief, qui représente les noces de Pélée et de Thétis, est une référence à l'**Antique** que le Caravage détestait."
@@ -1799,7 +4649,7 @@ window.PARCOURS = [
               "points": [
                 "Sept personnages, buveurs, chanteurs et musiciens, sont réunis autour d'un bas-relief antique.",
                 "Le tableau est silencieux : les personnages ne se regardent pas, chacun est concentré sur son activité ; le petit garçon, seul à pouvoir nous regarder, a le regard perdu.",
-                "La comparaison avec le Concert de Honthorst, où l'on communique et où l'on entend presque le bruit, fait ressortir ce contraste ; le Louvre décrit une atmosphère de gravité et de mystère."
+                "Comparez avec le Concert de Honthorst, où l'on communique et où l'on entend presque le bruit : le Louvre décrit une atmosphère de gravité et de mystère."
               ]
             }
           ]
@@ -1875,33 +4725,66 @@ window.PARCOURS = [
     "duree_estimee": "45-60 min",
     "etapes": [
       {
-        "oeuvre_id": "cl010066276",
+        "oeuvre_id": "cl010060624",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Le thème des tricheurs aux cartes a été popularisé par le Caravage ; le cours range ce tableau parmi les preuves de l’**influence caravagesque** sur Georges de La Tour.",
-                "Georges de La Tour a l’habitude de décliner un tableau qui fonctionne en plusieurs versions ; celle-ci, avec l’as de carreau, a pour pendant le Tricheur à l’as de trèfle du Kimbell Art Museum.",
-                "Le cours juge la version du Kimbell plus aboutie : les aiguillettes, rubans qui rattachent la manche, y sont nouées (dénouées au Louvre), et la dupe est plus isolée, séparée du groupe par un espace plus creusé.",
-                "Cette géométrie silencieuse, sans geste théâtral, ouvre le parcours du silence et de l’ordre ; le Saint Joseph charpentier la pousse vers la gravité religieuse."
+                "Ce panneau vient du **cabinet des Muses** de l’hôtel Lambert, sur l’île Saint-Louis, que Le Sueur décore entre 1652 et 1655 pour Nicolas Lambert.",
+                "Le programme est profondément féminin, car le cabinet se trouvait dans l’appartement de l’épouse de Nicolas Lambert.",
+                "C’est l’exemple le plus abouti et le plus révélateur de l’art de Le Sueur.",
+                "La composition vient de Poussin ; la palette rappelle Vouet."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Fond neutre, cadrage resserré à mi-corps et lumière venue de biais caractérisent l’héritage caravagesque.",
-                "Les costumes de fantaisie, dont les manches rayées, guident le regard.",
-                "Les aiguillettes nouées de la version du Kimbell créent des lignes verticales stabilisantes qui divisent la scène en deux.",
-                "Observez les couleurs : une tonalité neutre rompue par un vert, et un jaune décliné vers l’orangé.",
-                "La Tour travaille encore un « module » géométrique : têtes, ruban et chapeaux à plumes se répondent en **cercles et ovales**, tandis que la table, un parallélépipède, rompt avec ces rondeurs."
+                "Un bosquet ferme un côté et ses troncs verticaux stabilisent le groupe ; une partie ouverte donne sur une perspective qui aère la scène.",
+                "Montagnes et figures forment des triangles, mais un **ovale** tracé par les bras, de la tête de Clio à la ceinture de Thalie, puis au masque, à la flûte, et de nouveau à Clio, fait circuler l’œil.",
+                "Le rose côtoie le bleu : c’est la « manière claire » de Vouet."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Le dupé, à droite, ne voit pas ce qui se passe, alors que nous, au premier plan, voyons la tricherie.",
-                "Les trois autres personnages sont complices : la servante donne des indices à sa maîtresse."
+                "Au plafond du cabinet, Phaéton demande à Apollon, dieu des neuf Muses, de conduire son char.",
+                "Clio, Euterpe et Thalie sont filles de Zeus et de Mnémosyne, déesse de la mémoire.",
+                "À gauche, Clio, muse de l’histoire, se reconnaît à la trompette de la renommée et au livre ; Euterpe, muse de la poésie lyrique, à sa flûte ; Thalie, muse de la comédie, assise à leurs pieds, au masque.",
+                "Les visages sont d’une grande retenue : même le masque censé sourire reste neutre, comme chez les Le Nain."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060683",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "**Atticisme parisien** : terme forgé au XXe siècle par Bernard Dorival et Jacques Thuillier pour une famille de peintres qui, vers 1649-1650, épurent le style français, comme les rhéteurs grecs épuraient leur langue.",
+                "La construction est typique de La Hyre et héritée de Poussin.",
+                "Cette science du paysage et ce goût d’ordre se prolongent dans le cabinet des Muses de Le Sueur."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Des triangles imbriqués, l’un à l’arrière-plan, l’autre au premier plan, structurent la scène.",
+                "Une **ligne serpentine** que l’œil suit de la gauche au premier plan jusqu’à droite, vers les moutons qui s’enfoncent ; les verticales du temple structurent et stabilisent la composition.",
+                "Les figures, groupées en triangle, sont disposées en courbes et contre-courbes.",
+                "Couleurs de l’atticisme : des associations improbables, comme un vert près d’un marron et d’un violet.",
+                "Les mêmes rouges et bleus se répètent au premier plan et au loin, de plus en plus pâles (rouge devenu rose puis blanc), ce qui crée la profondeur par un phénomène optique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le sujet, simple, vient de la Genèse : Jacob quitte son beau-père Laban avec ses femmes et son troupeau ; Laban le poursuit car ses idoles ont disparu.",
+                "Laban soupçonne Jacob, mais c’est en réalité Rachel, sa fille, qui les a dérobées et qui est assise dessus.",
+                "Le vrai sujet est d’abord le **paysage**, un paysage de fantaisie plus européen que proche-oriental."
               ]
             }
           ]
@@ -1941,6 +4824,39 @@ window.PARCOURS = [
         }
       },
       {
+        "oeuvre_id": "cl010066276",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le thème des tricheurs aux cartes a été popularisé par le Caravage ; il compte parmi les preuves de l’**influence caravagesque** sur Georges de La Tour.",
+                "Georges de La Tour décline volontiers un tableau qui fonctionne en plusieurs versions ; celle-ci, avec l’as de carreau, a pour pendant le Tricheur à l’as de trèfle du Kimbell Art Museum.",
+                "La version du Kimbell est plus aboutie : les aiguillettes, rubans qui rattachent la manche, y sont nouées (dénouées au Louvre), et la dupe est plus isolée, séparée du groupe par un espace plus creusé.",
+                "Cette géométrie silencieuse, sans geste théâtral, ouvre le parcours du silence et de l’ordre ; le Saint Joseph charpentier la pousse vers la gravité religieuse."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Fond neutre, cadrage resserré à mi-corps et lumière venue de biais caractérisent l’héritage caravagesque.",
+                "Les costumes de fantaisie, dont les manches rayées, guident le regard.",
+                "Les aiguillettes nouées de la version du Kimbell créent des lignes verticales stabilisantes qui divisent la scène en deux.",
+                "Observez les couleurs : une tonalité neutre rompue par un vert, et un jaune décliné vers l’orangé.",
+                "La Tour travaille encore un « module » géométrique : têtes, ruban et chapeaux à plumes se répondent en **cercles et ovales**, tandis que la table, un parallélépipède, rompt avec ces rondeurs."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le dupé, à droite, ne voit pas ce qui se passe, alors que nous, au premier plan, voyons la tricherie.",
+                "Les trois autres personnages sont complices : la servante donne des indices à sa maîtresse."
+              ]
+            }
+          ]
+        }
+      },
+      {
         "oeuvre_id": "cl010065571",
         "note": {
           "sections": [
@@ -1948,9 +4864,9 @@ window.PARCOURS = [
               "titre": "Contexte",
               "points": [
                 "Daté de 1643, ce tableau est caractéristique des débuts des frères Le Nain et montre l’influence des scènes caravagesques nocturnes, avec un clair-obscur marqué.",
-                "Le cours le rapproche de la Réunion de buveurs de Nicolas Tournier (Le Mans) et évoque les **tabagies** flamandes et néerlandaises, comme Les Fumeurs de Brouwer.",
+                "On peut le rapprocher de la Réunion de buveurs de Nicolas Tournier (Le Mans) et il évoque les **tabagies** flamandes et néerlandaises, comme Les Fumeurs de Brouwer.",
                 "Mais les Le Nain restent « à part » du caravagisme.",
-                "Les trois frères ne signent pas de prénom ; l’attribution des mains, Louis ou Antoine pour celle-ci selon le cours, reste une énigme.",
+                "Les trois frères ne signent pas de prénom ; l’attribution des mains, Louis ou Antoine pour celle-ci, reste une énigme.",
                 "Cette retenue, ce silence, relie La Tabagie à la Famille de paysans."
               ]
             },
@@ -1979,7 +4895,7 @@ window.PARCOURS = [
             {
               "titre": "Contexte",
               "points": [
-                "Le cours le considère comme le chef-d’œuvre des frères Le Nain, sans doute peint à trois, tant la composition est aboutie.",
+                "Considéré comme le chef-d’œuvre des frères Le Nain, sans doute peint à trois, tant la composition est aboutie.",
                 "Ces tableaux ne dénoncent pas la misère paysanne : ils sont destinés à de riches collectionneurs.",
                 "Les frères se sont tournés vers le « **genre bas** » pour des raisons économiques, face à l’atelier de Vouet qui accaparait les commandes d’histoire.",
                 "Des détails ne sont pas réalistes : un verre en verre rempli de vin coûte trop cher pour un paysan, et le petit chien est un chien de manchon, animal inutile pour une famille pauvre."
@@ -1999,73 +4915,6 @@ window.PARCOURS = [
               "points": [
                 "Autour de la table, trois adultes et trois enfants : un équilibre des générations.",
                 "Comme dans La Tabagie, les personnages ne font rien, n’interagissent pas, et les adultes nous regardent droit dans les yeux."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010060683",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "**Atticisme parisien** : terme forgé au XXe siècle par Bernard Dorival et Jacques Thuillier pour une famille de peintres qui, vers 1649-1650, épurent le style français, comme les rhéteurs grecs épuraient leur langue.",
-                "La construction est typique de La Hyre et héritée de Poussin.",
-                "Cette science du paysage et ce goût d’ordre se prolongent dans le cabinet des Muses de Le Sueur."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Des triangles imbriqués, l’un à l’arrière-plan, l’autre au premier plan, structurent la scène.",
-                "Une **ligne serpentine** que l’œil suit de la gauche au premier plan jusqu’à droite, vers les moutons qui s’enfoncent ; les verticales du temple structurent et stabilisent la composition.",
-                "Les figures, groupées en triangle, sont disposées en courbes et contre-courbes.",
-                "Couleurs de l’atticisme : des associations improbables, comme un vert près d’un marron et d’un violet.",
-                "Les mêmes rouges et bleus se répètent au premier plan et au loin, de plus en plus pâles (rouge devenu rose puis blanc), ce qui crée la profondeur par un phénomène optique."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Le sujet, simple, vient de la Genèse : Jacob quitte son beau-père Laban avec ses femmes et son troupeau ; Laban le poursuit car ses idoles ont disparu.",
-                "Laban soupçonne Jacob, mais c’est en réalité Rachel, sa fille, qui les a dérobées et qui est assise dessus.",
-                "Le cours insiste : le vrai sujet est d’abord le **paysage**, un paysage de fantaisie plus européen que proche-oriental."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010060624",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Ce panneau vient du cabinet des Muses de l’hôtel Lambert, sur l’île Saint-Louis, que Le Sueur décore entre 1652 et 1655 pour Nicolas Lambert.",
-                "Le programme est profondément féminin, car le cabinet se trouvait dans l’appartement de l’épouse de Nicolas Lambert.",
-                "Selon le cours, ce panneau est l’exemple le plus abouti et le plus révélateur de l’art de Le Sueur.",
-                "La composition vient de Poussin ; la palette rappelle Vouet.",
-                "Le Sueur avait aussi peint, plus jeune, une Réunion d’amis."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Un bosquet ferme un côté et ses troncs verticaux stabilisent le groupe, le plus large prolongeant le corps de Clio ; une partie ouverte donne sur une perspective qui aère la scène.",
-                "Montagnes et figures forment des triangles, mais un **ovale** tracé par les bras, de la tête de Clio à la ceinture de Thalie, puis au masque, à la flûte, et de nouveau à Clio, fait circuler l’œil.",
-                "Dans la palette, le rose côtoie le bleu : c’est la « manière claire » de Vouet."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Au plafond du cabinet, Phaéton demande à Apollon, dieu des neuf Muses, de conduire son char.",
-                "Clio, Euterpe et Thalie sont filles de Zeus et de Mnémosyne, déesse de la mémoire.",
-                "À gauche, Clio, muse de l’histoire, se reconnaît à la trompette de la renommée et au livre ; Euterpe, muse de la poésie lyrique, à sa flûte ; Thalie, muse de la comédie, assise à leurs pieds, au masque.",
-                "Les visages sont d’une grande retenue : même le masque censé sourire reste neutre, comme chez les Le Nain."
               ]
             }
           ]
@@ -2119,7 +4968,7 @@ window.PARCOURS = [
             {
               "titre": "Composition",
               "points": [
-                "Le cours y voit une composition très rigoureuse : les apôtres, presque à la même hauteur (quasi-isocéphalie), forment une ligne horizontale qui assoit la composition.",
+                "Composition très rigoureuse : les apôtres, presque à la même hauteur (quasi-isocéphalie), forment une ligne horizontale qui assoit la composition.",
                 "Un réseau de lignes horizontales et verticales la stabilise : corde de la tenture noire, nez du Christ, pli central de son vêtement, assiette, pli de la table, gros orteil.",
                 "Les plis de la tenture, de la nappe et le sol de carreaux répondent à cet ordre : « rien n’est dû au hasard ».",
                 "Pour éviter une frontalité austère, deux figures **repoussoirs**, comme des parenthèses, forment une boucle et nous font entrer droit sur le Christ.",
@@ -2175,61 +5024,69 @@ window.PARCOURS = [
         }
       },
       {
-        "oeuvre_id": "cl010064946",
+        "oeuvre_id": "cl010062167",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Portrait de 1610 (le cours le date de l'année de l'assassinat d'Henri IV) : Marie de Médicis est devenue régente au nom de son fils Louis XIII encore enfant.",
-                "Elle veut prouver, par ce portrait, qu'elle est apte à diriger la France.",
-                "Pourbus, peintre flamand appelé à Paris par la reine parce qu'elle ne veut plus d'un maniérisme jugé obsolète, répond à cette attente.",
-                "Le cours rattache l'œuvre à l'appel que Marie de Médicis lance à des artistes étrangers : Pourbus d'abord, puis Rubens, dont la galerie vient plus loin."
+                "Van Dyck, le plus jeune assistant de Rubens à dix-neuf ans, s'installe à Londres en 1632 : il ne parvient pas à faire carrière à Anvers, où l'atelier énorme de Rubens draine toutes les commandes.",
+                "Il épouse une jeune aristocrate anglaise, entre dans ce milieu et multiplie les portraits d'aristocrates anglais (plus de quatre cents au total).",
+                "Il devient le grand portraitiste de Charles Ier et crée un modèle de portrait qui se répandra : il influencera Rigaud pour Louis XIV, puis le portrait anglais jusqu'au XIXe siècle, de Gainsborough à Reynolds.",
+                "Van Dyck cite **Titien**, que Charles Ier admirait comme lui : il s'était fait remarquer du roi par un pastiche d'un tableau du Titien appartenant au souverain.",
+                "Le coude avancé, effet de trompe-l'œil qui étage les plans, vient du Portrait de Gerolamo Barbarigo ; la jambe levée du cheval, de l'Adoration des mages."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Pourbus construit un **« écrin »** destiné à contenir le corps de la reine, dont elle serait la perle ou le bijou.",
-                "Regardez d'abord l'arrière-plan : niche, pilastres, colonnes, baldaquin et grille composent un réseau de lignes verticales et horizontales, le marbre et le baldaquin soulignant les horizontales.",
-                "Contre cette « boîte » de lignes droites, le corps de la reine se définit par des **courbes et des ovales** : tête, fraise, couronne, bras autour du corps.",
-                "Les ovales se poursuivent dans tout le corps, jusqu'à la traîne et à la robe.",
-                "Les perles du collier, des bracelets et du pourpoint, ainsi que les manches à crevés, répètent ces rondeurs.",
-                "L'arrière-plan est dominé par le rouge des tentures, avec du noir et du blanc.",
-                "Ce rouge contraste avec la robe noire semée de fleurs de lys, qui met le corps de la reine en valeur."
+                "La composition est **bipartite** : une partie fermée à droite, où l'arbre remplace les colonnes comme chez Rubens, et une partie ouverte à gauche sur un paysage.",
+                "Dans le lointain, un petit bateau rappelle la puissance maritime du Royaume-Uni.",
+                "Seul le monarque se détache sur le fond de la perspective : valets et cheval ont le bosquet derrière eux, ce qui isole la figure du roi.",
+                "Seul le roi nous regarde ; le cheval incline la tête comme en révérence, les valets détournent le regard."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "On attendait un souverain à cheval, dans une bataille ou dans un grand palais ; ici, il est en plein air et à pied.",
+                "Van Dyck le peint entre le gentleman farmer, gentilhomme campagnard, et le monarque : de manière décontractée, avec une pose pleine de morgue aristocratique."
               ]
             }
           ]
         }
       },
       {
-        "oeuvre_id": "cl010060875",
+        "oeuvre_id": "cl010060839",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Œuvre de 1618, peinte pour le maître d'hôtel de Saint-Gilles selon le cours, qui prolonge le portrait de la reine.",
-                "C'est une peinture flamande de la **rigueur**, à l'opposé du maniérisme, que le cours dit avoir fasciné Nicolas Poussin."
+                "Commande de Marie de Médicis après la mort d'Henri IV, pour le palais du Luxembourg : **vingt-quatre tableaux** retraçant les moments importants de sa vie.",
+                "Elle a demandé à Rubens de tout faire lui-même, et il y a mis quatre ans.",
+                "La commande est délicate : son fils Louis XIII fera un coup d'État pour récupérer le pouvoir.",
+                "Ce panneau, de 3,94 m sur 7,27 m, est le cœur du cycle, son **épicentre** : il énonce la bonne gouvernance de la reine."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "La composition est classique : les figures obéissent à une **isocéphalie** stricte, toutes les têtes se tenant presque au même niveau.",
-                "Une grille de lignes droites structure l'ensemble. Verticales : bords de la tenture noire tendue et pli central, qui passe au milieu du Christ et descend jusqu'à son gros orteil.",
-                "Ce pli se confond avec celui du vêtement du Christ, sépare le pain du vin et divise le tableau en deux parties égales.",
-                "Les horizontales sont celles de la tenture, de la table, des plis de la nappe, des bancs, du carrelage et de la grille.",
-                "L'arrière-plan en noir et blanc, très sobre, met en valeur les tenues des disciples, où reviennent le rouge, le jaune et le bleu gris.",
-                "Chaque visage est individualisé, comme autant de portraits très différents et expressifs : au Nord, on parle de **tronié** pour ce visage très expressif sans être grimaçant.",
-                "Le fil se poursuit avec Rubens, autre maître flamand de la composition, qui y ajoute la couleur et le mouvement."
+                "Rubens excelle dans la **liaison organique des formes** : aucun espace libre entre les figures.",
+                "Le panneau se divise en deux triangles, dont le plus grand contient Marie ; toutes les lignes convergent vers elle.",
+                "Seule la reine adopte une attitude de repli, mains sur la poitrine, tête baissée : signe d'acceptation."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Le jaune, couleur de la traîtrise, est celui de Judas, dont la bourse, prix de sa trahison, est visible au premier plan, dans son dos.",
-                "Seule note chromatique singulière, le violet du Christ l'identifie fortement."
+                "Rubens accompagne toujours la reine de **figures tutélaires allégoriques**, jamais seule.",
+                "À gauche, l'apothéose d'Henri IV : le roi rejoint les dieux, soulevé par Jupiter (aigle) et Saturne (faucille).",
+                "En bas, le serpent percé de flèches est **Ravaillac**, l'assassin.",
+                "Repérez Hercule à son manteau et à la peau de lion, et Hermès.",
+                "À droite, Marie endeuillée, en noir : la France, aux fleurs de lys, lui donne le pouvoir en lui remettant l'orbe.",
+                "On lui conseille d'accepter la régence ; Minerve est à ses côtés, la Providence lui remet un gouvernail, et une déesse tenant une palme veille à ce qu'elle soit juste.",
+                "Autres panneaux à rappeler : la Naissance de Marie, tenue par la ville de Florence, avec le fleuve Arno en bas ; l'Arrivée de la reine à Marseille, célèbre pour les gouttes d'eau sur la peau des figures du bas ; le Couronnement, où la reine triomphante tient une Victoire dans la main droite."
               ]
             }
           ]
@@ -2268,33 +5125,25 @@ window.PARCOURS = [
         }
       },
       {
-        "oeuvre_id": "cl010060839",
+        "oeuvre_id": "cl010064946",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Avec ses 3,94 m sur 7,27 m, ce panneau est le cœur de la galerie, son **épicentre**.",
-                "Il énonce la raison d'être du cycle : la bonne gouvernance de Marie de Médicis, dont le destin était de diriger la France."
+                "Pourbus est appelé en France par Marie de Médicis, qui ne veut plus du style maniériste, jugé obsolète : elle fait donc appel à des artistes flamands, comme lui ou Rubens.",
+                "Il arrive à Paris quand Marie devient régente, Louis XIII étant enfant, après l'assassinat d'Henri IV en 1610 : c'est le moment du portrait.",
+                "Marie s'y représente en **femme de pouvoir**, apte à diriger la France au nom de son fils."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Pour tenir deux histoires dans une toile immense, Rubens la divise en **deux triangles**, dont le plus grand contient Marie.",
-                "Toutes les lignes, des figures de la Victoire à la France, à la Providence et aux nobles, convergent vers la reine.",
-                "Marie est seule à adopter une attitude de repli, mains sur la poitrine et tête baissée, signe d'acceptation.",
-                "Notez la **« liaison organique des formes »** propre à Rubens : aucune rupture entre les figures, qui se superposent sans espace libre, jusqu'à des chiens placés pour combler les vides."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "À gauche, l'apothéose d'Henri IV : le roi rejoint l'assemblée des dieux en haut du tableau, soulevé par Jupiter, reconnaissable à son aigle, et par Saturne, dieu du temps, à sa faucille.",
-                "Au bas du tableau, un serpent percé de flèches symbolise le mal qui a tenté de neutraliser le souverain : Ravaillac, son assassin. Sa bonne gouvernance va continuer grâce à sa veuve.",
-                "À droite, la France, identifiable aux fleurs de lys de sa jupe, s'agenouille pour remettre à Marie l'orbe du pouvoir.",
-                "Minerve, la sagesse, reconnaissable au bouclier orné de la tête de Gorgone, conseille Marie à sa droite ; la Providence divine lui remet un gouvernail.",
-                "En bas à droite, des nobles français la supplient d'accepter."
+                "Tout construit un **écrin** dont la reine est la perle.",
+                "À l'arrière-plan, niche, pilastres, colonnes, baldaquin, marbre et grille forment un réseau de lignes droites, verticales et horizontales.",
+                "En rupture, le corps de la reine se définit par des **courbes et des ovales** : tête, fraise, couronne, bras, silhouette entière jusqu'à la traîne.",
+                "Perles du collier, des bracelets et du pourpoint, manches à crevés, répètent ces rondeurs.",
+                "L'arrière-plan est dominé par le rouge (tentures, draperie), avec du noir et du blanc ; il contraste avec la robe noire semée de fleurs de lys, qui met la reine en valeur."
               ]
             }
           ]
@@ -2361,33 +5210,31 @@ window.PARCOURS = [
         }
       },
       {
-        "oeuvre_id": "cl010062167",
+        "oeuvre_id": "cl010060875",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Van Dyck, le plus jeune assistant de Rubens à dix-neuf ans, formé à Gênes, s'installe à Londres en 1632 parce qu'il ne parvient pas à faire carrière à Anvers dans l'ombre de l'atelier de Rubens.",
-                "Il devient le portraitiste de Charles Ier et de plus de quatre cents aristocrates anglais ; cette toile d'environ 1635 est le fruit de sa période anglaise.",
-                "Van Dyck cite **Titien**, que Charles Ier admirait comme lui : le coude avancé vers le spectateur vient du Portrait de Gerolamo Barbarigo, qui étage les plans.",
-                "La pose du cheval, sabot levé, vient de l'Adoration des mages de Titien.",
-                "Ce modèle influencera Rigaud pour Louis XIV, puis le portrait anglais jusqu'au XIXe siècle, de Gainsborough à Reynolds."
+                "Peintre flamand de la rigueur, Pourbus fascinera Nicolas Poussin par sa construction, à l'opposé du maniérisme.",
+                "Œuvre peinte pour le maître d'hôtel de Saint-Gilles : le dernier repas du Christ."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "La composition est **bipartite** : une partie fermée à droite, où l'arbre remplace les colonnes des portraits de Rubens, et une partie ouverte à gauche sur un paysage.",
-                "Dans le plan intermédiaire se trouvent le cheval, deux valets et le roi, mais seul le monarque se détache sur le fond de la perspective, valets et cheval ayant le bosquet derrière eux."
+                "Composition classique et très rigoureuse : **isocéphalie** stricte, toutes les têtes presque au même niveau.",
+                "Les verticales : bords de la tenture noire et fil central, qui tient la tenture ; le pli passe au milieu du Christ, se confond avec le pli de son vêtement, sépare le pain du vin et mène à son gros orteil, divisant le tableau en deux parties égales.",
+                "Les horizontales : tenture, table, plis de la nappe, bancs, carrelage, grille. Le tout forme une grille de lignes qui structure l'ensemble.",
+                "Le noir et blanc de l'arrière-plan, très sobre, met en valeur les tenues des disciples : rouge, jaune, bleu gris.",
+                "Seule note singulière, le violet du Christ l'identifie fortement.",
+                "Chaque visage est individualisé comme un portrait, très expressif : au Nord, on parle de **troniés**, visages expressifs mais non grimaçants."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Le tableau invente un portrait de souverain en rupture avec les codes : ni à cheval, ni dans un palais, mais en plein air.",
-                "Charles Ier, descendu de cheval, est représenté en **« gentleman farmer »**, gentilhomme campagnard et monarque à la fois.",
-                "Des indices rappellent sa dignité : à gauche, un petit bateau dans le paysage évoque la puissance maritime de l'Angleterre.",
-                "Seul le roi nous regarde : le cheval incline la tête comme en révérence, les valets détournent le regard."
+                "Le jaune est la couleur de la traîtrise, celle de Judas, dont la bourse, prix de sa trahison, est visible au premier plan, dans son dos, pour le spectateur."
               ]
             }
           ]
@@ -2406,87 +5253,32 @@ window.PARCOURS = [
     "duree_estimee": "45-60 min",
     "etapes": [
       {
-        "oeuvre_id": "cl010064339",
+        "oeuvre_id": "cl010064918",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Frans Hals ouvre le parcours : le costume rayé, le thème de la musique, le cadrage à mi-corps, le fond neutre et l'éclairage latéral venu du haut à gauche relèvent du répertoire des **caravagesques d'Utrecht**.",
-                "Hals peint directement sur la toile, sans dessin sous-jacent, ce qui est typique de l'Europe du Nord.",
-                "Cette **touche libre** influencera bien plus tard Fragonard, puis les impressionnistes et Manet ; elle est le point de départ du fil du parcours, avant que les peintres de Delft ne passent à des scènes silencieuses.",
-                "À côté, La Bohémienne reprend la même recette avec un sujet plus audacieux."
+                "Vermeer (1632-1675) est un peintre de **genre** : aux Pays-Bas, il n'y a pas de hiérarchie des genres comme en France, où la peinture d'histoire domine.",
+                "Le motif de la dentellière est récurrent dans la scène de genre néerlandaise : elle symbolise l'avant-dernière étape de la vie d'une femme, après les enfants et avant la mort.",
+                "Vermeer était proche de Leeuwenhoek, l'inventeur du microscope : cette technologie optique (peut-être la chambre noire) a pu l'aider.",
+                "Van Gogh admirait beaucoup ce tableau et en a parlé dans ses lettres."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Hals « désaxe » la figure : le corps bascule d'un côté tandis que la tête se tourne à l'opposé.",
-                "Le regard trace une **oblique** que suivent le bonnet déséquilibré, le sourire et les rayures du vêtement ; elle s'oppose aux lignes de l'instrument et de ses cordes, ce qui dynamise toute la composition.",
-                "Approchez-vous pour voir les touches très épaisses et très larges : mèches de cheveux sur le visage, bonnet et plis du vêtement donnent une impression de mouvement et de vie."
+                "Petit format et **cadrage extrêmement serré** : le spectateur plonge dans la scène.",
+                "Regardez les éléments repoussoirs flous au premier plan (fils, métier, nécessaire de couture) : ils imitent le focus de l'œil humain et poussent le regard vers la figure.",
+                "À l'arrière-plan, des « couleurs sales » font ressortir les couleurs primaires du premier plan, donc la figure.",
+                "La lumière est très claire, à la différence de Rembrandt : école de Delft contre école d'Amsterdam/Hollande."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "Un musicien en buste, un chapeau sur la tête, est un « tronié » (« trogne », « tronche » en français) : une tête d'étude, le plus souvent celle d'un inconnu.",
-                "Le **tronié** permet au peintre de travailler les expressions, la lumière et sa propre manière de peindre, sans obligation de ressemblance."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010060266",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "La Bohémienne reprend les procédés du Bouffon au luth, avec un sujet plus audacieux : le cours y voit la représentation d'une prostituée.",
-                "C'est un **tronié**, visage d'étude qui sert à exercer l'expression, ici porté à la frontière de la scène de genre.",
-                "Le modèle a une postérité : Hogarth s'en inspirera pour sa Marchande de crevettes vers 1740, et Fragonard pour le portrait de l'abbé de Saint-Non, au Louvre également."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Comme chez le joueur de luth, le corps bascule d'un côté et la tête de l'autre ; le jeu des regards crée une **ligne oblique** que renforce le sourire.",
-                "Les cheveux jouent sur le visage pour l'animer.",
-                "Différence nette : l'arrière-plan est davantage travaillé, et la trouée bleue qui rompt le brun du fond dynamise la composition.",
-                "Sur la manche, observez un travail de **couleur pure**, mené très rapidement, pour obtenir des figures très vivantes et très expressives."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Les indices de la prostitution sont précis : Hals a élargi volontairement le corsage de la jeune femme.",
-                "Ses cheveux sont apparents, alors que les femmes respectables portaient toujours un petit bonnet ou un petit chapeau pour se couvrir la chevelure."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010060805",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Pour le cours du 16 décembre, le paysage hollandais est un « paisible jardin fertile » : un territoire où il fait bon vivre, que l'on s'approprie par la peinture, en pleine guerre mais sans la montrer.",
-                "Le **moulin à vent** est un élément nouveau que les peintres néerlandais font devenir « un véritable symbole nationaliste » : métaphore du travail de l'homme qui tire la richesse de son territoire, à l'époque de la création des polders.",
-                "Le tableau est daté des années 1660, ou 1670 selon les spécialistes, la grande maturité de l'artiste ; il fut acquis pour Louis XVI en 1784.",
-                "Le cours cite un autre Ruisdael, Le Moulin de Wijk, au Rijksmuseum, pour rappeler que ces paysages sont souvent recomposés : un paysage qui n'existe pas tel quel, image modifiée mais belle des Pays-Bas, fierté d'une nation."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Les horizons sont abaissés et le **ciel** occupe plus de la moitié, voire les deux tiers de la toile, ce qui donne une grande impression de quiétude.",
-                "Cherchez le ciel immense et le moulin, puis l'effet de lumière qui a donné son titre au tableau.",
-                "Effet de lumière exceptionnel et ampleur panoramique, qui dépassent la simple exigence topographique.",
-                "Le titre, très heureusement trouvé, remonte au tout début du XIXe siècle ; les petites figures, dont des baigneurs, sont parfois attribuées à d'autres mains que celle de Ruisdael."
+                "Exaltation de la **vertu** : une femme qui travaille, c'est un intérieur bien tenu, comme un pays clos bien gouverné.",
+                "La concentration de la jeune femme est l'image de l'ordre domestique et moral."
               ]
             }
           ]
@@ -2499,58 +5291,112 @@ window.PARCOURS = [
             {
               "titre": "Contexte",
               "points": [
-                "La **scène de genre**, qui représente la vie quotidienne, est très répandue aux Pays-Bas, pays à majorité protestante où l'on se méfie de l'image du Christ et des saints.",
-                "Pour montrer la vie vertueuse, on fait des tableaux qui font l'apologie des vertus ou dénoncent les vices.",
-                "Le cours rattache cette lumière naturelle très travaillée à l'influence de Fabritius, et rappelle que voir à travers une porte ou une fenêtre ouverte est très connu dans la théorie de l'art néerlandaise.",
-                "Le cours rapproche cette scène du Soldat et la jeune fille souriant de Vermeer, qui reprendra l'idée en la resserrant."
+                "Peintre baroque du Siècle d'or, De Hooch (1629-1684) pratique la **scène de genre**.",
+                "Le contexte calviniste interdit presque la représentation du Christ et des saints : pour montrer la voie d'une vie juste, ou ses dérives, on se tourne vers la scène de genre."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "De Hooch aligne trois pièces par un jeu d'**enchâssement des perspectives** : une première en pleine lumière, une seconde dans la pénombre, une troisième à nouveau éclairée.",
-                "Le tout est rythmé par des horizontales et des verticales : chaise, chambranles de portes, meuble du fond."
+                "L'**enchâssement des perspectives** joue avec la lumière à travers plusieurs pièces et accentue la profondeur, technique typique de la peinture néerlandaise.",
+                "Regardez l'alignement de lignes verticales et horizontales : la chaise, les portes et le meuble de la dernière pièce."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "La Buveuse, que le cours date de 1658, représente un vice, la **luxure**, et chaque détail doit se déchiffrer.",
-                "Une jeune femme boit du vin en compagnie de deux hommes, alors que les Néerlandaises respectables boivent de la bière ; sa jupe rouge est très voyante, quand les femmes respectables s'habillent de couleurs sobres.",
-                "La vieille femme à l'arrière-plan, qui ne participe pas à l'action, est une entremetteuse.",
-                "Le petit chien endormi, symbole de la fidélité conjugale, est endormi ; au fond figure Mercure, messager de Jupiter quand il voulait séduire les nymphes, et à droite un tableau du Christ et de la femme adultère.",
-                "L'homme au grand chapeau, dans l'ombre, est le plus à blâmer, alors que la femme est dans la lumière."
+                "Une jeune femme de **« petite vertu »**, dont les indices se déchiffrent un à un :",
+                "elle boit du vin, considéré comme « français », alors que les femmes respectables buvaient de la bière (l'eau n'était pas potable) ;",
+                "elle est seule avec deux hommes, ce qui est « louche », d'autant que la femme plus âgée n'intervient pas ;",
+                "sa jupe rouge est voyante, alors que les femmes respectables portaient des couleurs sobres ;",
+                "le chien, symbole de fidélité conjugale, est endormi ;",
+                "à l'arrière-plan, la statue de Mercure, messager de Jupiter, est associée à la séduction ;",
+                "à droite, un tableau représente le Christ et la femme adultère."
               ]
             }
           ]
         }
       },
       {
-        "oeuvre_id": "cl010064918",
+        "oeuvre_id": "cl010060805",
         "note": {
           "sections": [
             {
               "titre": "Contexte",
               "points": [
-                "Un motif très fréquent de la scène de genre néerlandaise, que l'on trouve aussi chez Caspar Netscher, montre la dentellière en pied ; Vermeer la montre à mi-corps.",
-                "Le cours la relie au Houwelick, best-seller de 1625 à Amsterdam, manuel qui enseigne aux femmes à faire durer leur mariage en gérant leur maison, et où la dentellière est l'avant-dernière étape de la vie d'une femme.",
-                "Le cours écarte la **chambre noire**, jamais retrouvée dans l'inventaire de Vermeer, au profit de sa proximité avec Leeuwenhoek, inventeur du microscope : ces perles de couleur pure rendraient l'optique de la lentille."
+                "Le paysage hollandais vise à montrer que le territoire néerlandais est un lieu où il fait bon vivre.",
+                "Le **moulin** est un symbole nationaliste forgé par les peintres néerlandais : métaphore du travail de l'homme qui s'approprie la nature et tire la richesse de son territoire.",
+                "Daté des années 1660 ou 1670, le tableau est acquis pour Louis XVI en 1784.",
+                "Ces paysages sont souvent recomposés : image modifiée, mais belle, des Pays-Bas, fierté d'une nation."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Le tableau est minuscule, de la taille d'un cahier petit format (23,9 x 20,5 cm), et pourtant la jeune femme occupe presque les trois quarts de la composition : c'est « l'idée clé » de Vermeer, **resserrer le cadrage**.",
-                "Vermeer nous rapproche de la figure, puis nous repousse en plaçant au premier plan le métier à tisser, la table et le nécessaire de couture.",
-                "Ces éléments, qui devraient être nets car proches, sont flous (les fils paraissent liquides) ; le détail se précise vers la jeune femme, et notre oeil, qui déteste le flou, l'ignore et va la chercher.",
-                "La lumière sculpte les doigts et la paupière par alternance de taches claires et foncées.",
-                "Le fond de « couleurs sales » (beige, café au lait, blanc cassé) fait ressortir les trois couleurs vives, le jaune, le bleu et le rouge."
+                "Le **ciel** occupe les deux tiers de la composition, ce qui donne une impression de quiétude et de perspective infinie.",
+                "Cherchez le ciel immense, le moulin, puis l'effet de lumière qui a donné son titre au tableau.",
+                "Les petites figures, dont des baigneurs, sont parfois attribuées à d'autres mains que celle de Ruisdael."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060266",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Frans Hals est un maître du portrait, de l'expressivité et de la spontanéité ; il innove dans le genre des **tronies**.",
+                "Le **tronié** est une étude de visage, souvent d'un inconnu, qui sert d'exercice pour travailler l'expressivité ou la lumière.",
+                "Il travaille la lumière, le mouvement et la composition asymétrique.",
+                "L'influence des **caravagesques d'Utrecht** se lit dans le cadrage à mi-corps, le fond neutre, l'éclairage latéral, le vêtement à rayures et le thème du musicien.",
+                "Mais Hals désaxe sa figure, ce qui lui donne une approche propre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez la touche très épaisse des cheveux, qui donne un effet de mouvement.",
+                "Cette manière inspirera les impressionnistes et des peintres comme Fragonard."
               ]
             },
             {
               "titre": "Sujet",
               "points": [
-                "La dentellière symbolise la femme qui travaille avec concentration à bien tenir son intérieur, comme les gouvernants doivent bien tenir les Pays-Bas."
+                "La Bohémienne est un portrait d'expression plus que d'identité, étude de visage où la figure est désaxée."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064339",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Frans Hals est un maître du portrait, de l'expressivité et de la spontanéité ; il innove dans le genre des **tronies**.",
+                "Le **tronié** est une étude de visage, souvent d'un inconnu, qui sert d'exercice pour travailler l'expressivité ou la lumière.",
+                "Il travaille la lumière, le mouvement et la composition asymétrique.",
+                "L'influence des **caravagesques d'Utrecht** se lit dans le cadrage à mi-corps, le fond neutre, l'éclairage latéral, le vêtement à rayures et le thème du musicien.",
+                "Mais Hals désaxe sa figure, ce qui lui donne une approche propre."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "La figure est désaxée : le corps et la tête ne regardent pas dans la même direction, ce qui crée du mouvement.",
+                "Regardez la touche très épaisse des cheveux, qui donne un effet de mouvement.",
+                "Cette manière inspirera les impressionnistes et des peintres de son époque, comme Fragonard."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un musicien en buste est un thème typique des tronies : l'important est l'expression plutôt que la ressemblance."
               ]
             }
           ]
@@ -2686,6 +5532,108 @@ window.PARCOURS = [
         }
       },
       {
+        "oeuvre_id": "cl010059199",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Exposé au Salon de 1819 sous le titre de **Scène de naufrage**, pour pouvoir entrer au Salon : Géricault ne critique pas ouvertement la Restauration. Le tableau dénonce le système politique qui a rendu possible cette hécatombe, sans attaque antimonarchiste ou libérale : la peinture d'histoire fait un **constat**.",
+                "En juillet 1816, la frégate royale la Méduse, en route pour coloniser le Sénégal, s'échoue au large du cap Blanc. Un vaste radeau est construit avec les mâts : 150 hommes s'y entassent pendant dix jours, 20 sont emportés par la mer, les autres s'entretuent, avec cannibalisme.",
+                "Deux survivants racontent l'histoire : Louis XVIII ne peut la nier. Géricault s'en empare pour susciter l'émotion, sous l'esthétique du **sublime**, « l'horreur délicieuse ».",
+                "Il se documente auprès des survivants et d'infirmiers de l'hôpital Beaujon, voisins de son atelier, qui lui fournissent cadavres et membres.",
+                "En 1819, le tableau ne laisse pas indifférent : attrait ou répulsion. Présenté en Angleterre, il y est très bien reçu ; Géricault s'y intéresse aux vaincus et aux oubliés (paralysés, vieillards pauvres).",
+                "La lithographie et la gravure assurent une diffusion bien plus large, essentielle au romantisme."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **491 x 716 cm** : une lecture inspirée de David, avec frise antique, lisibilité et composition en trois parties, mais organisée en **pyramide** vers le haut, pour une survie qui ne mène pas à la gloire.",
+                "Géricault a vu en Italie, en 1816, les sculptures de Michel-Ange : corps contorsionnés, **beauté dans la violence**. Les cadavres au premier plan rappellent l'étude de l'antique et du nu académique.",
+                "Regardez au fond, à l'horizon, l'**Argus** minuscule qui va sauver les naufragés : horreur, mais « délicieuse ».",
+                "Les dessins préparatoires (*Mutinerie*, *Scène de cannibalisme*) sont beaucoup plus peuplés.",
+                "Comparez avec Friedrich, au même moment : *La Mer de glace* (1823-1824) montre la ruine et les débris de bois, mais l'homme a disparu, puisque le spectateur est sur le radeau. Deux visions opposées, toutes deux de la peinture d'histoire."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Le tableau montre la **lutte pour la survie**, de la mort au premier plan à l'espoir lointain.",
+                "Regardez le personnage pensif au voile rouge : il incarne le doute et le désarroi, déjà vus chez Gros : que s'est-il passé, l'a-t-il tué ? Violence, passion.",
+                "Un personnage pourrait être un portrait de Delacroix, ami de Géricault.",
+                "Ses « fragments » s'intéressent à l'homme dans ses **accidents**, pas à une vertu ni à un concept idéal : il observe aussi l'Angleterre et les scènes de genre de David Wilkie."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010059198",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Première œuvre de Géricault, exposée au Salon de 1812 avec une bonne critique. Il se forme en copiant au Louvre, mais ne s'entend pas du tout avec Vivant Denon, qui le met à la porte : le rebelle.",
+                "Il tente de **réformer la peinture d'histoire** à la suite de David et de ses élèves, en s'intéressant au revers de la Grande Armée : il est le peintre de la **défaite**, des vaincus, des mourants. L'anti-héros est son favori.",
+                "Il s'inspire d'Antoine-Jean Gros mais se tient aux antipodes de la propagande napoléonienne.",
+                "Pour Henri Zerner, le chasseur « n'appartient à aucune catégorie de peinture » : subjectivité du portrait, anonymat, spontanéité de la scène de genre et **format imposant du portrait équestre**.",
+                "En France règne la **hiérarchie des genres** ; Géricault la subvertit en brouillant les genres de l'académie. Les peintres romantiques ne se disent pas romantiques : ils veulent être classiques, maîtres parmi les maîtres, et attaquent tous les genres pour faire un tableau d'histoire."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Format monumental, près de 3,5 m de haut. Le romantisme, c'est le **mouvement** de la scène suggéré par la touche : pas de fini néoclassique, une touche rapide.",
+                "Regardez le paysage sombre, dangereux, presque apocalyptique, avec le feu : on ne sait pas ce qui s'y passe.",
+                "L'anatomie du cheval peut être critiquée, mais les proportions sont en fait très bien calibrées."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Géricault représente son ami Alexandre Dieudonné, chasseur de la Garde impériale, homme de rang à la carrière lente sous la Révolution et l'Empire : non l'idéal, mais face à ses **accidents**. Il est sur son cheval en plein combat : « tombera, tombera pas ».",
+                "Ce n'est pas la victoire mais la chute du sol : un portrait équestre d'anonyme, élevé au rang d'héros, et surtout une lutte désespérée pour la survie.",
+                "Regardez son regard perdu, tandis qu'il tient les brides : les **fragments** d'individu, de violence et de souffrance sont le vrai sujet. Le drame personnel remplace l'héroïsme traditionnel et met en avant le déclin de la bravoure."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010066486",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Dernier grand tableau de bataille de l'Empire par Gros, exécuté en 1808. **Commande de l'État**, passée par Vivant Denon, à l'issue d'un concours : Gros l'emporte en montrant les désastres et les souffrances de la vie humaine, 9 000 morts français à Eylau, par environ -20 °C.",
+                "La presse s'empare du sujet malgré la censure, comme pour les Pestiférés : le 64e bulletin de la Grande Armée (février 1807) parle d'un « spectacle horrible » que « le devoir rendait nécessaire ».",
+                "Un sacrifice collectif à la gloire d'un homme exceptionnel : l'empereur, comme César et Alexandre avant lui. Le **sujet moderne** prend le pas sur l'histoire antique, valorise l'effort de guerre, dans un format monumental.",
+                "Gros se suicide en 1835, ne s'accommodant pas de la peinture romantique."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Huile sur toile de **521 x 734 cm**. Napoléon est au centre, tel une statue équestre sur son cheval lumineux, dans un geste à la fois christique et absolutiste.",
+                "Regardez le paysage de neige, très loin de l'Orient, les morts, les blessés, sans doute amputés ou en train de l'être.",
+                "Au centre, un soldat implore et remercie le chef d'être parmi eux ; un autre, en danger, allongé, est peut-être piétiné. Murat figure parmi les généraux.",
+                "À l'arrière-plan, l'armée française et la ville d'Eylau dans le chaos et les fumées : un paysage brossé, pourtant loin de la subjectivité romantique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Napoléon vient sur le champ de bataille, mais « il n'y pouvait rien » : il est déjà trop tard, ces hommes sont morts pour la patrie et le devoir.",
+                "Chez David, c'est l'**unité d'action** ; ici, c'est le **fragment romantique** : on représente l'individu dans ses souffrances plus que l'*exemplum virtutis*, la valeur morale. Cette vision nouvelle de la peinture d'histoire sera admirée par Géricault et Delacroix."
+              ]
+            }
+          ]
+        }
+      },
+      {
         "oeuvre_id": "cl010065426",
         "note": {
           "sections": [
@@ -2713,103 +5661,6 @@ window.PARCOURS = [
                 "Au centre, **Hersilie** interrompt le combat entre son mari Romulus, au bouclier orné d'une louve, et son père Tatius, roi des Sabins.",
                 "Pour la première fois, David met les femmes au premier plan et au centre de l'épisode historique, avec une iconographie de la charité.",
                 "Regardez la femme en rouge, bras levés, bouche ouverte : incarnation de la **Terreur** contenue devant l'innocence et la paix d'Hersilie."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010066486",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Dernier grand tableau de bataille de l'Empire par Gros, élève de David dont il reprend l'atelier. C'est une **commande de l'État**, passée par Vivant Denon, à l'issue d'un concours.",
-                "Gros l'emporte parce qu'il montre les désastres et les souffrances de la vie humaine : 9 000 morts français à Eylau, par environ -20 °C.",
-                "La presse s'empare du sujet malgré la censure : le bulletin de la Grande Armée parle d'un « spectacle horrible » que « le devoir rendait nécessaire ».",
-                "Le sujet moderne prend le pas sur l'histoire antique et valorise l'effort de guerre. À la chute de l'Empire, Gros se suicide en 1835, ne s'accommodant pas de la peinture romantique."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Huile sur toile de **521 x 734 cm**. Napoléon est au centre, tel une statue équestre, sur son cheval lumineux, dans un geste à la fois christique et absolutiste.",
-                "Regardez le paysage de neige, les armes, les morts et les blessés, sans doute amputés ou en train de l'être.",
-                "À l'arrière-plan, l'armée française et la ville d'Eylau dans le chaos et les fumées : un paysage brossé qui fait son entrée dans la grande peinture d'histoire."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Napoléon vient sur le champ de bataille, mais « il n'y pouvait rien » : il est déjà trop tard, ces hommes sont morts pour la patrie et le devoir.",
-                "Au centre, un soldat implore et remercie le chef ; un autre, allongé, est peut-être piétiné. Murat figure parmi les généraux.",
-                "C'est le **fragment romantique** : on représente l'individu dans ses souffrances plus que la valeur morale, ce que Géricault et Delacroix admireront.",
-                "Pour les Pestiférés de Jaffa, voir le premier parcours."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010059198",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Première œuvre de Géricault, exposée au Salon de 1812 avec une bonne critique. Formé en copiant au Louvre, il ne s'entend pas avec Vivant Denon.",
-                "Géricault réforme la peinture d'histoire en s'intéressant au **revers de la Grande Armée** : peintre de la défaite et des vaincus, inspiré de Gros mais aux antipodes de la propagande.",
-                "Pour Henri Zerner, le chasseur « n'appartient à aucune catégorie de peinture » : il combine portrait, anonymat, scène de genre et **format du portrait équestre**."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Huile sur toile de **349 x 296 cm**. Le romantisme, c'est le mouvement de la scène suggéré par la **touche** : pas de fini néoclassique, une touche rapide.",
-                "Regardez le paysage sombre, dangereux, presque apocalyptique, avec le feu : on ne sait pas ce qui s'y passe.",
-                "L'anatomie du cheval peut être critiquée, mais sur 2,96 m les proportions sont en fait très bien calibrées."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Géricault représente son ami Alexandre Dieudonné, chasseur de la Garde impériale, homme de rang à la carrière lente, en plein combat : « tombera, tombera pas ».",
-                "Ce n'est pas la victoire mais la chute : un portrait équestre d'un anonyme, **anti-héros**, dans une lutte désespérée pour la survie.",
-                "Regardez son regard perdu, tandis qu'il tient les brides de son cheval : le drame personnel remplace l'héroïsme traditionnel."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010059199",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Exposé au Salon de 1819 sous le titre de **Scène de naufrage**, pour ne pas critiquer ouvertement la Restauration : le tableau fait un constat, sans attaque antimonarchiste ou libérale.",
-                "En juillet 1816, la frégate royale la Méduse, en route pour coloniser le Sénégal, s'échoue. Sur le radeau, 150 hommes s'entassent dix jours : 20 sont emportés, les autres s'entretuent, avec cannibalisme.",
-                "Deux survivants racontent l'histoire, Louis XVIII ne peut la nier. Géricault se documente, travaille d'après des cadavres et fragments fournis par des infirmiers de l'hôpital Beaujon.",
-                "Présenté en Angleterre, le tableau y est très bien reçu. À Paris, en 1819, il suscite attrait ou répulsion."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Huile sur toile de **491 x 716 cm** : une frise à la David, lisible, mais en **pyramide** vers le haut, symbole d'une survie qui ne mène pas à la gloire.",
-                "Esthétique du sublime, « l'horreur délicieuse » : corps contorsionnés hérités de Michel-Ange, vu en Italie en 1816, et beauté dans la violence.",
-                "Regardez les cadavres au premier plan, puis l'Argus minuscule à l'horizon : l'espoir est tout au fond.",
-                "Les dessins préparatoires, la Mutinerie ou la Scène de cannibalisme, sont beaucoup plus peuplés."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Le tableau montre la lutte pour la survie. Regardez le personnage pensif au voile rouge : il incarne le doute, déjà vu chez Gros, et la violence.",
-                "Un personnage pourrait être un portrait de Delacroix, ami de Géricault.",
-                "Les « fragments » s'intéressent à l'homme et à ses accidents, pas à une vertu ou à un concept idéal."
               ]
             }
           ]
@@ -2966,14 +5817,14 @@ window.PARCOURS = [
               "points": [
                 "Ingres a fait une grande carrière en Italie, avec deux maîtres, **Raphaël** et Masaccio ; la composition s'inspire du Parnasse de Raphaël.",
                 "Commandée pour un plafond du musée Charles X, au Louvre, l'œuvre est exposée au Salon de 1827 ; Baudelaire la juge « un beau tableau qui plafonne mal ».",
-                "Le Salon de 1827 oppose les deux écoles, ou plutôt la critique les fait s'affronter : une quarantaine d'individus d'Ingres face au Sardanapale.",
+                "Le Salon de 1827 oppose les deux écoles, ou plutôt la critique les fait s'affronter : une quarantaine d'individus d'Ingres face au Sardanapale de Delacroix.",
                 "Hugo, dans la préface de *Cromwell*, distingue trois âges de la poésie : l'ode, l'épopée, le drame ; en 1827, on étudie le drame."
               ]
             },
             {
               "titre": "Composition",
               "points": [
-                "Huile sur toile de 386 x 512 cm. Le dessin est présent, avec l'importance de la forme  : on dit que chez Delacroix il y a du dessin et chez Ingres de la couleur.",
+                "Huile sur toile de 386 x 512 cm. Le dessin est présent, avec l'importance de la forme : on dit que chez Delacroix il y a du dessin et chez Ingres de la couleur.",
                 "Regardez Homère assis devant un temple, couronné par la **Victoire**, et l'Iliade et l'Odyssée à ses pieds.",
                 "Repérez Virgile à la collerette blanche tenant la main d'Apelle en bleu, Eschyle au rouleau ouvert, Dante en rouge à gauche, Shakespeare et Poussin en bas.",
                 "À droite, Pindare avec son instrument, Phidias, Périclès, Platon, le roi Alexandre au casque doré, et Molière en bas."
