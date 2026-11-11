@@ -28,6 +28,7 @@ jobs:
           mkdir -p public
           cp -r app public/app
           cp -r data public/data
+          cp -r images public/images
           printf '<!DOCTYPE html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=app/index.html">' > public/index.html
 
       - uses: actions/configure-pages@v5
