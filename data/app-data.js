@@ -75,18 +75,6 @@ window.OEUVRES = [
     "notice_url": "https://collections.louvre.fr/ark:/53355/cl010065872"
   },
   {
-    "id": "cl010277627",
-    "musee_id": "louvre",
-    "titre": "Vénus de Milo",
-    "artiste": "Anonyme (art grec hellénistique)",
-    "dates": "vers 150-125 av. J.-C.",
-    "salle": "Salle 345",
-    "aile": "Aile Sully",
-    "niveau": "Niveau 0",
-    "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000277627/0000625031_OG.JPG",
-    "notice_url": "https://collections.louvre.fr/ark:/53355/cl010277627"
-  },
-  {
     "id": "cl010062516",
     "musee_id": "louvre",
     "titre": "Écho et Narcisse",
@@ -2989,199 +2977,15 @@ window.PARCOURS = [
     ]
   },
   {
-    "id": "richelieu_1606-1720_ecole-du-nord",
     "musee_id": "louvre",
-    "illustration": "cl010064918",
-    "titre": "[Louvre] [Aile Richelieu] [1606-1720] L'école du Nord : de Vermeer à Rubens",
     "date_creation": "2026-11-10",
-    "cours_source": "Parcours personnel : l'école du Nord, aile Richelieu (salles 836 à 855)",
-    "fil_conducteur": "Des Provinces-Unies aux Flandres : scènes de genre et symbolique chez Vermeer, De Hooch et Mieris, paysage de Ruisdael, Rembrandt et Hals, puis Rubens, Van Dyck et Jordaens, jusqu'à Marie de Médicis et Pourbus.",
-    "duree_estimee": "1h30",
+    "id": "richelieu_1606-1640_pourbus-hals-rubens-van-dyck",
+    "illustration": "cl010060839",
+    "titre": "[Louvre] [Aile Richelieu] [1606-1640] Pourbus, Hals, Rubens, Van Dyck et Jordaens",
+    "cours_source": "Parcours personnel : l'école du Nord, aile Richelieu (1/2) ; Histoire générale de l'art 3 (XVIIe siècle), séances 12 et 13",
+    "fil_conducteur": "Des Provinces-Unies aux Flandres : le portrait vivant de Frans Hals, puis Rubens, Van Dyck et Jordaens à Anvers, jusqu'à Marie de Médicis et Pourbus à la cour de France.",
+    "duree_estimee": "1h",
     "etapes": [
-      {
-        "oeuvre_id": "cl010064918",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Vermeer (1632-1675) est un peintre de **genre** : aux Pays-Bas, il n'y a pas de hiérarchie des genres comme en France, où la peinture d'histoire domine.",
-                "Le motif de la dentellière est récurrent dans la scène de genre néerlandaise : elle symbolise l'avant-dernière étape de la vie d'une femme, après les enfants et avant la mort.",
-                "Vermeer était proche de Leeuwenhoek, l'inventeur du microscope : cette technologie optique (peut-être la chambre noire) a pu l'aider.",
-                "Van Gogh admirait beaucoup ce tableau et en a parlé dans ses lettres."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Petit format et **cadrage extrêmement serré** : le spectateur plonge dans la scène.",
-                "Regardez les éléments repoussoirs flous au premier plan (fils, métier, nécessaire de couture) : ils imitent le focus de l'œil humain et poussent le regard vers la figure.",
-                "À l'arrière-plan, des « couleurs sales » font ressortir les couleurs primaires du premier plan, donc la figure.",
-                "La lumière est très claire, à la différence de Rembrandt : école de Delft contre école d'Amsterdam/Hollande."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Exaltation de la **vertu** : une femme qui travaille, c'est un intérieur bien tenu, comme un pays clos bien gouverné.",
-                "La concentration de la jeune femme est l'image de l'ordre domestique et moral."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010063553",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Peintre baroque du Siècle d'or, De Hooch (1629-1684) pratique la **scène de genre**.",
-                "Le contexte calviniste interdit presque la représentation du Christ et des saints : pour montrer la voie d'une vie juste, ou ses dérives, on se tourne vers la scène de genre."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "L'**enchâssement des perspectives** joue avec la lumière à travers plusieurs pièces et accentue la profondeur, technique typique de la peinture néerlandaise.",
-                "Regardez l'alignement de lignes verticales et horizontales : la chaise, les portes et le meuble de la dernière pièce."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Une jeune femme de **« petite vertu »**, dont les indices se déchiffrent un à un :",
-                "elle boit du vin, considéré comme « français », alors que les femmes respectables buvaient de la bière (l'eau n'était pas potable) ;",
-                "elle est seule avec deux hommes, ce qui est « louche », d'autant que la femme plus âgée n'intervient pas ;",
-                "sa jupe rouge est voyante, alors que les femmes respectables portaient des couleurs sobres ;",
-                "le chien, symbole de fidélité conjugale, est endormi ;",
-                "à l'arrière-plan, la statue de Mercure, messager de Jupiter, est associée à la séduction ;",
-                "à droite, un tableau représente le Christ et la femme adultère."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010060805",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Le paysage hollandais vise à montrer que le territoire néerlandais est un lieu où il fait bon vivre.",
-                "Le **moulin** est un symbole nationaliste forgé par les peintres néerlandais : métaphore du travail de l'homme qui s'approprie la nature et tire la richesse de son territoire.",
-                "Daté des années 1660 ou 1670, le tableau est acquis pour Louis XVI en 1784.",
-                "Ces paysages sont souvent recomposés : image modifiée, mais belle, des Pays-Bas, fierté d'une nation."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Le **ciel** occupe les deux tiers de la composition, ce qui donne une impression de quiétude et de perspective infinie.",
-                "Cherchez le ciel immense, le moulin, puis l'effet de lumière qui a donné son titre au tableau.",
-                "Les petites figures, dont des baigneurs, sont parfois attribuées à d'autres mains que celle de Ruisdael."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010062584",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Les Bulles de savon (1663) est une **vanité**, un memento mori : crânes, sabliers, bougies consumées, livres ou bulles de savon rappellent la précarité de l'existence et la futilité des richesses et du savoir.",
-                "La bulle de savon renvoie à un adage d'Érasme : l'homme est aussi fragile qu'une bulle. Elle se trouvait déjà dans l'estampe Quis evadet ? de Goltzius (1594, « qui lui échappera ? ») et dans la Vanité de Jacob de Gheyn II (1603), au-dessus du crâne.",
-                "Elle oppose l'**apparence** et l'être : la bulle n'a pas de réalité propre. Pour la pensée chrétienne, l'homme est une créature qui n'a pas son être en lui-même.",
-                "Mieris s'écarte de l'iconographie funeste : l'enfant qui souffle des bulles évoque une **enfance** aussi fragile qu'une bulle, et qui passe vite.",
-                "Ce motif fera florès : Chardin (1733-1734), puis Manet s'en inspireront."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Un jeune garçon fait des bulles de savon, avec un bouquet de fleurs : la scène est légère, mais le message reste celui de la brièveté de la vie.",
-                "Observez la bulle fragile et la figure qui la souffle."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010062008",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Au début du capitalisme, la Hollande possède beaucoup de colonies.",
-                "Le paysage montre le **Brésil**, colonie alors très prospère.",
-                "Aux Pays-Bas, le paysage cherche à montrer un territoire où il fait bon vivre ; ici, l'image de la prospérité s'étend jusqu'aux colonies.",
-                "À rapprocher d'un tableau de Rembrandt représentant le fils d'un détenteur de colonie : la richesse coloniale nourrit aussi la commande.",
-                "Regardez la prospérité du Brésil telle que la Hollande veut la voir."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010062020",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Rembrandt (1606-1679), peintre des Pays-Bas du Nord, explore les émotions humaines et maîtrise la lumière.",
-                "Il produit énormément, mais connaîtra beaucoup de drames personnels.",
-                "L'autoportrait est un moyen pratique et économique d'étudier à l'infini les expressions humaines.",
-                "Le **fond neutre** renvoie au portrait de Castiglione de Raphaël : Rembrandt s'inspire de Raphaël et de Titien, que l'on appelle par leur prénom, d'où sa signature au prénom seul."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Regardez le traité du **clair-obscur**.",
-                "La couleur est traitée par enduits dilués, sauf la chaîne en or, traitée par empâtements."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "La **chaîne en or** est un objet associé aux philosophes : elle pose la question de la place de l'artiste, alors membre de corporations et sans véritable statut ; on ne commence à lui en donner un qu'après la Renaissance.",
-                "Rembrandt se représente d'abord en noble ; à 54 ans, il se montre en peintre, en train de peindre."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010060453",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Le **mythe** : le roi David voit Bethsabée se baigner et demande à avoir accès à elle.",
-                "Elle vient de recevoir la lettre du roi David qui lui ordonne de le rejoindre.",
-                "**Rembrandt** (1606-1669) n'est pas allé en Italie, mais il est très influencé par le **caravagisme néerlandais** (Honthorst) : d'où sa maîtrise des effets de lumière.",
-                "Ce qui le fascine, ce sont les **émotions humaines**, toujours rendues avec une grande douceur ; il multiplie les autoportraits pour travailler les expressions.",
-                "Il se réapproprie des sources variées (Renaissance, caravagesques, peintres italiens) pour en faire une œuvre très personnelle."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Bethsabée est d'ordinaire représentée en séductrice ; ici, pas du tout : elle apparaît comme une **victime** qui connaît son sort, ce qui renouvelle le sujet par l'émotion et l'intériorité.",
-                "Regardez son attitude et la lettre qu'elle tient : tout le drame est dans ce qu'elle sait déjà."
-              ]
-            }
-          ]
-        }
-      },
       {
         "oeuvre_id": "cl010060266",
         "note": {
@@ -3538,6 +3342,29 @@ window.PARCOURS = [
               "points": [
                 "Une femme du peuple coiffée du **bonnet phrygien**, incarnation de la Liberté, mène un groupe hétéroclite par-dessus une barricade.",
                 "Elle tient le drapeau tricolore dans une main et un fusil à baïonnette dans l'autre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065870",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Présentée au Salon de 1824, toile de plus de quatre mètres de haut.",
+                "Delacroix est pleinement romantique, mais rattaché à une « filière orientaliste » tournée vers la Méditerranée : son inspiration et sa charge dramatique viennent d'un « ailleurs » géographique et culturel.",
+                "L'œuvre s'inscrit dans l'**internationalisation des regards artistiques** au XIXe siècle, alors que les expositions universelles mettent en contact des cultures visuelles éloignées.",
+                "Face au Bonaparte de Gros, vingt ans plus tôt, elle mesure le chemin parcouru entre un romantisme timide, contenu par l'héritage néoclassique, et une peinture pleinement assumée dans son engagement dramatique et politique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des familles grecques attendent la mort ou l'esclavage lors des massacres de la guerre d'indépendance grecque, sur l'île de Scio.",
+                "Un sujet d'actualité politique, traité avec une intensité émotionnelle et chromatique typiquement **romantique**."
               ]
             }
           ]
@@ -4062,146 +3889,6 @@ window.PARCOURS = [
               "points": [
                 "Marat est mort dans sa baignoire, une lettre à la main, la plume encore à portée.",
                 "Le tableau fait du mort un martyr de la cause révolutionnaire plutôt qu'un simple fait divers."
-              ]
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": "denon_1804-1830_romantisme-contre-neoclassicisme",
-    "musee_id": "louvre",
-    "illustration": "cl010065872",
-    "titre": "[Louvre] [Aile Denon] [1804-1830] Romantisme contre néoclassicisme",
-    "date_creation": "2026-09-24",
-    "cours_source": "Introduction générale — Anne-Sophie Godot, École du Louvre, 1er septembre 2025",
-    "fil_conducteur": "La naissance du romantisme français face au néoclassicisme (1804-1830), de Gros à Delacroix, avec la Vénus de Milo comme écho antique à cette tension entre référence et rupture.",
-    "duree_estimee": "45-60 min",
-    "etapes": [
-      {
-        "oeuvre_id": "cl010065872",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Peinte à l'automne 1830 et exposée au Salon de 1831, elle commémore les **Trois Glorieuses** de juillet 1830.",
-                "Paradoxe : Delacroix, déjà installé comme artiste (« trop âgé » pour être un jeune insurgé), montre la Révolution « d'une autre manière » que ses prédécesseurs, par une allégorie intemporelle plutôt qu'un épisode daté et localisé.",
-                "L'image est devenue LA représentation de la Révolution dans l'imaginaire collectif, « trop rarement associée » à son contexte, le début de la monarchie de Juillet, plutôt qu'à 1789.",
-                "Sa persistance se voit dans la reprise par Martin Argyroglo pour son œuvre Nation, en une de L'Obs le 14 janvier 2015.",
-                "Une œuvre née d'un moment politique précis peut se détacher de son contexte et devenir une **image collective** réactivée à chaque crise, comme le sera la Vénus de Milo."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Une femme du peuple coiffée du **bonnet phrygien**, incarnation de la Liberté, mène un groupe hétéroclite par-dessus une barricade.",
-                "Elle tient le drapeau tricolore dans une main et un fusil à baïonnette dans l'autre."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010062570",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Immense toile (plus de cinq mètres de haut), exposée au Salon de 1804. Commande de l'État pour **réhabiliter la campagne d'Égypte** dans l'opinion publique.",
-                "Gros, élève de David dont il reprendra l'atelier, devient la tête de l'entreprise qui transforme la peinture monumentale en **propagande officielle**. Après la Révolution, Vivant Denon organise le Salon et impose le retour à la grande peinture d'histoire : Gros l'emporte, avec une scène d'histoire contemporaine sans référence antique, très bien reçue.",
-                "La campagne : Bonaparte, en Syrie, combat l'Empire ottoman et prend Jaffa en 1799. C'est un échec : environ 2 000 morts turcs, les survivants se réfugient dans la citadelle, visible au fond sous un drapeau français.",
-                "La peste frappe environ 1 500 soldats français sur 13 000 ; Bonaparte est accusé de les avoir sacrifiés. Des survivants en parlent aux Anglais, qui diffusent l'affaire. Bonaparte ne peut pas nier : il revient sur l'importance de la campagne d'Égypte et de la diffusion de l'empire en Orient, et s'approprie l'opinion.",
-                "Gros se suicide en 1835, ne parvenant pas à s'accommoder de la nouvelle peinture d'histoire romantique."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "**Bonaparte au centre**, dans une frise antique ; son geste vient de l'*Apollon du Belvédère*, avec un effet christique, celui du Christ soignant les malades.",
-                "**Orientalisme** : de la campagne d'Égypte (1799) à la colonisation de l'Algérie, tout est nouveau, lumière, costumes, civilisation. L'Orient entre comme sujet de la peinture d'histoire.",
-                "Regardez les mourants et les cadavres : on est accueilli par la mort. À droite, un médecin mourant, un autre soigne un malade : un hôpital de fortune construit par l'armée française.",
-                "Le personnage en proie au doute, à gauche, peut venir de l'iconographie d'Ugolin chez Dante, qui s'offre à ses enfants enfermés avec lui à Pise. Le sang n'est pas représenté, mais les corps n'en sont pas moins cruels. On retrouvera ce personnage du doute dans le *Radeau de la Méduse*."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Gros traite un épisode peu glorieux de l'Empire mais en fait un **grand tableau d'histoire** : le méchant n'est pas Bonaparte, qui n'y pouvait rien, c'est la **peste**.",
-                "Ces hommes sont morts pour l'effort de guerre et pour la patrie. Le thème, repris par Géricault et Delacroix, servira à montrer les horreurs de la guerre.",
-                "Propagande, effets du sublime, morts : tout vise à favoriser le sentiment."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010065870",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Présentée au Salon de 1824, toile de plus de quatre mètres de haut.",
-                "Delacroix est pleinement romantique, mais rattaché à une « filière orientaliste » tournée vers la Méditerranée : son inspiration et sa charge dramatique viennent d'un « ailleurs » géographique et culturel.",
-                "L'œuvre s'inscrit dans l'**internationalisation des regards artistiques** au XIXe siècle, alors que les expositions universelles mettent en contact des cultures visuelles éloignées.",
-                "Face au Bonaparte de Gros, vingt ans plus tôt, elle mesure le chemin parcouru entre un romantisme timide, contenu par l'héritage néoclassique, et une peinture pleinement assumée dans son engagement dramatique et politique."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Des familles grecques attendent la mort ou l'esclavage lors des massacres de la guerre d'indépendance grecque, sur l'île de Scio.",
-                "Un sujet d'actualité politique, traité avec une intensité émotionnelle et chromatique typiquement **romantique**."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010064830",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Toile peinte entre 1800 et 1825, présentée aux Salons de 1806 et de 1814.",
-                "Girodet, élève de David comme Gros, illustre à lui seul la **porosité des frontières stylistiques** du début du XIXe siècle : héritage néoclassique et sensibilité romantique naissante se mêlent. Les définitions des styles sont complexes.",
-                "Cette hésitation, cet entre-deux, montre le romantisme se dégageant, encore retenu, du modèle néoclassique dominant."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Toile de plus de quatre mètres de haut, sous un ciel d'orage zébré d'éclairs, dans un paysage rocheux balayé par la crue.",
-                "Une véritable œuvre romantique : personnages dans des teintes sombres, couleurs **juxtaposées** plutôt que fondues, mouvement général porteur d'une tension dramatique.",
-                "À observer : le personnage central garde les caractères du **néoclassicisme**, avec une pose maîtrisée, une anatomie idéalisée et un calme presque sculptural au milieu du chaos."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Des personnages agrippés à un arbre face à la crue : une scène de déluge."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010277627",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Statue hellénistique (vers 150-125 av. J.-C.) retrouvée en avril 1820 sur l'île de Milo, incomplète : il manque le bras gauche, une grande partie du bras droit et le pied gauche.",
-                "Sa découverte est quasi contemporaine du Bonaparte de Gros et de la Scène de déluge de Girodet.",
-                "Cas d'école de la manière dont une même référence antique est utilisée de façons opposées : au XIXe siècle, les sculpteurs s'appuient sur elle pour retrouver « la force de l'antique », avec révérence envers le modèle grec.",
-                "Au XXe siècle, les artistes la **détournent** : la Vénus de Milo aux tiroirs de Salvador Dalí (Art Institute de Chicago), la version d'Arman (1992, rue Jacques Callot), l'Eroded Venus de Daniel Arsham (2000).",
-                "Formule du cours : « dans un cas référence et dans le second bouleversement ».",
-                "En clôture, elle invite au recul : le XIXe siècle romantique et néoclassique n'a cessé de dialoguer avec l'**Antiquité**, tantôt en s'y référant, tantôt en s'en émancipant, dialogue que le XXe siècle poursuit par la rupture."
               ]
             }
           ]
@@ -5243,14 +4930,14 @@ window.PARCOURS = [
     ]
   },
   {
-    "id": "richelieu_1620-1670_lumieres-du-nord",
     "musee_id": "louvre",
-    "illustration": "cl010063553",
-    "titre": "[Louvre] [Aile Richelieu] [1620-1670] Lumières du Nord : Hals, Ruisdael, De Hooch, Vermeer",
-    "date_creation": "2026-11-03",
-    "cours_source": "Histoire générale de l'art 3 (XVIIe siècle), séance 13 « Lumières du Nord » (Laurent Nabias, 09/12/2024), notes du 09/12 et du 16/12/2024 et diaporama du cours",
-    "fil_conducteur": "Du rire et de la touche libre de Hals aux intérieurs silencieux de De Hooch et Vermeer, le Siècle d'or hollandais fait de la lumière, de la morale des scènes de genre et du paysage (Ruisdael, Potter) l'image d'une jeune nation fière de son territoire et de ses vertus.",
-    "duree_estimee": "45-60 min",
+    "date_creation": "2026-11-10",
+    "id": "richelieu_1650-1720_vermeer-rembrandt-hollande",
+    "illustration": "cl010064918",
+    "titre": "[Louvre] [Aile Richelieu] [1650-1720] Vermeer, Rembrandt et la peinture hollandaise",
+    "cours_source": "Parcours personnel : l'école du Nord, aile Richelieu (2/2) ; Histoire générale de l'art 3 (XVIIe siècle), séance 13",
+    "fil_conducteur": "La peinture hollandaise du siècle d'or : scènes de genre et symbolique chez Vermeer, De Hooch et Mieris, paysage de Ruisdael et Post, autoportrait et Bethsabée de Rembrandt.",
+    "duree_estimee": "1h",
     "etapes": [
       {
         "oeuvre_id": "cl010064918",
@@ -5279,6 +4966,31 @@ window.PARCOURS = [
               "points": [
                 "Exaltation de la **vertu** : une femme qui travaille, c'est un intérieur bien tenu, comme un pays clos bien gouverné.",
                 "La concentration de la jeune femme est l'image de l'ordre domestique et moral."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010064324",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "L'Astronome est daté de 1668 et de 1673. Sa composition est rattachée à la gravure Faust de Rembrandt (1650-1652), qui l'a influencée : même motif du savant face à la lumière.",
+                "L'ensemble est un pendant approximatif du Géographe de Francfort.",
+                "Proposé à la cour de Louis XVI avec Le Géographe, le tableau est refusé par le responsable des acquisitions, qui le trouve « trop moche ».",
+                "Il faut attendre le XIXe siècle et Thoré-Bürger pour que Vermeer, tombé dans l'oubli, retrouve le succès."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un savant au travail est tourné vers la lumière filtrée par les vitraux : pour le cours, la recherche scientifique ne va pas sans la lumière de Dieu.",
+                "On reconnaît un globe céleste de Hondius (1600), un manuel d'astronomie de Metius (1621) ouvert sur le chapitre des étoiles, un compas et un astrolabe du XVIe siècle.",
+                "Au fond, le tableau Moïse sauvé des eaux fait allusion à la **Providence divine**, en contrepoint de l'activité du savant.",
+                "Le modèle a parfois été identifié, sans preuve, à Leeuwenhoek, que le cours cite comme proche de Vermeer et inventeur du microscope."
               ]
             }
           ]
@@ -5342,92 +5054,6 @@ window.PARCOURS = [
         }
       },
       {
-        "oeuvre_id": "cl010060266",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Frans Hals est un maître du portrait, de l'expressivité et de la spontanéité ; il innove dans le genre des **tronies**.",
-                "Le **tronié** est une étude de visage, souvent d'un inconnu, qui sert d'exercice pour travailler l'expressivité ou la lumière.",
-                "Il travaille la lumière, le mouvement et la composition asymétrique.",
-                "L'influence des **caravagesques d'Utrecht** se lit dans le cadrage à mi-corps, le fond neutre, l'éclairage latéral, le vêtement à rayures et le thème du musicien.",
-                "Mais Hals désaxe sa figure, ce qui lui donne une approche propre."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "Regardez la touche très épaisse des cheveux, qui donne un effet de mouvement.",
-                "Cette manière inspirera les impressionnistes et des peintres comme Fragonard."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "La Bohémienne est un portrait d'expression plus que d'identité, étude de visage où la figure est désaxée."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010064339",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "Frans Hals est un maître du portrait, de l'expressivité et de la spontanéité ; il innove dans le genre des **tronies**.",
-                "Le **tronié** est une étude de visage, souvent d'un inconnu, qui sert d'exercice pour travailler l'expressivité ou la lumière.",
-                "Il travaille la lumière, le mouvement et la composition asymétrique.",
-                "L'influence des **caravagesques d'Utrecht** se lit dans le cadrage à mi-corps, le fond neutre, l'éclairage latéral, le vêtement à rayures et le thème du musicien.",
-                "Mais Hals désaxe sa figure, ce qui lui donne une approche propre."
-              ]
-            },
-            {
-              "titre": "Composition",
-              "points": [
-                "La figure est désaxée : le corps et la tête ne regardent pas dans la même direction, ce qui crée du mouvement.",
-                "Regardez la touche très épaisse des cheveux, qui donne un effet de mouvement.",
-                "Cette manière inspirera les impressionnistes et des peintres de son époque, comme Fragonard."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Un musicien en buste est un thème typique des tronies : l'important est l'expression plutôt que la ressemblance."
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "oeuvre_id": "cl010064324",
-        "note": {
-          "sections": [
-            {
-              "titre": "Contexte",
-              "points": [
-                "L'Astronome est daté de 1668 et de 1673. Sa composition est rattachée à la gravure Faust de Rembrandt (1650-1652), qui l'a influencée : même motif du savant face à la lumière.",
-                "L'ensemble est un pendant approximatif du Géographe de Francfort.",
-                "Proposé à la cour de Louis XVI avec Le Géographe, le tableau est refusé par le responsable des acquisitions, qui le trouve « trop moche ».",
-                "Il faut attendre le XIXe siècle et Thoré-Bürger pour que Vermeer, tombé dans l'oubli, retrouve le succès."
-              ]
-            },
-            {
-              "titre": "Sujet",
-              "points": [
-                "Un savant au travail est tourné vers la lumière filtrée par les vitraux : pour le cours, la recherche scientifique ne va pas sans la lumière de Dieu.",
-                "On reconnaît un globe céleste de Hondius (1600), un manuel d'astronomie de Metius (1621) ouvert sur le chapitre des étoiles, un compas et un astrolabe du XVIe siècle.",
-                "Au fond, le tableau Moïse sauvé des eaux fait allusion à la **Providence divine**, en contrepoint de l'activité du savant.",
-                "Le modèle a parfois été identifié, sans preuve, à Leeuwenhoek, que le cours cite comme proche de Vermeer et inventeur du microscope."
-              ]
-            }
-          ]
-        }
-      },
-      {
         "oeuvre_id": "cl010059161",
         "note": {
           "sections": [
@@ -5454,6 +5080,101 @@ window.PARCOURS = [
                 "Un véritable **portrait de cheval**, sans cavalier : un étalon moucheté, de type espagnol avec du sang arabe ou berbère.",
                 "En contrebas à droite, un cerf buvant et deux biches ; ce cheval revient dans un autre tableau de 1649.",
                 "Il s'agit sans doute autant de représenter une race que de fixer l'image d'un cheval à la demande de son propriétaire."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062584",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Les Bulles de savon (1663) est une **vanité**, un memento mori : crânes, sabliers, bougies consumées, livres ou bulles de savon rappellent la précarité de l'existence et la futilité des richesses et du savoir.",
+                "La bulle de savon renvoie à un adage d'Érasme : l'homme est aussi fragile qu'une bulle. Elle se trouvait déjà dans l'estampe Quis evadet ? de Goltzius (1594, « qui lui échappera ? ») et dans la Vanité de Jacob de Gheyn II (1603), au-dessus du crâne.",
+                "Elle oppose l'**apparence** et l'être : la bulle n'a pas de réalité propre. Pour la pensée chrétienne, l'homme est une créature qui n'a pas son être en lui-même.",
+                "Mieris s'écarte de l'iconographie funeste : l'enfant qui souffle des bulles évoque une **enfance** aussi fragile qu'une bulle, et qui passe vite.",
+                "Ce motif fera florès : Chardin (1733-1734), puis Manet s'en inspireront."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Un jeune garçon fait des bulles de savon, avec un bouquet de fleurs : la scène est légère, mais le message reste celui de la brièveté de la vie.",
+                "Observez la bulle fragile et la figure qui la souffle."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062008",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Au début du capitalisme, la Hollande possède beaucoup de colonies.",
+                "Le paysage montre le **Brésil**, colonie alors très prospère.",
+                "Aux Pays-Bas, le paysage cherche à montrer un territoire où il fait bon vivre ; ici, l'image de la prospérité s'étend jusqu'aux colonies.",
+                "À rapprocher d'un tableau de Rembrandt représentant le fils d'un détenteur de colonie : la richesse coloniale nourrit aussi la commande.",
+                "Regardez la prospérité du Brésil telle que la Hollande veut la voir."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062020",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Rembrandt (1606-1679), peintre des Pays-Bas du Nord, explore les émotions humaines et maîtrise la lumière.",
+                "Il produit énormément, mais connaîtra beaucoup de drames personnels.",
+                "L'autoportrait est un moyen pratique et économique d'étudier à l'infini les expressions humaines.",
+                "Le **fond neutre** renvoie au portrait de Castiglione de Raphaël : Rembrandt s'inspire de Raphaël et de Titien, que l'on appelle par leur prénom, d'où sa signature au prénom seul."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Regardez le traité du **clair-obscur**.",
+                "La couleur est traitée par enduits dilués, sauf la chaîne en or, traitée par empâtements."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "La **chaîne en or** est un objet associé aux philosophes : elle pose la question de la place de l'artiste, alors membre de corporations et sans véritable statut ; on ne commence à lui en donner un qu'après la Renaissance.",
+                "Rembrandt se représente d'abord en noble ; à 54 ans, il se montre en peintre, en train de peindre."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010060453",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Le **mythe** : le roi David voit Bethsabée se baigner et demande à avoir accès à elle.",
+                "Elle vient de recevoir la lettre du roi David qui lui ordonne de le rejoindre.",
+                "**Rembrandt** (1606-1669) n'est pas allé en Italie, mais il est très influencé par le **caravagisme néerlandais** (Honthorst) : d'où sa maîtrise des effets de lumière.",
+                "Ce qui le fascine, ce sont les **émotions humaines**, toujours rendues avec une grande douceur ; il multiplie les autoportraits pour travailler les expressions.",
+                "Il se réapproprie des sources variées (Renaissance, caravagesques, peintres italiens) pour en faire une œuvre très personnelle."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Bethsabée est d'ordinaire représentée en séductrice ; ici, pas du tout : elle apparaît comme une **victime** qui connaît son sort, ce qui renouvelle le sujet par l'émotion et l'intériorité.",
+                "Regardez son attitude et la lettre qu'elle tient : tout le drame est dans ce qu'elle sait déjà."
               ]
             }
           ]
@@ -5532,6 +5253,35 @@ window.PARCOURS = [
         }
       },
       {
+        "oeuvre_id": "cl010064830",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Toile peinte entre 1800 et 1825, présentée aux Salons de 1806 et de 1814.",
+                "Girodet, élève de David comme Gros, illustre à lui seul la **porosité des frontières stylistiques** du début du XIXe siècle : héritage néoclassique et sensibilité romantique naissante se mêlent. Les définitions des styles sont complexes.",
+                "Cette hésitation, cet entre-deux, montre le romantisme se dégageant, encore retenu, du modèle néoclassique dominant."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "Toile de plus de quatre mètres de haut, sous un ciel d'orage zébré d'éclairs, dans un paysage rocheux balayé par la crue.",
+                "Une véritable œuvre romantique : personnages dans des teintes sombres, couleurs **juxtaposées** plutôt que fondues, mouvement général porteur d'une tension dramatique.",
+                "À observer : le personnage central garde les caractères du **néoclassicisme**, avec une pose maîtrisée, une anatomie idéalisée et un calme presque sculptural au milieu du chaos."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des personnages agrippés à un arbre face à la crue : une scène de déluge."
+              ]
+            }
+          ]
+        }
+      },
+      {
         "oeuvre_id": "cl010059199",
         "note": {
           "sections": [
@@ -5596,6 +5346,40 @@ window.PARCOURS = [
                 "Géricault représente son ami Alexandre Dieudonné, chasseur de la Garde impériale, homme de rang à la carrière lente sous la Révolution et l'Empire : non l'idéal, mais face à ses **accidents**. Il est sur son cheval en plein combat : « tombera, tombera pas ».",
                 "Ce n'est pas la victoire mais la chute du sol : un portrait équestre d'anonyme, élevé au rang d'héros, et surtout une lutte désespérée pour la survie.",
                 "Regardez son regard perdu, tandis qu'il tient les brides : les **fragments** d'individu, de violence et de souffrance sont le vrai sujet. Le drame personnel remplace l'héroïsme traditionnel et met en avant le déclin de la bravoure."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010062570",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Immense toile (plus de cinq mètres de haut), exposée au Salon de 1804. Commande de l'État pour **réhabiliter la campagne d'Égypte** dans l'opinion publique.",
+                "Gros, élève de David dont il reprendra l'atelier, devient la tête de l'entreprise qui transforme la peinture monumentale en **propagande officielle**. Après la Révolution, Vivant Denon organise le Salon et impose le retour à la grande peinture d'histoire : Gros l'emporte, avec une scène d'histoire contemporaine sans référence antique, très bien reçue.",
+                "La campagne : Bonaparte, en Syrie, combat l'Empire ottoman et prend Jaffa en 1799. C'est un échec : environ 2 000 morts turcs, les survivants se réfugient dans la citadelle, visible au fond sous un drapeau français.",
+                "La peste frappe environ 1 500 soldats français sur 13 000 ; Bonaparte est accusé de les avoir sacrifiés. Des survivants en parlent aux Anglais, qui diffusent l'affaire. Bonaparte ne peut pas nier : il revient sur l'importance de la campagne d'Égypte et de la diffusion de l'empire en Orient, et s'approprie l'opinion.",
+                "Gros se suicide en 1835, ne parvenant pas à s'accommoder de la nouvelle peinture d'histoire romantique."
+              ]
+            },
+            {
+              "titre": "Composition",
+              "points": [
+                "**Bonaparte au centre**, dans une frise antique ; son geste vient de l'*Apollon du Belvédère*, avec un effet christique, celui du Christ soignant les malades.",
+                "**Orientalisme** : de la campagne d'Égypte (1799) à la colonisation de l'Algérie, tout est nouveau, lumière, costumes, civilisation. L'Orient entre comme sujet de la peinture d'histoire.",
+                "Regardez les mourants et les cadavres : on est accueilli par la mort. À droite, un médecin mourant, un autre soigne un malade : un hôpital de fortune construit par l'armée française.",
+                "Le personnage en proie au doute, à gauche, peut venir de l'iconographie d'Ugolin chez Dante, qui s'offre à ses enfants enfermés avec lui à Pise. Le sang n'est pas représenté, mais les corps n'en sont pas moins cruels. On retrouvera ce personnage du doute dans le *Radeau de la Méduse*."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Gros traite un épisode peu glorieux de l'Empire mais en fait un **grand tableau d'histoire** : le méchant n'est pas Bonaparte, qui n'y pouvait rien, c'est la **peste**.",
+                "Ces hommes sont morts pour l'effort de guerre et pour la patrie. Le thème, repris par Géricault et Delacroix, servira à montrer les horreurs de la guerre.",
+                "Propagande, effets du sublime, morts : tout vise à favoriser le sentiment."
               ]
             }
           ]
@@ -5712,6 +5496,29 @@ window.PARCOURS = [
         }
       },
       {
+        "oeuvre_id": "cl010065870",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Présentée au Salon de 1824, toile de plus de quatre mètres de haut.",
+                "Delacroix est pleinement romantique, mais rattaché à une « filière orientaliste » tournée vers la Méditerranée : son inspiration et sa charge dramatique viennent d'un « ailleurs » géographique et culturel.",
+                "L'œuvre s'inscrit dans l'**internationalisation des regards artistiques** au XIXe siècle, alors que les expositions universelles mettent en contact des cultures visuelles éloignées.",
+                "Face au Bonaparte de Gros, vingt ans plus tôt, elle mesure le chemin parcouru entre un romantisme timide, contenu par l'héritage néoclassique, et une peinture pleinement assumée dans son engagement dramatique et politique."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Des familles grecques attendent la mort ou l'esclavage lors des massacres de la guerre d'indépendance grecque, sur l'île de Scio.",
+                "Un sujet d'actualité politique, traité avec une intensité émotionnelle et chromatique typiquement **romantique**."
+              ]
+            }
+          ]
+        }
+      },
+      {
         "oeuvre_id": "cl010065757",
         "note": {
           "sections": [
@@ -5740,6 +5547,30 @@ window.PARCOURS = [
                 "Le roi incarne la « noble simplicité, calme grandeur » de David : suicide, mais tout va bien, il reste calme tandis que femmes et soldats sont violentés.",
                 "Le romantisme ne fait pas table rase mais une **subversion** : une critique de la peinture d'histoire par l'histoire elle-même, rendue lisible au spectateur.",
                 "Dans la partie inférieure, le groupe des esclaves s'entre-tue avant d'aller sur le bûcher."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "oeuvre_id": "cl010065872",
+        "note": {
+          "sections": [
+            {
+              "titre": "Contexte",
+              "points": [
+                "Peinte à l'automne 1830 et exposée au Salon de 1831, elle commémore les **Trois Glorieuses** de juillet 1830.",
+                "Paradoxe : Delacroix, déjà installé comme artiste (« trop âgé » pour être un jeune insurgé), montre la Révolution « d'une autre manière » que ses prédécesseurs, par une allégorie intemporelle plutôt qu'un épisode daté et localisé.",
+                "L'image est devenue LA représentation de la Révolution dans l'imaginaire collectif, « trop rarement associée » à son contexte, le début de la monarchie de Juillet, plutôt qu'à 1789.",
+                "Sa persistance se voit dans la reprise par Martin Argyroglo pour son œuvre Nation, en une de L'Obs le 14 janvier 2015.",
+                "Une œuvre née d'un moment politique précis peut se détacher de son contexte et devenir une **image collective** réactivée à chaque crise, comme le sera la Vénus de Milo."
+              ]
+            },
+            {
+              "titre": "Sujet",
+              "points": [
+                "Une femme du peuple coiffée du **bonnet phrygien**, incarnation de la Liberté, mène un groupe hétéroclite par-dessus une barricade.",
+                "Elle tient le drapeau tricolore dans une main et un fusil à baïonnette dans l'autre."
               ]
             }
           ]
